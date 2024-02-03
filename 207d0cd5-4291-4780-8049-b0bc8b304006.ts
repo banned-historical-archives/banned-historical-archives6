@@ -1,0 +1,5 @@
+export default {
+  "resource_type": "music",
+  "metadata": {"name":"小司机","composer":"","description":"","lyrics":[{"lyricist":"","content":"小汽车呀真漂亮\n真呀真漂亮\n嘟嘟嘟嘟嘟嘟嘟 喇叭响\n我是汽车小司机\n我是小司机\n我为革命运输忙 运输忙\n车轮快如飞 马达放声唱\n运了大庆高产油\n又运大寨丰收粮\n又运大寨丰收粮\n小汽车呀真漂亮\n真呀真漂亮\n嘟嘟嘟嘟嘟嘟嘟 喇叭响\n我是汽车小司机\n我是小司机\n我为革命运输忙 运输忙\n手握方向盘 心向红太阳\n一路歌声一路笑\n胜利捷报传四方\n胜利捷报传四方\n小汽车呀真漂亮\n真呀真漂亮\n嘟嘟嘟嘟嘟嘟嘟 喇叭响\n我是汽车小司机\n我是小司机\n我为革命运输忙 运输忙\n嘟嘟嘟嘟 嘟嘟嘟嘟\n嘟嘟嘟嘟 嘟嘟嘟嘟 嘀\n","version":"原版","audios":[{"url":"https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/xiausiji.mp3","artist":"童声合唱 张东方词 苏勇曲","source":"http://ip.lidicity.com/hj/cn/hsjd.html#top"}]}],"id":"207d0cd5-4291-4780-8049-b0bc8b304006"},
+  "version": 2
+}

@@ -1,0 +1,5 @@
+export default {
+  "resource_type": "music",
+  "metadata": {"name":"毛委员和我们在一起","composer":"","description":"","lyrics":[{"lyricist":"","content":"红米饭那个南瓜汤哟\n咳啰咳\n挖野菜那个也当粮哟\n咳啰咳\n毛委员和我们在一起罗\n咳啰咳 咳\n餐餐味道香 味道香\n咳啰咳\n干稻草那个软又黄哟\n咳啰咳\n金丝被那个盖身上罗\n咳啰咳\n毛委员和我们在一起罗\n咳啰咳 咳\n心里暖洋洋 暖洋洋\n咳啰咳\n穿草鞋那个背土枪哟\n咳啰咳\n反围剿那个斗志旺罗\n咳啰咳\n毛委员和我们在一起罗\n咳啰咳 咳\n天天打胜仗 打胜仗\n打胜仗\n","version":"原版","audios":[{"url":"https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/maoweiyuanhewomenzai1qi.mp3","artist":"合唱 江西民歌","source":"http://ip.lidicity.com/hj/cn/hsjd.html#top"}]}],"id":"e0ac252a-65cf-4cf2-b89a-01f3bb4dd156"},
+  "version": 2
+}

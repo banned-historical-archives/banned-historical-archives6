@@ -1,0 +1,5 @@
+export default {
+  "resource_type": "music",
+  "metadata": {"name":"壮家少年热爱毛主席","composer":"","description":"","lyrics":[{"lyricist":"","content":"\n红艳艳的木棉在南疆开放\n壮家的少年在红旗下成长\n教室里 操场上\n好好学习 天天向上\n工厂里 田野上\n学工学农歌声嘹亮\n啊……\n壮家的少年像春天的花朵\n像茁壮的秧苗\n沐浴着灿烂的阳光\n\n红艳艳的木棉在南疆开放\n壮家的少年在红旗下成长\n学政治 学文化\n革命本领党培养\n心儿红 身体壮\n朝气蓬勃有理想\n啊……\n壮家的少年在祖国的怀抱\n在美丽的壮乡\n肩负着人民的希望\n\n木棉花迎春风\n红领巾披霞光\n壮家少年\n颗颗心儿向着红太阳\n毛主席啊毛主席\n壮家少年\n在您的关怀下幸福成长\n\n木棉花迎春风\n红领巾披霞光\n壮家少年\n颗颗心儿向着红太阳\n毛主席啊毛主席\n壮家少年\n在您的关怀下幸福成长\n在您的关怀下幸福成长\n","version":"原版","audios":[{"url":"https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/zhuangjiashaonianreaimaozhuxi.mp3","artist":"央广少年广播合唱团 曾宪瑞词 钟庆民曲","source":"http://ip.lidicity.com/hj/cn/hsjd.html#top"}]}],"id":"19390e20-91ac-4be7-a602-84fd11765eb8"},
+  "version": 2
+}
