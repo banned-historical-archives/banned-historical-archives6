@@ -1,5 +1,0 @@
-export default {
-  "resource_type": "music",
-  "metadata": {"name":"毛主席是我们心中的红太阳","composer":"","description":"","lyrics":[{"lyricist":"","content":"天上有了红太阳\n世上万物才能生长\n中国有了毛泽东\n各族人民才能得解放\n哎嗨  毛主席\n您是我们心中的红太阳\n\n天上有了红太阳\n世上万物才能生长\n中国有了毛泽东\n各族人民才能得解放\n哎嗨  毛主席\n您是我们心中的红太阳\n\n红太阳在北京  在北京\n光辉照耀各族人民\n万水千山都照亮\n五湖四海飘红旗\n五湖四海飘红旗\n\n红太阳在北京  在北京\n光辉照耀各族人民\n万水千山都照亮\n五湖四海飘红旗\n五湖四海飘红旗\n\n从边疆遥望北京城\n千万颗红心向北京\n各族人民热爱毛主席\n隔山隔水心连心 心连心\n哎嗨……\n毛主席领咱们走革命路\n世世代代永远跟着您\n","version":"原版","audios":[{"url":"https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/mzxnswmxzdhty.mp3","artist":"合唱 佚名词曲","source":"http://ip.lidicity.com/hj/cn/hsjd.html#top"}]}],"id":"bb27cb66-cb30-4ba5-a0ef-ee493573495e"},
-  "version": 2
-}

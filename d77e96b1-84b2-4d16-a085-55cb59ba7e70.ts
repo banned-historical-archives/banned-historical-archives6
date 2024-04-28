@@ -1,5 +1,0 @@
-export default {
-  "resource_type": "music",
-  "metadata": {"name":"我唱公社美景多","composer":"","description":"","lyrics":[{"lyricist":"","content":"哎 青山绿水惹人爱咧\n我赶着牛儿上山来耶\n青山绿水惹人爱\n我赶着牛儿上山来\n牛儿在山坡吃青草\n我把那山歌唱起来\n哎嗨哟 哎嗨哟\n我唱公社的美景多\n句句歌声出自那心窝窝呀\n穷山沟来荒山坡\n如今变成了金银窝\n新栽的鲜花香万里嘛\n满山的丰果红似火\n哎嗨哟 哎嗨哟\n青青的杨柳迎风摆\n碧绿的渠水绕山坡呀\n层层梯田山顶转\n土豆大豆金光闪\n雪白的棉花赛云朵\n沉沉的面筋人人乐\n哎嗨哟 哎嗨哟\n公社就是幸福桥\n山区人民过上了好生活呀\n哎 青山绿水惹人爱\n山歌越唱越开怀 哎\n","version":"原版","audios":[{"url":"https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wocanggongsemeijinduo.mp3","artist":"杜声洪 佚名词曲","source":"http://ip.lidicity.com/hj/cn/hsjd.html#top"}]}],"id":"d77e96b1-84b2-4d16-a085-55cb59ba7e70"},
-  "version": 2
-}

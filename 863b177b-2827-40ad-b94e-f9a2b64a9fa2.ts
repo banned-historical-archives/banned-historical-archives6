@@ -1,5 +1,0 @@
-export default {
-  "resource_type": "music",
-  "metadata": {"name":"草原上的红卫兵见到了毛主席","composer":"","description":"","lyrics":[{"lyricist":"","content":"我们是毛主席的红卫兵\n从草原来到天安门\n无边的旗海红似火\n战斗的歌声响入云\n是伟大的领袖毛主席\n领导我们闹革命\n啊哈嗬  啊哈嗬\n敬爱的毛主席\n不落的红太阳\n草原上人民热爱您\n海枯石烂不变心\n我们是毛主席的红卫兵\n从草原来到天安门\n无边的旗海红似火\n战斗的歌声响入云\n是伟大的领袖毛主席\n领导我们闹革命\n啊哈嗬  啊哈嗬\n敬爱的毛主席\n不落的红太阳\n草原上人民热爱您\n海枯石烂不变心\n红彤彤太阳从东方升起\n金色的阳光普满大地\n为什么太阳这样暖\n为什么热泪盈眶流不息\n是毛主席来到我们身边\n永远和我们在一起\n啊哈嗬  啊哈嗬\n敬爱的毛主席\n不落的红太阳\n草原上人民歌唱您\n万岁万岁毛主席\n啊哈嗬  啊哈嗬\n敬爱的毛主席\n不落的红太阳\n草原上人民歌唱您\n万岁万岁毛主席\n","version":"原版","audios":[{"url":"https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/cyshdhwbjdlmzhx.mp3","artist":"女声合唱 李德全词 高士衡曲","source":"http://ip.lidicity.com/hj/cn/hsjd.html#top"}]}],"id":"863b177b-2827-40ad-b94e-f9a2b64a9fa2"},
-  "version": 2
-}

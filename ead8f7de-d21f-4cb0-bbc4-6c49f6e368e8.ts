@@ -1,5 +1,0 @@
-export default {
-  "resource_type": "music",
-  "metadata": {"name":"毛主席啊，我们永远忠于您","composer":"","description":"","lyrics":[{"lyricist":"","content":"毛主席啊您是灿烂的太阳\n我们像葵花\n在您的阳光下幸福地开放\n您是光辉的北斗\n我们是群星\n紧紧地围绕在您的身旁\n您的思想是春天的雨露\n我们在您的哺育下\n茁壮地成长\n您亲手点燃的\n文化大革命的烈火\n把我们百炼成钢\n毛主席啊您是灿烂的太阳\n我们像葵花\n在您的阳光下幸福地开放\n您是光辉的北斗\n我们是群星\n紧紧地围绕在您的身旁\n您的思想是春天的雨露\n我们在您的哺育下\n茁壮地成长\n您亲手点燃的\n文化大革命的烈火\n把我们百炼成钢\n毛主席啊\n天上的群星啊永远朝北斗\n地上的葵花呀永远向太阳\n我们千遍欢呼万遍歌唱\n祝福毛主席万寿无疆\n毛主席啊\n天上的群星啊永远朝北斗\n地上的葵花呀永远向太阳\n我们千遍欢呼万遍歌唱\n祝福毛主席万寿无疆\n万寿无疆  万寿无疆\n祝福毛主席万寿无疆\n","version":"原版","audios":[{"url":"https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/mzhxawmyyzhyn.mp3","artist":"张振富、耿莲凤 洪源 刘薇 石祥词 唐诃 生茂曲","source":"http://ip.lidicity.com/hj/cn/hsjd.html#top"}]}],"id":"ead8f7de-d21f-4cb0-bbc4-6c49f6e368e8"},
-  "version": 2
-}

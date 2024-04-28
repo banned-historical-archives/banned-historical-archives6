@@ -1,5 +1,0 @@
-export default {
-  "resource_type": "music",
-  "metadata": {"name":"红旗颂","composer":"","description":"","lyrics":[{"lyricist":"","content":"红旗红旗革命的旗\n        烈士的鲜血染红了你\n        高举着红旗前仆后继\n        从胜利走向新的胜利\n        鲜红的旗 革命的旗\n        一代一代一代传下去\n        鲜红的旗 革命的旗\n        伟大的旗手是毛主席\n        \n        红旗红旗战斗的旗\n        指到哪里打到哪里\n        红旗下走着革命队伍\n        南征北战所向无敌\n        鲜红的旗 战斗的旗\n        一代一代一代传下去\n        鲜红的旗 战斗的旗\n        伟大的旗手是毛主席\n        \n        红旗红旗光荣的旗\n        指引着我们长征万里\n        红旗下面庄严宣誓\n        革命的意志坚定不移\n        鲜红的旗 光荣的旗\n        一代一代一代传下去\n        鲜红的旗 光荣的旗\n        伟大的旗手是毛主席\n        \n        红旗红旗胜利的旗\n        马列主义光辉普照大地\n        伟大的中国共产党\n        领导我们奔向共产主义\n        鲜红的旗 胜利的旗\n        一代一代一代传下去\n        鲜红的旗 胜利的旗\n        伟大的旗手是毛主席 毛主席","version":"原版","audios":[{"url":"https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/hongqisong.mp3","artist":"中央民族乐团合唱队 巩志伟词曲","source":"http://ip.lidicity.com/hj/cn/hsjd.html#top"}]}],"id":"49c7534d-e663-4468-961f-6c918bafc739"},
-  "version": 2
-}
