@@ -1,5 +1,0 @@
-export default {
-  "resource_type": "music",
-  "entity": {"name":"歌唱社会主义祖国","composer":"","description":"","lyrics":[{"lyricist":"","content":"五星红旗迎风飘扬\n革命歌声多么响亮\n歌唱我们社会主义祖国\n到处都是灿烂阳光\n我们伟大领袖毛泽东\n领导我们奔向前方\n越过高山  越过平原\n跨过奔腾的黄河长江\n七亿人民意气风发\n社会主义祖国蒸蒸日上\n军民团结  斗志昂扬\n谁敢侵犯我们就叫他灭亡\n五星红旗迎风飘扬\n革命歌声多么响亮\n歌唱我们社会主义祖国\n到处都是灿烂阳光\n我们伟大领袖毛泽东\n领导我们奔向前方\n无产阶级文化大革命\n开创了马列主义新篇章\n革命人民朝气蓬勃\n一代新人茁壮成长\n跟着毛主席  当革命闯将\n红彤彤的世界靠我们开创\n五星红旗迎风飘扬\n革命歌声多么响亮\n歌唱我们社会主义祖国\n到处都是灿烂阳光\n我们伟大领袖毛泽东\n领导我们奔向前方\n胸怀祖国  放眼世界\n共产主义是我们的理想\n光荣伟大的中国共产党\n是领导我们的核心力量\n毛泽东思想  光芒万丈\n照亮了我们的胜利航向\n五星红旗迎风飘扬\n革命歌声多么响亮\n歌唱我们社会主义祖国\n到处都是灿烂阳光\n我们伟大领袖毛泽东\n领导我们奔向前方\n","version":"原版","audios":[{"url":"https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/gechangshehuizhuyizuguo.mp3","artist":"合唱 集体改词 王莘曲","source":"http://ip.lidicity.com/hj/cn/hsjd.html#top"}]}],"id":"d599af26-c336-4cb3-a493-e6a3f229e432"},
-  "version": 2
-}
