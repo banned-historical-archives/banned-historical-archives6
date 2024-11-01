@@ -16,7 +16,7 @@ export default {
           {"url":
             "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/165我们永远是个战斗队 浙江省歌舞团.mp3",
             "artist":"浙江省歌舞团",
-            "source":""},
+            "source":""}
           ]}
           ],"id":"a95fe1bb-2f02"},
   "version": 2
