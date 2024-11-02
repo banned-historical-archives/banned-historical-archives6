@@ -1,0 +1,1 @@
+export default {"resource_type":"music","version":2,"entity":{"id":"53288a3b-f001-4c0a-8849-8785f17c992a","name":"我们多么幸福","composer":"","description":"","lyrics":[{"content":"","version":"原版","lyrictist":"","audios":[{"url":"https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/我们多么幸福.mp3","artist":"","source":""}]}]}};
