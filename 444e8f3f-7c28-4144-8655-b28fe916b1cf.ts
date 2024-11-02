@@ -1,0 +1,1 @@
+export default {"resource_type":"music","version":2,"entity":{"id":"444e8f3f-7c28-4144-8655-b28fe916b1cf","name":"五好工人歌","composer":"","description":"","lyrics":[{"content":"","version":"原版","lyrictist":"","audios":[{"url":"https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/687五好工人歌 浙江民间歌舞团.mp3","artist":"浙江民间歌舞团","source":""}]}]}};
