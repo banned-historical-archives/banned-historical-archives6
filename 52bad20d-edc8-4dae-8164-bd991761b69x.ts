@@ -2,8 +2,8 @@ export default {
   "resource_type": "music",
   "version": 2,
   "entity": {
-    "id": "39a76c93-db33-4015-a8e4-a41321a712e2",
-    "name": "革命文艺家的基本任务",
+    "id": "52bad20d-edc8-4dae-8164-bd991761b69b",
+    "name": "日夜想念毛主席",
     "composer": "",
     "description": "",
     "lyrics": [
@@ -13,7 +13,7 @@ export default {
         "lyrictist": "",
         "audios": [
           {
-            "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl35革命文艺家的基本任务.mp3",
+            "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/riyexiangnianmaozhuxi_2.mp3",
             "artist": "",
             "source": ""
           }
