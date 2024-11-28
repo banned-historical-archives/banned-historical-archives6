@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8ffc85b0-7156-4438-a4fe-252f47b3b83d',
     name: '决不能让他们自由泛滥',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

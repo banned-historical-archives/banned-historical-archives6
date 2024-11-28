@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '3bdac1dc-b37c-49b6-b623-b6d713cf8359',
     name: '掀起文化革命大高潮',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

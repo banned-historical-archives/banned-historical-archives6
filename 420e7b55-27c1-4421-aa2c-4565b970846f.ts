@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '420e7b55-27c1-4421-aa2c-4565b970846f',
     name: '毛主席派来解放军',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

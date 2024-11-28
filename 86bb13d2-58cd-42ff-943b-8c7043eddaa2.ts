@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '86bb13d2-58cd-42ff-943b-8c7043eddaa2',
     name: '要相信和依靠群众',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

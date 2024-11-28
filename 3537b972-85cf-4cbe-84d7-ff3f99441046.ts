@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '3537b972-85cf-4cbe-84d7-ff3f99441046',
     name: '政策和策略是党的生命',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

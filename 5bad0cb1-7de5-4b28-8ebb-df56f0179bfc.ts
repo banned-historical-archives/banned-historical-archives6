@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5bad0cb1-7de5-4b28-8ebb-df56f0179bfc',
     name: '毛主席著作最伟大',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

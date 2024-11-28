@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f349fa2e-7436-4b82-9047-c4bf7d965ae3',
     name: '我们还要有文化的军队',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

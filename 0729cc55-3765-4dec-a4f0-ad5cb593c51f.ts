@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '0729cc55-3765-4dec-a4f0-ad5cb593c51f',
     name: '胜利全靠党指引',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

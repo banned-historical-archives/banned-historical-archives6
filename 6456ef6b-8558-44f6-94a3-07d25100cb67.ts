@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '6456ef6b-8558-44f6-94a3-07d25100cb67',
     name: '手捧珍藏的毛主席像',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

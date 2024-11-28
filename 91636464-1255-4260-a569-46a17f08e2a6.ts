@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '91636464-1255-4260-a569-46a17f08e2a6',
     name: '这里是毛主席来过的地方',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

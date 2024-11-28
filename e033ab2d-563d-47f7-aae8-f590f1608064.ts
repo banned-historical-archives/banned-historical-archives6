@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'e033ab2d-563d-47f7-aae8-f590f1608064',
     name: '因为我们是为人民服务的',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -31,7 +30,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

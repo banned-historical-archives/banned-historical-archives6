@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '6d815232-1c5a-4fab-b9bf-5eaa5379aa68',
     name: '鲜花献给唐山抗震救灾抢修先锋连',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

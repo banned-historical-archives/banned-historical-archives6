@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '70373e42-746e-4e82-9005-2071ea53a9ba',
     name: '永远在毛主席身边',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

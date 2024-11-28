@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '104efc6d-17b0-4ffc-81a4-68fbf1ce24ad',
     name: '大学还是要办的',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

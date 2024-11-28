@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd8574c93-5dc8-441a-a87b-a29a794a1067',
     name: '山山水水连北京',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

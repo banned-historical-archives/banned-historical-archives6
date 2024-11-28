@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a51dc360-f196-4792-a019-e0e00fe2ab84',
     name: '蔡永祥是革命的好后代',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

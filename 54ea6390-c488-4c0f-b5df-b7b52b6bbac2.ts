@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '54ea6390-c488-4c0f-b5df-b7b52b6bbac2',
     name: '敌人是不会自行消灭的',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

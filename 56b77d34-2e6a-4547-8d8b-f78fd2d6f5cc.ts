@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '56b77d34-2e6a-4547-8d8b-f78fd2d6f5cc',
     name: '没有一个人民的军队，便没有人民的一切',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

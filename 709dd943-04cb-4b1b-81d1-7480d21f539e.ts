@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '709dd943-04cb-4b1b-81d1-7480d21f539e',
     name: '毛主席和我们在一起',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

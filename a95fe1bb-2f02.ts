@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '我们永远是个战斗队',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '',
         version: '原版',
         audios: [
@@ -33,9 +31,11 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
     id: 'a95fe1bb-2f02',
+    composers: [],
   },
   version: 2,
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '4859c822-aa9b-405d-9f14-74f05e6c16c6',
     name: '永远歌唱伟大领袖毛主席',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

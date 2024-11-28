@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '491e1dd2-ccdc-4a8b-a936-a6b193caa4b8',
     name: '知识青年到农村去',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5d20c9ee-eae5-407f-9f87-eafb36ffd5c5',
     name: '红小兵越战越坚强',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

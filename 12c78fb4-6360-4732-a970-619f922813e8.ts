@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '12c78fb4-6360-4732-a970-619f922813e8',
     name: '我们是半工半读的学生',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

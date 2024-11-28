@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ebd4efb0-cafc-4f0e-9063-d9c17e02fb86',
     name: '韶山升起红太阳',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

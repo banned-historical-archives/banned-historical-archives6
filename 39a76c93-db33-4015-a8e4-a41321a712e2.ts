@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '39a76c93-db33-4015-a8e4-a41321a712e2',
     name: '革命文艺家的基本任务',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

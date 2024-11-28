@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'bae9ae9a-df81-4186-b7ba-dd1f6bd83cea',
     name: '毛主席号召农业学大寨',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

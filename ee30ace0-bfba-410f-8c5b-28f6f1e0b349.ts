@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ee30ace0-bfba-410f-8c5b-28f6f1e0b349',
     name: '工农兵是批林批孔的主力军',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

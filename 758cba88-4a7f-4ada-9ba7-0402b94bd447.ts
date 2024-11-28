@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '758cba88-4a7f-4ada-9ba7-0402b94bd447',
     name: '团结胜利之歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

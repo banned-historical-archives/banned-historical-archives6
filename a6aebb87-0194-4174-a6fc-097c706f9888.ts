@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a6aebb87-0194-4174-a6fc-097c706f9888',
     name: '把学校办成毛泽东思想的大学校',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

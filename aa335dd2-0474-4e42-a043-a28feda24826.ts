@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'aa335dd2-0474-4e42-a043-a28feda24826',
     name: '人民解放军应该支持左派广大群众',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

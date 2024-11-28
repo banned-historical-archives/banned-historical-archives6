@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f62770e6-ac5f-42b9-8703-1074efe5d58b',
     name: '我们的祖国在前进',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '444e8f3f-7c28-4144-8655-b28fe916b1cf',
     name: '五好工人歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

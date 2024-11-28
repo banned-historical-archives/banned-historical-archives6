@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '24b2b0ae-9071-4e45-94a4-705fcacdf319',
     name: '学习井冈革命人',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

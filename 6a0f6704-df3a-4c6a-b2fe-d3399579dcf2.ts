@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '6a0f6704-df3a-4c6a-b2fe-d3399579dcf2',
     name: '紧跟伟大领袖毛主席奋勇前进',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

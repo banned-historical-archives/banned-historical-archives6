@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '89348d19-1e1c-4681-888c-7be34e9ca751',
     name: '井冈红旗代代传',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

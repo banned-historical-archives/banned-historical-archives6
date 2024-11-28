@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'e813ef1d-932e-4ee8-a55d-d37dc42365d7',
     name: '要使文艺成为消灭敌人的有力武器',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

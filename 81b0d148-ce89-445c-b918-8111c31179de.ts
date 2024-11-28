@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '81b0d148-ce89-445c-b918-8111c31179de',
     name: '献给毛主席纪念堂',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

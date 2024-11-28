@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ab2e84db-5b74-40b2-9141-efe157a9f5fe',
     name: '自力更生',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

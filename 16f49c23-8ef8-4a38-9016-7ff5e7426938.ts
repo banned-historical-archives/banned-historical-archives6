@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '16f49c23-8ef8-4a38-9016-7ff5e7426938',
     name: '水家人民歌唱毛主席',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

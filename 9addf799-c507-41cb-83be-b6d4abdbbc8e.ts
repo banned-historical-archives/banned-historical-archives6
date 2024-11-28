@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '我爱北京天安门',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '我爱北京天安门\n天安门上太阳升\n伟大领袖毛主席\n指引我们向前进\n我爱北京天安门\n天安门上太阳升\n伟大领袖毛主席\n指引我们向前进\n我爱北京天安门\n天安门上太阳升\n伟大领袖毛主席\n指引我们向前进\n我爱北京天安门\n天安门上太阳升\n伟大领袖毛主席\n指引我们向前进\n我爱北京天安门\n天安门上太阳升\n伟大领袖毛主席\n指引我们向前进\n',
         version: '原版',
         audios: [
@@ -24,9 +22,11 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
     id: '9addf799-c507-41cb-83be-b6d4abdbbc8e',
+    composers: [],
   },
   version: 2,
 };

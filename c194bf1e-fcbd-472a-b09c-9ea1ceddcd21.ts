@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c194bf1e-fcbd-472a-b09c-9ea1ceddcd21',
     name: '保持艰苦奋斗的作风',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

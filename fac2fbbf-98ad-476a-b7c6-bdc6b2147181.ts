@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'fac2fbbf-98ad-476a-b7c6-bdc6b2147181',
     name: '毛主席永远活在红小兵的心里',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

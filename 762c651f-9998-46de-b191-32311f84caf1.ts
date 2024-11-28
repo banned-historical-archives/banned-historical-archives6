@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '762c651f-9998-46de-b191-32311f84caf1',
     name: '为巩固无产阶级专政奋勇斗争',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

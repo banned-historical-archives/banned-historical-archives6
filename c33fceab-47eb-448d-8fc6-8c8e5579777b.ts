@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c33fceab-47eb-448d-8fc6-8c8e5579777b',
     name: '革命不是请客吃饭',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

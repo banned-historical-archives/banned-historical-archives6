@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '70003312-7322-4ca0-8418-83fffd0cb307',
     name: '五七干校老羊倌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

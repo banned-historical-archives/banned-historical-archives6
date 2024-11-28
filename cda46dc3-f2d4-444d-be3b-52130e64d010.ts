@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'cda46dc3-f2d4-444d-be3b-52130e64d010',
     name: '看见了毛委员',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

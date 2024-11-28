@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '710553b8-5ea3-4030-81e9-f665c96bc2e6',
     name: '三面红旗放光芒',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

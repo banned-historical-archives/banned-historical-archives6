@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '9fee9c6a-3f30-49c2-b802-9cd7104c8d87',
     name: '越看越爱毛主席',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

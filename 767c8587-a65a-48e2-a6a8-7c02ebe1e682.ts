@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '767c8587-a65a-48e2-a6a8-7c02ebe1e682',
     name: '派军队干部训练革命师生的方法很好',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

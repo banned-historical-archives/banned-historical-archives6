@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ba30c8f6-e412-4f9c-b22f-ef3b90887c2b',
     name: '毛泽东思想是我们心中永远不落的红太阳',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

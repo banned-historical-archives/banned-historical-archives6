@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '75bf906e-09b5-49c0-87e3-df5f4d6e42ba',
     name: '歌唱毛主席歌唱共产党',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

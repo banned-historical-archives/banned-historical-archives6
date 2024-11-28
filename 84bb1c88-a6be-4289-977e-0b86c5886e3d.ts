@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '84bb1c88-a6be-4289-977e-0b86c5886e3d',
     name: '五七战士上山来',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'eb732fe0-5af4-49f3-92d9-2a2cb89c5812',
     name: '解放军亚莫热',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

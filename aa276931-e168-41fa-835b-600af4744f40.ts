@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'aa276931-e168-41fa-835b-600af4744f40',
     name: '永远忠于毛主席',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

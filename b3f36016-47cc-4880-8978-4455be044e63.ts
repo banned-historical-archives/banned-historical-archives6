@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'b3f36016-47cc-4880-8978-4455be044e63',
     name: '目前正当春耕时节',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

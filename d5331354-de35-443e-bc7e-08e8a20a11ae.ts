@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd5331354-de35-443e-bc7e-08e8a20a11ae',
     name: '我们这个军队之所以有力量',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

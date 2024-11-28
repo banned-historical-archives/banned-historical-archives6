@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c60e9547-4afc-4b93-a4ce-7244c150e660',
     name: '纪念白求恩',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

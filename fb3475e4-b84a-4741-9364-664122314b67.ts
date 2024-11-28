@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'fb3475e4-b84a-4741-9364-664122314b67',
     name: '艰苦奋斗是我们的政治本色',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

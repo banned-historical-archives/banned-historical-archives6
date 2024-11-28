@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'cf672687-52b9-41f8-ad8b-96472b4b5740',
     name: '各族人民心向纪念堂',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

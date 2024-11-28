@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '356833a3-66b7-49fb-a129-0bf76cab1edb',
     name: '必须把粮食、棉花、布匹抓紧',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

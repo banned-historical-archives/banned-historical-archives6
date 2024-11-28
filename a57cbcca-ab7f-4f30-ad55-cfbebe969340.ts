@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a57cbcca-ab7f-4f30-ad55-cfbebe969340',
     name: '毛主席指引大寨路',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

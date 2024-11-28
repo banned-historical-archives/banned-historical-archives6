@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd8f1e26a-99c3-4879-8353-4cce6018a071',
     name: '我为革命站柜台',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

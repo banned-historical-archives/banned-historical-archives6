@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '0ad1b9aa-a2a5-493e-a232-7f9e6b534590',
     name: '革命战士下乡来',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

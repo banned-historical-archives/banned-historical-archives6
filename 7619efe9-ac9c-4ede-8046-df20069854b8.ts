@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '7619efe9-ac9c-4ede-8046-df20069854b8',
     name: '把他们看作国家和社会的宝贵财富',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

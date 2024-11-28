@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '9b9b996f-097d-4f2d-a9d7-9a5ca6f72a6c',
     name: '团结－批评和自我批评－团结',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

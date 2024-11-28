@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '49e5602b-7f96-4874-90cc-cdbcd9bec267',
     name: '毛主席的石油战士是硬骨头',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

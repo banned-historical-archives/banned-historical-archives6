@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '25baa640-aca3-489e-8197-5e009987760e',
     name: '我们祖国到处是春天',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

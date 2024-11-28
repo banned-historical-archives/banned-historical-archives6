@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '3bba8bbb-358c-4c45-91e9-cdf99959b972',
     name: '要把立足点移到工农兵这方面来',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

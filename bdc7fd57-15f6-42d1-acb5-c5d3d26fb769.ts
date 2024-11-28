@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'bdc7fd57-15f6-42d1-acb5-c5d3d26fb769',
     name: '毛主席的光芒照在我老汉的心坎上',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

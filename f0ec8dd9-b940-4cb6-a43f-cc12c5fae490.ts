@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f0ec8dd9-b940-4cb6-a43f-cc12c5fae490',
     name: '我终生把您歌唱',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

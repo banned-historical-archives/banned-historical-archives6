@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '6e759ffd-7ae9-4976-b00f-ee3161d41217',
     name: '空降兵战歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

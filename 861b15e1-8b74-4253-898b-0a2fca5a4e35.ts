@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '861b15e1-8b74-4253-898b-0a2fca5a4e35',
     name: '无产阶级文化大革命实质上是政治大革命',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

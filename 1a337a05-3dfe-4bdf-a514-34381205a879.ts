@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1a337a05-3dfe-4bdf-a514-34381205a879',
     name: '满怀激情迎九大',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

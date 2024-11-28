@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '7d28f1b4-3fa1-4b23-8aff-7e2170d49761',
     name: '党的光辉照亮了我们心田',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

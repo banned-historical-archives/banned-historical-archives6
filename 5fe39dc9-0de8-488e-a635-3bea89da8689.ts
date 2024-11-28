@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5fe39dc9-0de8-488e-a635-3bea89da8689',
     name: '胜利永远属于我们',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

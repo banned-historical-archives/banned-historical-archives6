@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '0883ce1a-78eb-4e42-995d-a43c381e6159',
     name: '跟着毛主席，永走长征路',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

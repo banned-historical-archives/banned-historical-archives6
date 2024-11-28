@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '45c6d743-5430-4534-ab94-a9659614c0b5',
     name: '公社办起小工厂',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

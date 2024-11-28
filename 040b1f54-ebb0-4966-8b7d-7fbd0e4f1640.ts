@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '040b1f54-ebb0-4966-8b7d-7fbd0e4f1640',
     name: '我们的文学艺术首先是为工农兵的',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

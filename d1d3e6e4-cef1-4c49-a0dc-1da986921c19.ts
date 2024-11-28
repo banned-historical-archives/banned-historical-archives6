@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd1d3e6e4-cef1-4c49-a0dc-1da986921c19',
     name: '掀起革命大批判新高潮',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

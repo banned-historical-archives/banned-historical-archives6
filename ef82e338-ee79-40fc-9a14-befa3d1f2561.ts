@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ef82e338-ee79-40fc-9a14-befa3d1f2561',
     name: '五好工人心最紅',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '4933f117-4b17-4462-a05c-185b390323a2',
     name: '五七战士胸怀朝阳',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

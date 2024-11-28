@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'db311b72-2468-4e6d-b796-79be87e51f14',
     name: '文化大革命凯歌响彻大地',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

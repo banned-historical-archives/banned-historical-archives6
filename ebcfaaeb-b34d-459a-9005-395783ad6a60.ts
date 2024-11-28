@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ebcfaaeb-b34d-459a-9005-395783ad6a60',
     name: '我们最爱毛主席',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

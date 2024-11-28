@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '66dad2d3-7b1d-4a13-9242-994ae8e06353',
     name: '总路线光芒照四方',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c0ec7d5b-4ae2-426e-a591-4d741843d7f3',
     name: '毛主席率领我们奔向前方',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

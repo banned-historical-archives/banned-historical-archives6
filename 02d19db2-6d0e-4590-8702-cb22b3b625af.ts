@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '02d19db2-6d0e-4590-8702-cb22b3b625af',
     name: '独立自主，自立更生',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ebaf86ef-2562-4491-81b4-e3da9be06882',
     name: '金色的太阳照边疆',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

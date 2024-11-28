@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a8e6f02d-21de-4159-a139-dc379ebd240b',
     name: '毛主席率领我们反潮流',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

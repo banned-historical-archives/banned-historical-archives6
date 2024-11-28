@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8e53ca19-6215-4eb3-bc77-7e0fec1f1750',
     name: '毛主席是世界人民的北斗星',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '209a0a30-ac9f-4f40-93d5-2e9cc4a29a65',
     name: '革命委员会好',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

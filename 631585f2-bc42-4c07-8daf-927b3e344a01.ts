@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '631585f2-bc42-4c07-8daf-927b3e344a01',
     name: '团结就是力量团结就是胜利',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

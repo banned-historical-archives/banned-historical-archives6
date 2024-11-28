@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '329b712a-51e6-4724-a480-da9d6150a580',
     name: '政治不改革,一切生产力都遭到破坏的命运',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

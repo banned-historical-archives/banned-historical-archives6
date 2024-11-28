@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '08b438b3-cddf-4078-b005-45624e6d023e',
     name: '必须到工农兵群众中去',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

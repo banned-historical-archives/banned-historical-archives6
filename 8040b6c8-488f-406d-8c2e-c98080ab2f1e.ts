@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8040b6c8-488f-406d-8c2e-c98080ab2f1e',
     name: '必须注意政策',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '801fa14e-1843-43d0-993c-7b0112187bc5',
     name: '一轮红日从韶山升起',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

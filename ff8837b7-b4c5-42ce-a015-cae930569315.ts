@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ff8837b7-b4c5-42ce-a015-cae930569315',
     name: '天山儿女怀念毛主席',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

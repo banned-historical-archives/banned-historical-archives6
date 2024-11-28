@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5cf949dc-c4ea-4705-8745-94f1d3875ca7',
     name: '要复课闹革命',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

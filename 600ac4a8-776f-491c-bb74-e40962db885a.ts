@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '600ac4a8-776f-491c-bb74-e40962db885a',
     name: '毛主席怎样说的，我就怎样',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

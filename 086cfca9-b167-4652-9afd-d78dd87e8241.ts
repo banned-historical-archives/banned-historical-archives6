@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '086cfca9-b167-4652-9afd-d78dd87e8241',
     name: '我们是红色的青年',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

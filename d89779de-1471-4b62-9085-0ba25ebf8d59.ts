@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd89779de-1471-4b62-9085-0ba25ebf8d59',
     name: '毛主席著作威力最大',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

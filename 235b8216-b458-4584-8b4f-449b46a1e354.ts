@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '235b8216-b458-4584-8b4f-449b46a1e354',
     name: '革命红旗代代传（一）',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

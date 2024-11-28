@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd1b737bf-2fcf-4aac-8f62-145c439b4f1d',
     name: '吃苦在别人前头，享受在别人后头',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

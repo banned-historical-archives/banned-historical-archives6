@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '6810ef12-e4d0-4d67-989d-925334e1d691',
     name: '大港石油工人战歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

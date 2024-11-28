@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '7bebbf34-38fa-4359-977a-b7fc92eec6d0',
     name: '永远不能忘',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

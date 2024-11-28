@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8f0050bd-9438-4a69-b577-9a5004f7613a',
     name: '毛主席登上庐山顶',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

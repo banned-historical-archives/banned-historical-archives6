@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'bc104695-ac9e-444e-ac30-ea49fa2111b8',
     name: '歌唱英雄吕祥璧',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

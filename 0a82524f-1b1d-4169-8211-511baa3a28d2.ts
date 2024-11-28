@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '0a82524f-1b1d-4169-8211-511baa3a28d2',
     name: '红太阳照亮了祖国海疆',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

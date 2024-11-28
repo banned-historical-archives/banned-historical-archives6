@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'dbc4e862-ab85-4c2b-abee-bde9076ab586',
     name: '蔡永祥真英雄',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

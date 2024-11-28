@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'eb23fd79-6600-4110-9ac1-dd1307cc4f44',
     name: '这个运动规模很大',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

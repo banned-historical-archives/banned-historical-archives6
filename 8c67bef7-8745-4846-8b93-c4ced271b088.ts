@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8c67bef7-8745-4846-8b93-c4ced271b088',
     name: '党的阳光照耀着祖国',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8574d124-b535-49c9-aa6e-7860023126bd',
     name: '革命青年之歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

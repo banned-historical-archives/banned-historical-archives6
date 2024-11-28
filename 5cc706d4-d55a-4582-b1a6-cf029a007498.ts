@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5cc706d4-d55a-4582-b1a6-cf029a007498',
     name: '我们是毛主席的红小兵',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

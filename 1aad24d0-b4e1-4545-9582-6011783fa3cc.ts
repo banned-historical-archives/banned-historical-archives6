@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1aad24d0-b4e1-4545-9582-6011783fa3cc',
     name: '我是公社的放牧员',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ad4b3596-ebc4-4bab-bc43-3b38d8cd7a7e',
     name: '领导我们事业的核心力量',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

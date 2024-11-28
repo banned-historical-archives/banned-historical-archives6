@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1736802c-1a2a-4c58-9cd7-3a042a22eb1c',
     name: '向阳花',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

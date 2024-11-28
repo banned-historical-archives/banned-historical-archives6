@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f0bf02fe-631a-4c19-99c1-f12320a91abd',
     name: '毛泽东思想永放光辉',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

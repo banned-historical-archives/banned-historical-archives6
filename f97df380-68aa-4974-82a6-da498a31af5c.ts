@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f97df380-68aa-4974-82a6-da498a31af5c',
     name: '毛主席我们永远热爱您',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

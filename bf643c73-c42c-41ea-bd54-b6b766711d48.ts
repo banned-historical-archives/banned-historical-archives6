@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'bf643c73-c42c-41ea-bd54-b6b766711d48',
     name: '青春战歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

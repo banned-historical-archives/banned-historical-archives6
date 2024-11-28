@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '34d9b19f-41ea-4296-8bec-10f7d7a3711c',
     name: '绣上毛主席万岁',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

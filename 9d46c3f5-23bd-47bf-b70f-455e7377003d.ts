@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '9d46c3f5-23bd-47bf-b70f-455e7377003d',
     name: '人民战士心似火',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '2e6d3906-62a7-4c07-88c8-afb10651c2e1',
     name: '我们是伟大的人民解放军',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '166b4ea4-8798-4b6b-8da6-fc27658c7806',
     name: '我们是革命的硬骨头',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

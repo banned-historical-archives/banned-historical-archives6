@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '26ece26f-eeed-479b-9f0b-2e2628d677e1',
     name: '向新的胜利进军',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

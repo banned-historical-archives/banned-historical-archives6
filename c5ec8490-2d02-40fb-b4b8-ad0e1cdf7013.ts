@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c5ec8490-2d02-40fb-b4b8-ad0e1cdf7013',
     name: '毛泽东思想武装的军队所向无敌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

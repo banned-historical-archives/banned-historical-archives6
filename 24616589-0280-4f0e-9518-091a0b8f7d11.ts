@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '24616589-0280-4f0e-9518-091a0b8f7d11',
     name: '瑶家歌颂毛主席',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

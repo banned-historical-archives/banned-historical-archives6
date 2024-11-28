@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '2004ef44-8a18-4b7d-b14d-19be5b8a9a38',
     name: '毛主席像章胸前戴',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

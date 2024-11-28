@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1cd3b98e-a548-41e9-8e0e-173ad60ecb2b',
     name: '工人叔叔给我小蜡笔',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

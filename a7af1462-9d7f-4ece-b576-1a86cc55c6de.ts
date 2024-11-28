@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a7af1462-9d7f-4ece-b576-1a86cc55c6de',
     name: '步调一致向胜利',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

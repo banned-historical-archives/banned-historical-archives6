@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'eb5fccb1-c10f-45581',
     name: '举国欢腾庆胜利',
-    composer: '',
     description: '',
     tags: [],
     lyrics: [
@@ -27,7 +26,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

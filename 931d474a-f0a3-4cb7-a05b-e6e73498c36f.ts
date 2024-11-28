@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '931d474a-f0a3-4cb7-a05b-e6e73498c36f',
     name: '学习英雄蔡永祥',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

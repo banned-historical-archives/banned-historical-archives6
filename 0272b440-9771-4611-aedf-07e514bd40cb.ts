@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '0272b440-9771-4611-aedf-07e514bd40cb',
     name: '太阳光芒照瑶寨',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

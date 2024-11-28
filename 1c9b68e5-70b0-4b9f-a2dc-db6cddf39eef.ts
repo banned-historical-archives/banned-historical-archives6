@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1c9b68e5-70b0-4b9f-a2dc-db6cddf39eef',
     name: '各自多做自我批评',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

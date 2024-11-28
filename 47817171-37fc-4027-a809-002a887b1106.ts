@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '47817171-37fc-4027-a809-002a887b1106',
     name: '红小兵永远怀念毛主席',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

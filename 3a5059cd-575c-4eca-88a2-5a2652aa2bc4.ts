@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '3a5059cd-575c-4eca-88a2-5a2652aa2bc4',
     name: '永做革命火车头',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

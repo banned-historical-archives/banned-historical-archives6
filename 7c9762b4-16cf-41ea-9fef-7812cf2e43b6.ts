@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '7c9762b4-16cf-41ea-9fef-7812cf2e43b6',
     name: '侥幸取胜的心理，必须扫除干净',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

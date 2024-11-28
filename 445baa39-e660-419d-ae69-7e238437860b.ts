@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '445baa39-e660-419d-ae69-7e238437860b',
     name: '学习白求恩毫无自私自利的精神',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

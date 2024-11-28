@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '2ca3af3f-deaf-4ce6-aca7-41ad3589c49a',
     name: '歌唱我们的祖国',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

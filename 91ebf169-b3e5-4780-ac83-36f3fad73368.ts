@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '91ebf169-b3e5-4780-ac83-36f3fad73368',
     name: '咱们爱读“老三篇”',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

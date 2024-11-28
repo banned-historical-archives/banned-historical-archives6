@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '9aad760b-ec15-4960-ac5c-1ac1c1c96912',
     name: '伟大的长城',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

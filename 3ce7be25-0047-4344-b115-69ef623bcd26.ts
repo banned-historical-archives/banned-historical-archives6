@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '3ce7be25-0047-4344-b115-69ef623bcd26',
     name: '办学习班，是个好办法',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

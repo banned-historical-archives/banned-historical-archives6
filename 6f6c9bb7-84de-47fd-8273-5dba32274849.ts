@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '6f6c9bb7-84de-47fd-8273-5dba32274849',
     name: '毛泽东思想照亮了南崔庄',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

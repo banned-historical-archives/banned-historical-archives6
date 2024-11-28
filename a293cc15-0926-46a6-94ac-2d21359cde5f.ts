@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a293cc15-0926-46a6-94ac-2d21359cde5f',
     name: '青年应该把坚定正确的政治方向放在第一位',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5903725f-ad16-4ec0-8749-c2023a6ec91f',
     name: '永远学习老三篇',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

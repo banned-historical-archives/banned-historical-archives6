@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '0deb038c-55dc-4797-86a0-d4e26d534a5c',
     name: '全世界人民团结起来',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

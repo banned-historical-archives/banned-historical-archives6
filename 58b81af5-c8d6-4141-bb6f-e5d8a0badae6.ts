@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '58b81af5-c8d6-4141-bb6f-e5d8a0badae6',
     name: '我们是祖国的空中哨兵',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

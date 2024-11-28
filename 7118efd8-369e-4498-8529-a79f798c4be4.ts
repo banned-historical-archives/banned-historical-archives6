@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '7118efd8-369e-4498-8529-a79f798c4be4',
     name: '生活在毛泽东时代',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

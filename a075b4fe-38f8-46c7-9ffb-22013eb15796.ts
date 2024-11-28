@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a075b4fe-38f8-46c7-9ffb-22013eb15796',
     name: '全民皆兵就是好',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

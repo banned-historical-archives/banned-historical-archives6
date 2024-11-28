@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f5a89559-787a-4772-84c1-879dab70e3ca',
     name: '要斗私批修',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ad8cc430-5944-4e15-ad83-4970f9a124ec',
     name: '造成一种风气',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

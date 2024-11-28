@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '692b0e94-1b9f-4289-b6d8-2bdbfa0b775d',
     name: '我们这一代',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

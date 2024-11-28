@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1646c5b1-d16c-4415-88be-d78b1628bc32',
     name: '在毛主席的指挥下统一行动',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

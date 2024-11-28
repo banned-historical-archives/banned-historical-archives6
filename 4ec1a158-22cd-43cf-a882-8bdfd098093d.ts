@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '4ec1a158-22cd-43cf-a882-8bdfd098093d',
     name: '团结起来争取更大的胜利',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

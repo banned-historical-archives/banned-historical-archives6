@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'aeada05f-d839-47ff-a72d-1b301ba98f70',
     name: '歌唱烈士杨开慧',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

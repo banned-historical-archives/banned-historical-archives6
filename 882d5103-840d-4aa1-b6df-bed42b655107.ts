@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '882d5103-840d-4aa1-b6df-bed42b655107',
     name: '毛主席的建军路线胜利万岁',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

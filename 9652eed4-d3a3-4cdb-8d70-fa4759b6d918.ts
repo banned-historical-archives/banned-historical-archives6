@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '9652eed4-d3a3-4cdb-8d70-fa4759b6d918',
     name: '学习蔡永祥好榜样',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

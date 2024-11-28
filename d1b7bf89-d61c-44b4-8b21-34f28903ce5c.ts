@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd1b7bf89-d61c-44b4-8b21-34f28903ce5c',
     name: '解放军学全国人民',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

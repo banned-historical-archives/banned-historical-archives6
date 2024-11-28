@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '3525ab98-9792-4f19-98e1-d1216e322b66',
     name: '为人民而死就是死得其所',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

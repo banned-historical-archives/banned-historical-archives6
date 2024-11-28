@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '45f7ff20-60e8-49d4-9147-62ca75f2cad5',
     name: '各族社员心连心',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

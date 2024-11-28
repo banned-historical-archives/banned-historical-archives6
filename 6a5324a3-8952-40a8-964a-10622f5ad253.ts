@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '6a5324a3-8952-40a8-964a-10622f5ad253',
     name: '地质队员之歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

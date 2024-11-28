@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd1447547-18b8-4a2a-8fd5-88a5b86db2bb',
     name: '我们是光荣的共青团员',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

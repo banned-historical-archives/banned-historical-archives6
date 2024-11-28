@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c7d68ad6-1952-49a2-9824-2e6ddaca92bd',
     name: '牢记阶级仇，紧握手中枪',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

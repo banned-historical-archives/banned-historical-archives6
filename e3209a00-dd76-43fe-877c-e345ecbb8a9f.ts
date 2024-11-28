@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'e3209a00-dd76-43fe-877c-e345ecbb8a9f',
     name: '革命的红卫兵和革命的学生组织要实现革命的大联合',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

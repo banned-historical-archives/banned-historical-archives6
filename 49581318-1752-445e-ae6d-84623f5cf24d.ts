@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '49581318-1752-445e-ae6d-84623f5cf24d',
     name: '伟大的军队',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

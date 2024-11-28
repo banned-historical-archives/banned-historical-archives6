@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '3c6eaf61-29f0-46c0-ad7d-0eeefc02d677',
     name: '我们是青年工人',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

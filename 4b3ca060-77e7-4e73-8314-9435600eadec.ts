@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '4b3ca060-77e7-4e73-8314-9435600eadec',
     name: '毛泽东思想光辉照四海',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '51894382-a6de-4438-8033-48f1b99e92b8',
     name: '前进歌（改）',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

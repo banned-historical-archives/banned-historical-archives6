@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '005f9ef9-c873-444d-ab64-c35304df7e5c',
     name: '革命就是促进生产力的发展',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

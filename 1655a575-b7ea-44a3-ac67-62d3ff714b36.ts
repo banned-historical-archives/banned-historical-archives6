@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1655a575-b7ea-44a3-ac67-62d3ff714b36',
     name: '政治夜校亮堂堂',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

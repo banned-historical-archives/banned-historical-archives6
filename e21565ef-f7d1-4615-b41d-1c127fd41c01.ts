@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'e21565ef-f7d1-4615-b41d-1c127fd41c01',
     name: '工农商学兵跃进再跃进',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

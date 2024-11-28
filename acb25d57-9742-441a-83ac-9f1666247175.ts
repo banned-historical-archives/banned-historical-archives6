@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'acb25d57-9742-441a-83ac-9f1666247175',
     name: '五好战士最光荣',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

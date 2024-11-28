@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '26dc046f-b37c-4697-bf09-f7e179f9fc4f',
     name: '按照系统实现革命的大联合',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

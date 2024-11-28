@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8fcbf6f7-c383-4368-97d2-ebf587b6de59',
     name: '全会公报发号召',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

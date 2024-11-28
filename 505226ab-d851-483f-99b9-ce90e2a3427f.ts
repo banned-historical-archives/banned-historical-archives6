@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '505226ab-d851-483f-99b9-ce90e2a3427f',
     name: '欢庆《毛选》五卷出版',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

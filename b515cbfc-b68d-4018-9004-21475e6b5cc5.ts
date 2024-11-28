@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'b515cbfc-b68d-4018-9004-21475e6b5cc5',
     name: '印刷工人之歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

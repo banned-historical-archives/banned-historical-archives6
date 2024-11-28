@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '227d7fca-7b11-4ec4-a58e-93fb00456b73',
     name: '永远做毛主席的好战士',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

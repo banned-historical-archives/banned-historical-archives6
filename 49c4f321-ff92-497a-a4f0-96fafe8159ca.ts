@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '49c4f321-ff92-497a-a4f0-96fafe8159ca',
     name: '红小兵向太阳',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

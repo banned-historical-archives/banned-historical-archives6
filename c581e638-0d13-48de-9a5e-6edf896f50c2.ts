@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c581e638-0d13-48de-9a5e-6edf896f50c2',
     name: '毛主席的伟大旗帜高高飘扬',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

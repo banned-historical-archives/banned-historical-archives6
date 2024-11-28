@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '9ee1b1b5-f662-44cd-8da1-d4d69e06b9a8',
     name: '争取胜利',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

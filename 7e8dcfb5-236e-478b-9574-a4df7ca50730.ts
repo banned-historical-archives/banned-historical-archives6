@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '7e8dcfb5-236e-478b-9574-a4df7ca50730',
     name: '我们高举反帝旗帜前进',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

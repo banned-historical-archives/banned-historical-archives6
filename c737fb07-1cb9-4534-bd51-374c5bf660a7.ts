@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c737fb07-1cb9-4534-bd51-374c5bf660a7',
     name: '舍得一身剐敢把皇帝拉下马',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '毛主席著作像太阳',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '毛主席著作像太阳\n字字句句闪金光\n照得战士心里亮\n工作学习有方向\n照得战士心里亮\n工作学习有方向\n毛主席著作像太阳\n字字句句闪金光\n照得战士心里亮\n工作学习有方向\n照得战士心里亮\n工作学习有方向\n毛主席著作像太阳\n字字句句闪金光\n照得战士心里亮\n工作学习有方向\n照得战士心里亮\n工作学习有方向\n',
         version: '原版',
         audios: [
@@ -24,9 +22,11 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
     id: 'f69ceb4a-8a52-4351-9595-857e77e66181',
+    composers: [],
   },
   version: 2,
 };

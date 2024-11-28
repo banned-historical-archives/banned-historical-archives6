@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '0cc6f822-10c2-4bf9-93ae-2f812a7b1b9d',
     name: '强大的舰队在海上行进',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

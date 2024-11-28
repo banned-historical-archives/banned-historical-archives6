@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '06991c20-2cea-4794-99bd-a7a86967e23f',
     name: '敬祝毛主席万寿无疆',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

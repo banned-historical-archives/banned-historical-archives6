@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '90565868-ba22-4433-bdb0-a326b2495aa4',
     name: '我们应当相信群众',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

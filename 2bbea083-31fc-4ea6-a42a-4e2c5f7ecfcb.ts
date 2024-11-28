@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '2bbea083-31fc-4ea6-a42a-4e2c5f7ecfcb',
     name: '毛泽东思想照全球',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

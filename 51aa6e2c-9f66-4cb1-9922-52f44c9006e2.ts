@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '51aa6e2c-9f66-4cb1-9922-52f44c9006e2',
     name: '红卫兵心向党',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'fafc0bc5-d72d-4ccf-94e5-75c5ce7e415c',
     name: '勤俭建国',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

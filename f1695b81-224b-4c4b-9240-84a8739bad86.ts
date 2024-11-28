@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f1695b81-224b-4c4b-9240-84a8739bad86',
     name: '歌唱人民公社',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '0bbd0271-2dc2-40f9-a3d2-aba41438a100',
     name: '基建工程兵之歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

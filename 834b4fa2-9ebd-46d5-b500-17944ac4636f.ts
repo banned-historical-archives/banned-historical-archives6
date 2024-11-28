@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '834b4fa2-9ebd-46d5-b500-17944ac4636f',
     name: '伟大的祖国',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

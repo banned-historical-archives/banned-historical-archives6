@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd2a54352-bf42-473c-9abb-8ecf4531840d',
     name: '希望寄托在你们身上',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

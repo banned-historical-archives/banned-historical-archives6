@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '62abee7a-3a29-4154-bfa8-8a8d9374d22b',
     name: '万岁！伟大的中国共产党',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

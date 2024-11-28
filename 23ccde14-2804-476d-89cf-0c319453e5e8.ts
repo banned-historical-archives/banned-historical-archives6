@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '23ccde14-2804-476d-89cf-0c319453e5e8',
     name: '歌唱民族大团结',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

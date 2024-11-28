@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '9f091f6f-0c2a-4866-b40e-c7a9eb60d4b7',
     name: '革命委员会的基本经验',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5db59eb1-53ca-46aa-b4ff-e324eb08db96',
     name: '行军歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

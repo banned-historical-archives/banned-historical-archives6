@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '09882004-109c-4799-a7bd-e10337f92bb8',
     name: '鲜红的党旗高高飘扬',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

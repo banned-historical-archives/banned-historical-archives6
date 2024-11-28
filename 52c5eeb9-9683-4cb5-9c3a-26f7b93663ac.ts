@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '52c5eeb9-9683-4cb5-9c3a-26f7b93663ac',
     name: '我们是朝气蓬勃的红小兵',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

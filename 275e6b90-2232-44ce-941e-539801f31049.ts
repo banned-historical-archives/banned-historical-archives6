@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '275e6b90-2232-44ce-941e-539801f31049',
     name: '自力更生把业创',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

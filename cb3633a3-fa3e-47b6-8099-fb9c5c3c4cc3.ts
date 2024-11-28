@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'cb3633a3-fa3e-47b6-8099-fb9c5c3c4cc3',
     name: '要在大风大浪里去锻炼自己',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

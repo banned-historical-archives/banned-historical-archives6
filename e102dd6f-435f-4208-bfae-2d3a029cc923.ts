@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'e102dd6f-435f-4208-bfae-2d3a029cc923',
     name: '红小兵爱读毛主席的书',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

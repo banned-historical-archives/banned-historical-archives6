@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '42dca79d-3f16-46cb-af5e-36c60554612b',
     name: '祖国颂',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

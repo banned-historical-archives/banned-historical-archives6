@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c8ba1cf4-6663-477d-9ef6-8fa17a2820fe',
     name: '毛主席你是我们心中的红太阳',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

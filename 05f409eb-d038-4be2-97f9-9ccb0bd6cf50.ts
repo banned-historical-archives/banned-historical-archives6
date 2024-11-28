@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '05f409eb-d038-4be2-97f9-9ccb0bd6cf50',
     name: '要把无产阶级文化大革命进行到底',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

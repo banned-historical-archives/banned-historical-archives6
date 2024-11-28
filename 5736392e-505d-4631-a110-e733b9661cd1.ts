@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5736392e-505d-4631-a110-e733b9661cd1',
     name: '抗大的作风',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

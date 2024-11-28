@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1c553f38-21c6-43c0-b2d5-9d234160fb5e',
     name: '医疗队员之歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'b0f8de64-7cb6-4bb0-b657-b5c1946212c3',
     name: '自力更生就是好',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

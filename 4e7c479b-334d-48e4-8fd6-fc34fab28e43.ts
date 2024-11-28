@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '党中央两个决议威力大',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '党中央两个决议威力大\n人民拥护敌人怕\n人民拥护敌人怕\n巩固胜利的成果\n保卫红色天下\n邓小平阴谋搞复辟\n我们坚决彻底批判他\n党中央两个决议威力大\n人民拥护敌人怕\n人民拥护敌人怕\n巩固胜利的成果\n保卫红色天下\n邓小平阴谋搞复辟\n我们坚决彻底批判他',
         version: '原版',
         audios: [
@@ -17,9 +15,11 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
     id: '4e7c479b-334d-48e4-8fd6-fc34fab28e43',
+    composers: [],
   },
   version: 2,
 };

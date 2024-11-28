@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'eb5fccb1-c10f-45582',
     name: '华主席登上天安门',
-    composer: '',
     description: '',
     tags: [],
     lyrics: [
@@ -27,7 +26,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

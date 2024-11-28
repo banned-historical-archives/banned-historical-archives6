@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f48b7216-ed60-4390-8ee8-fc516452fd0f',
     name: '迅速达到世界上的先进水平',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

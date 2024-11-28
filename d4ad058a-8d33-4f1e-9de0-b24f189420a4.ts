@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd4ad058a-8d33-4f1e-9de0-b24f189420a4',
     name: '',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

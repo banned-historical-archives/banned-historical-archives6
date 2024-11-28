@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '0dbce96b-21fd-47a6-9ed0-2322a8a2b212',
     name: '奋起千钧棒痛打落水狗',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

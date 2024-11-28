@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'b125ed9c-6903-41f1-abc8-e2439ba24625',
     name: '文学艺术属于一定的阶级',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

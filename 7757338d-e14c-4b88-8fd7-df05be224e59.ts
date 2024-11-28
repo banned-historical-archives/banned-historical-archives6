@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '7757338d-e14c-4b88-8fd7-df05be224e59',
     name: '学习张春玉好榜样',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

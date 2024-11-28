@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '984955b3-a34e-4352-b260-5fecdde51153',
     name: '五七战士之歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

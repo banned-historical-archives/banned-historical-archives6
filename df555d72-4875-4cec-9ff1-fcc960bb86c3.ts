@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'df555d72-4875-4cec-9ff1-fcc960bb86c3',
     name: '工作就是斗争',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

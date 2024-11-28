@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '248cb305-990b-4d35-9c3f-b6df0431bc97',
     name: '四好连队在前进',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

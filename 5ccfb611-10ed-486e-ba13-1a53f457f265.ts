@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5ccfb611-10ed-486e-ba13-1a53f457f265',
     name: '金灿灿的宝书映红了天',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '76e501e2-e7a3-4c66-9237-0a232604a464',
     name: '批林批孔当闯将',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

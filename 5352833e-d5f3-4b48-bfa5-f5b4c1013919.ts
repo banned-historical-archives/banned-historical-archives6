@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5352833e-d5f3-4b48-bfa5-f5b4c1013919',
     name: '我们和祖国一起成长',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'cbfa8116-2791-4202-9419-c6cc86801668',
     name: '向苏修的赫鲁晓夫开炮',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

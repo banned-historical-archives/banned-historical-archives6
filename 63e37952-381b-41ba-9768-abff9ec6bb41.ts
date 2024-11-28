@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '63e37952-381b-41ba-9768-abff9ec6bb41',
     name: '光荣的生产兵团',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'fc772441-a869-4bfc-a92a-9bc97b58742e',
     name: '把红旗插在文化阵地上',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'df5a6c6d-07bf-4ec1-b2f9-e6d92a039219',
     name: '做毛主席的好孩子',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

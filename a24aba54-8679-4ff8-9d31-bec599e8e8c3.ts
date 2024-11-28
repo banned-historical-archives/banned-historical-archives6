@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a24aba54-8679-4ff8-9d31-bec599e8e8c3',
     name: '讲究节省，反对浪费，禁止贪污',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

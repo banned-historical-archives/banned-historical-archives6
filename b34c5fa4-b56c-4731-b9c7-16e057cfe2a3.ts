@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'b34c5fa4-b56c-4731-b9c7-16e057cfe2a3',
     name: '广大干部下放劳动',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

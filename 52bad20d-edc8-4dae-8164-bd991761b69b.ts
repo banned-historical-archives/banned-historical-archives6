@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '52bad20d-edc8-4dae-8164-bd991761b69b',
     name: '“三、七”批示',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

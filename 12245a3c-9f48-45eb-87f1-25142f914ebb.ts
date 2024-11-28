@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '12245a3c-9f48-45eb-87f1-25142f914ebb',
     name: '国家机关的改革，最根本的一条，就是联系群众',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

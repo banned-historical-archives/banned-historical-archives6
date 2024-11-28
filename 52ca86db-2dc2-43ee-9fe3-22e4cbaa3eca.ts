@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '52ca86db-2dc2-43ee-9fe3-22e4cbaa3eca',
     name: '全国人民团结紧',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

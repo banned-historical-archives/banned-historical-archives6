@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd54f2930-490f-44a1-8957-7f0c9c99b774',
     name: '永远跟着毛泽东',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

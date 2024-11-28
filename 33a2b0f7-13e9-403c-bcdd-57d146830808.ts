@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '33a2b0f7-13e9-403c-bcdd-57d146830808',
     name: '清理阶级队伍',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

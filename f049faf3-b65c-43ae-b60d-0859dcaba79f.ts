@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f049faf3-b65c-43ae-b60d-0859dcaba79f',
     name: '毛主席来过五指山',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

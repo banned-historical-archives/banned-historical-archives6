@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f355b416-cdd8-44fb-b543-776f53f05df1',
     name: '学习年四旺,斗私批修当闯将',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a0562798-e205-4f6c-a5e2-96174d72af50',
     name: '毛主席发出战斗号令',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

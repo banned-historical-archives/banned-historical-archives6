@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ef6b6f1c-94d2-40f6-b69d-d90e5757df2e',
     name: '革命、生产肩上挑',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

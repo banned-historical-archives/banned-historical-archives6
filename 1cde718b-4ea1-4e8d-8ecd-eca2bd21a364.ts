@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1cde718b-4ea1-4e8d-8ecd-eca2bd21a364',
     name: '共青团团歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

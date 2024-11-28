@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c421fa48-0fc3-4759-b4e2-846347c6889c',
     name: '歌唱毛主席的革命路线',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

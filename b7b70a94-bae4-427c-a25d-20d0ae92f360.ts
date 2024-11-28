@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'b7b70a94-bae4-427c-a25d-20d0ae92f360',
     name: '做到五个统一',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

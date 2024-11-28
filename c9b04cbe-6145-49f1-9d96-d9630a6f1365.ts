@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c9b04cbe-6145-49f1-9d96-d9630a6f1365',
     name: '对于犯了严重错误的干部',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

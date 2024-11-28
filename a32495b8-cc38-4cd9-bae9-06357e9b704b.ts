@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a32495b8-cc38-4cd9-bae9-06357e9b704b',
     name: '文化大革命战果辉煌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

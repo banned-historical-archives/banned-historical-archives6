@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '906e1886-1d05-485e-b8ab-7e6bdb12a3a1',
     name: '节约是社会主义经济的基本原则之一',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

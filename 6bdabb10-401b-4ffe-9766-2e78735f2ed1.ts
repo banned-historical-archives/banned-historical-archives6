@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '英姿飒爽女电工',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '电花闪闪红 弧光飞流星\n英姿飒爽女电工\n壮志凌云震长空\n壮志凌云震长空\n心红手巧降电虎\n青天万里绘彩虹\n攀长梯 登铁塔\n架银线 空中行\n妇女能顶半边天\n誓为革命攀高峰\n电花闪闪红 弧光飞流星\n英姿飒爽女电工\n壮志凌云震长空\n壮志凌云震长空\n心红手巧降电虎\n青天万里绘彩虹\n攀长梯 登铁塔\n架银线 空中行\n妇女能顶半边天\n誓为革命攀高峰\n',
         version: '原版',
         audios: [
@@ -24,9 +22,11 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
     id: '6bdabb10-401b-4ffe-9766-2e78735f2ed1',
+    composers: [],
   },
   version: 2,
 };

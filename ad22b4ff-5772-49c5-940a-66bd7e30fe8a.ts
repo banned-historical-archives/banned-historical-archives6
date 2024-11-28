@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ad22b4ff-5772-49c5-940a-66bd7e30fe8a',
     name: '政治工作是一切经济工作的生命线',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

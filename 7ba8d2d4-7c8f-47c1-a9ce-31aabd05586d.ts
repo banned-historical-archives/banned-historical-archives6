@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '7ba8d2d4-7c8f-47c1-a9ce-31aabd05586d',
     name: '我为文化大革命高唱赞歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

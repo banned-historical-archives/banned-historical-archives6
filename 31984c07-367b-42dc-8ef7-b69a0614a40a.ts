@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '31984c07-367b-42dc-8ef7-b69a0614a40a',
     name: '欢迎工人同志进校来',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

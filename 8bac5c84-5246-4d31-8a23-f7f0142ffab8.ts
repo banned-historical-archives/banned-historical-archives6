@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8bac5c84-5246-4d31-8a23-f7f0142ffab8',
     name: '为巩固国防再建功勋',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

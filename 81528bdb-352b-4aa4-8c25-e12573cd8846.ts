@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '下定决心，不怕牺牲，排除万难，去争取胜利',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '下定决心，不怕牺牲，排除万难，去争取胜利！\n下定决心，不怕牺牲，排除万难，去争取胜利！\n下定决心，不怕牺牲，排除万难，去争取胜利！\n下定决心，不怕牺牲，排除万难，去争取胜利！\n下定决心，不怕牺牲，排除万难，去争取胜利！\n下定决心，不怕牺牲，排除万难，去争取胜利！',
         version: '原版',
         audios: [
@@ -24,9 +22,11 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
     id: '81528bdb-352b-4aa4-8c25-e12573cd8846',
+    composers: [],
   },
   version: 2,
 };

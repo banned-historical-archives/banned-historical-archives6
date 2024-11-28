@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '14138ce7-44d3-408d-bdbf-afb791dd0276',
     name: '毛泽东思想照俺庄',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

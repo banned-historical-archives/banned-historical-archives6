@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1b848d84-df37-43f8-aa59-2a0c465aacd5',
     name: '革命歌永远唱',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '06e35004-28d7-4141-90d8-ab4e492e409e',
     name: '致敬毛泽东',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

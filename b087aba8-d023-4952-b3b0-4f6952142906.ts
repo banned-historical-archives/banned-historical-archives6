@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'b087aba8-d023-4952-b3b0-4f6952142906',
     name: '学习郭嘉宏高举红旗永远向前进',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

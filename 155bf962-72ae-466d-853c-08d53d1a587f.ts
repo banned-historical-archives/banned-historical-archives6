@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '155bf962-72ae-466d-853c-08d53d1a587f',
     name: '毛主席的恩情深似海',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

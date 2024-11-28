@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd355b96c-f4a1-4399-8125-780bc1b36bcb',
     name: '人民公社真是好',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

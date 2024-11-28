@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '32af636f-45e2-4c2b-a5b7-f65395d28e67',
     name: '七亿人民齐欢呼',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

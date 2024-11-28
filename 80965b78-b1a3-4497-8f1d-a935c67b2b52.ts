@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '80965b78-b1a3-4497-8f1d-a935c67b2b52',
     name: '毛主席指出大寨路',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

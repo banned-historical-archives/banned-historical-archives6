@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1d633552-c2df-44ad-9c72-a51a6d1c090d',
     name: '修正主义者是恢复资本主义最好的帮手',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

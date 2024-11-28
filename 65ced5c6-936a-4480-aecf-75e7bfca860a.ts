@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '65ced5c6-936a-4480-aecf-75e7bfca860a',
     name: '决不可忘记了工人阶级的远大利益',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

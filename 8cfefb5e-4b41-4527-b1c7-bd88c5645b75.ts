@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8cfefb5e-4b41-4527-b1c7-bd88c5645b75',
     name: '社会主义大厦一定要建起来',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

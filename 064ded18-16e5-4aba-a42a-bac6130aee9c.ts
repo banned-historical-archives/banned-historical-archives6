@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '064ded18-16e5-4aba-a42a-bac6130aee9c',
     name: '把文化革命进行到底',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

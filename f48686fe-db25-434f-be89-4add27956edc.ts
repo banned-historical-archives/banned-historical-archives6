@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f48686fe-db25-434f-be89-4add27956edc',
     name: '我们的党是一个伟大的党',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

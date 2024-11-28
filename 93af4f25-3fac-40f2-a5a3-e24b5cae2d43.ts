@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '93af4f25-3fac-40f2-a5a3-e24b5cae2d43',
     name: '枪杆子里面出政权',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

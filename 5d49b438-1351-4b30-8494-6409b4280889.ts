@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5d49b438-1351-4b30-8494-6409b4280889',
     name: '真正的朋友',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

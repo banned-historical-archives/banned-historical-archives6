@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '50d719af-1c4d-4a50-96f2-d22d9a1eee93',
     name: '喜报送到北京城',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '9a314fe4-5036-4b0c-b941-47d19cf9c7aa',
     name: '军民团结如一人，试看天下谁能敌？',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

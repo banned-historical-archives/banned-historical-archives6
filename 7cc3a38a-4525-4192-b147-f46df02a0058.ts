@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '造反有理',
-    composer: '李劫夫',
     description: '',
     lyrics: [
       {
-        lyricist: '李劫夫',
         content: '马克思主义的道理千条万绪归根到底就是一句话\n造反有理\n造反有理\n根据这个道理\n于是就反抗，就斗争，就干社会主义\n马克思主义的道理千条万绪归根到底就是一句话\n造反有理\n造反有理\n根据这个道理\n于是就反抗，就斗争，就干社会主义',
         version: '原版',
         audios: [
@@ -62,9 +60,15 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [
+          '李劫夫',
+        ],
       },
     ],
     id: '7cc3a38a-4525-4192-b147-f46df02a0058',
+    composers: [
+      '李劫夫',
+    ],
   },
   version: 2,
 };

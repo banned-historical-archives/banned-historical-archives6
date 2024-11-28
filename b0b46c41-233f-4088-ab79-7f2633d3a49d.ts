@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'b0b46c41-233f-4088-ab79-7f2633d3a49d',
     name: '愿把领袖天天歌唱',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

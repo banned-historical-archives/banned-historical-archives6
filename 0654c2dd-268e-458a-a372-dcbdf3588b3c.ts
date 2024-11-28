@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '0654c2dd-268e-458a-a372-dcbdf3588b3c',
     name: '任何人间的困难总是可以解决的',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

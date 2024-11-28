@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'b2b37a59-c870-4f42-b7f4-5d3f5cc40214',
     name: '我们热爱五星红旗',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

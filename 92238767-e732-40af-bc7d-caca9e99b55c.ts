@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '92238767-e732-40af-bc7d-caca9e99b55c',
     name: '什么人',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

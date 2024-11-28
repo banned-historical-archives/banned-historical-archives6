@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '364e958b-b618-4e0f-afc4-c301c54af78f',
     name: '红心向着中南海',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '413b9d65-ec1a-436f-8467-9ef3a7a96059',
     name: '毛主席永远活在战士心中',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

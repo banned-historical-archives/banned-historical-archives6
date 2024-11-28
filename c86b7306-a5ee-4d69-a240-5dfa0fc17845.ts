@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c86b7306-a5ee-4d69-a240-5dfa0fc17845',
     name: '伟大的时代',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

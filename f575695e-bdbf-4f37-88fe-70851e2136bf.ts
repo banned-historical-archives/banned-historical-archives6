@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '歌颂毛主席',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '山上的松树青青的哩\n河里的流水滚滚的哩\n太阳的光芒暖暖的哩\n毛主席的恩情\n比父母还亲哩\n',
         version: '原版',
         audios: [
@@ -24,9 +22,11 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
     id: 'f575695e-bdbf-4f37-88fe-70851e2136bf',
+    composers: [],
   },
   version: 2,
 };

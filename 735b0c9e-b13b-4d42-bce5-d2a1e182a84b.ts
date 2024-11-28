@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '735b0c9e-b13b-4d42-bce5-d2a1e182a84b',
     name: '赤脚医生好',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

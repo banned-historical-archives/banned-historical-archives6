@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c4e27543-2849-4769-9a83-6de9591895f6',
     name: '我凝望着毛主席住过的地方',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

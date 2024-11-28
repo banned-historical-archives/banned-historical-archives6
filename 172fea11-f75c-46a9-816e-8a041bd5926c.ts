@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '172fea11-f75c-46a9-816e-8a041bd5926c',
     name: '井冈杜鹃红',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

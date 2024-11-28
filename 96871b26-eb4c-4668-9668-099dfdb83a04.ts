@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '96871b26-eb4c-4668-9668-099dfdb83a04',
     name: '看见毛主席语录板',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

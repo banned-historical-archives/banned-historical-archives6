@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'fc69e291-88a4-4cca-8432-aeaffa7a29a4',
     name: '毛主席的恩情唱不完',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '58d09915-4c4e-4cd6-a930-82e8688a7ad6',
     name: '跟着毛主席永远向前进',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

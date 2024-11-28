@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '204c5b24-a741-4df2-a49a-0930e97c0d69',
     name: '爆破手之歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

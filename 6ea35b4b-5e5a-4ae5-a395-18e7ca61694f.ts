@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '6ea35b4b-5e5a-4ae5-a395-18e7ca61694f',
     name: '工读学校传捷报',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

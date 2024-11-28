@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '红花向着毛主席开',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '\n少儿课余广播合唱团唱\n十大精神哎放呀放光彩\n咚呛咚呛咚呛\n小朋友乐开怀\n乐呀乐开怀\n咚呛咚呛咚呛\n颂歌向着北京唱哎\n红花向着毛主席开\n咚咚呛 咚咚呛\n十大精神哎放呀放光彩\n咚呛咚呛咚呛\n小朋友乐开怀\n乐呀乐开怀\n咚呛咚呛咚呛\n颂歌向着北京唱哎\n红花向着毛主席开\n咚咚呛 咚咚呛\n',
         version: '原版',
         audios: [
@@ -24,9 +22,11 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
     id: 'b066d9e8-360e-4677-b84a-f2b282a72b37',
+    composers: [],
   },
   version: 2,
 };

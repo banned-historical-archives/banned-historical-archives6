@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '3a05d37e-fb39-4900-8ff2-55b487d5d2bf',
     name: '红小兵之歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

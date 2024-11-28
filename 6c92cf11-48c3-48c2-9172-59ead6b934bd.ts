@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '6c92cf11-48c3-48c2-9172-59ead6b934bd',
     name: '永远站在斗争的最前哨',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

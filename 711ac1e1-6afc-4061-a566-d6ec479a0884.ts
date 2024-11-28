@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '711ac1e1-6afc-4061-a566-d6ec479a0884',
     name: '歌唱蔡永祥',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

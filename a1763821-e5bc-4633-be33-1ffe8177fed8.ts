@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a1763821-e5bc-4633-be33-1ffe8177fed8',
     name: '世界上一切革命斗争都是为了夺取政权，巩固政权',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '0873fdd9-33be-4a7b-b537-69db3df549fb',
     name: '有一个美丽的地方',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

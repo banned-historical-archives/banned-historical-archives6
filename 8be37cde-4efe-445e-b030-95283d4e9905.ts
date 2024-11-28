@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '要提高我们的勇气',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '我们的同志在困难的时候\n要看到成绩 要看到光明\n要提高我们的勇气\n要提高我们的勇气\n我们的同志在困难的时候\n要看到成绩 要看到光明\n要提高我们的勇气\n要提高我们的勇气\n我们的同志在困难的时候\n要看到成绩 要看到光明\n要提高我们的勇气\n要提高我们的勇气\n',
         version: '原版',
         audios: [
@@ -36,9 +34,11 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
     id: '8be37cde-4efe-445e-b030-95283d4e9905',
+    composers: [],
   },
   version: 2,
 };

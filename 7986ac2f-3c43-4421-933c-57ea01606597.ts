@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '7986ac2f-3c43-4421-933c-57ea01606597',
     name: '红太阳照心窝',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

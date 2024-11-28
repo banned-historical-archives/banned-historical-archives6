@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a4596c38-07b3-456f-82e1-e1928ad20748',
     name: '英雄的四排钢铁的兵',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

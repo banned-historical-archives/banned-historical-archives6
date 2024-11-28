@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '77b51c77-e58d-4cfa-abab-45637793b5ea',
     name: '毛主席的恩情长',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

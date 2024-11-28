@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '54a87bc7-4bbf-4043-adbb-78671d68e379',
     name: '毛主席的光辉照大庆',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

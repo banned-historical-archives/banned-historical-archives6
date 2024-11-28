@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '3ee1e017-f2c8-4da8-a418-ecda39464011',
     name: '党组织应是无产阶级先进分子所组成',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

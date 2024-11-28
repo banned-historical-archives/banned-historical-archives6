@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8b712245-ac86-48c9-9e8d-7d7470a99f4d',
     name: '走了一山又一山',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

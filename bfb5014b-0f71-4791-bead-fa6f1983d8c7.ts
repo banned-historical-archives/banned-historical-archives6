@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'bfb5014b-0f71-4791-bead-fa6f1983d8c7',
     name: '革命战士最光荣',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '401a2a8b-c739-4cac-ba65-1c5712829b41',
     name: '前进吧！祖国',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

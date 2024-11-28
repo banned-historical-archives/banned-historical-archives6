@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '6600fc33-b63c-45d7-adf9-ddbf7a415354',
     name: '把党内头号走资本主义道路当权派拉下马',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

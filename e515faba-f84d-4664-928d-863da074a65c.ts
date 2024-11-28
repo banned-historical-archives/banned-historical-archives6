@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'e515faba-f84d-4664-928d-863da074a65c',
     name: '文化革命打先锋',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

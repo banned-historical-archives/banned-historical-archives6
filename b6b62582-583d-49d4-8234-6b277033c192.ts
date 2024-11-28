@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'b6b62582-583d-49d4-8234-6b277033c192',
     name: '三项伟大革命运动',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

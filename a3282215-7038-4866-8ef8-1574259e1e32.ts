@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a3282215-7038-4866-8ef8-1574259e1e32',
     name: '毛主席指引着胜利航向',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1c32fdf5-0053-4fe5-b2e8-e9f97ce79246',
     name: '当年老李回乡来',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

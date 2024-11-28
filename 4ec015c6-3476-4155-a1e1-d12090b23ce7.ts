@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '4ec015c6-3476-4155-a1e1-d12090b23ce7',
     name: '正确地对待干部',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

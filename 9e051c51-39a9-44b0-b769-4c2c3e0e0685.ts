@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '加快步伐朝前走',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '\n登山攀高峰 行船争上游\n社员斗志比天高\n加快步伐朝前走\n能挑千斤担 不挑九百九\n迎着困难上 顶着风雨走\n学习大寨\n学习大寨要大干\n粮棉年年夺丰收 夺丰收\n能挑千斤担 不挑九百九\n迎着困难上 顶着风雨走\n学习大寨\n学习大寨要大干\n粮棉年年夺丰收 夺丰收\n',
         version: '原版',
         audios: [
@@ -24,9 +22,11 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
     id: '9e051c51-39a9-44b0-b769-4c2c3e0e0685',
+    composers: [],
   },
   version: 2,
 };

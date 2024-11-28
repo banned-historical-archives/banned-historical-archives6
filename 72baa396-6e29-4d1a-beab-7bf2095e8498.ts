@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '72baa396-6e29-4d1a-beab-7bf2095e8498',
     name: '我们是坚定的无产阶级革命派',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

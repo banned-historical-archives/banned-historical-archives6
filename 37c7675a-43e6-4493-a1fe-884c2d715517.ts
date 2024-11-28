@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '37c7675a-43e6-4493-a1fe-884c2d715517',
     name: '在工人阶级内部，没有根本的利害冲突',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

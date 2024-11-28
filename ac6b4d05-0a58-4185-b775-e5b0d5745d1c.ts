@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ac6b4d05-0a58-4185-b775-e5b0d5745d1c',
     name: '我们是光荣的人民教师',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

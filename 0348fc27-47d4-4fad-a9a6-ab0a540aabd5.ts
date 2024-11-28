@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '0348fc27-47d4-4fad-a9a6-ab0a540aabd5',
     name: '为新生事物齐鼓掌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

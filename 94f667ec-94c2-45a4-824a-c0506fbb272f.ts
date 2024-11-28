@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '前进歌',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '同胞们团结在一起\n        奔向抗日的前方\n        前进 快拿起武器\n        打倒日本帝国主义\n        前进 消灭侵略者\n        我们坚决抗战到底\n        紧跟着伟大领袖毛主席\n        高举红旗前进\n        紧跟着伟大领袖毛主席\n        向着解放的路 前进\n        \n        同胞们团结在一起\n        奔向抗日的前方\n        前进 快拿起武器\n        打倒日本帝国主义\n        前进 消灭侵略者\n        我们坚决抗战到底\n        紧跟着伟大领袖毛主席\n        高举红旗前进\n        紧跟着伟大领袖毛主席\n        向着解放的路 前进',
         version: '原版',
         audios: [
@@ -24,9 +22,11 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
     id: '94f667ec-94c2-45a4-824a-c0506fbb272f',
+    composers: [],
   },
   version: 2,
 };

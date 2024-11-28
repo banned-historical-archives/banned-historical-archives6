@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '7aabb30b-a1e9-4c0d-9db4-8a2fdb6b5d30',
     name: '发愤图强',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

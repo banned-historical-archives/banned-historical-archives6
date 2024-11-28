@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'eb5fccb1-c10f-4558-bcf9-e4911d9cffc0',
     name: '要很好地解决上下级关系问题',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

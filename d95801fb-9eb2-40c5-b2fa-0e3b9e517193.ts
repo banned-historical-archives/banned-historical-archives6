@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd95801fb-9eb2-40c5-b2fa-0e3b9e517193',
     name: '万众一心团结起来',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '中苏友谊之歌',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '（歌词暂缺）\n',
         version: '原版',
         audios: [
@@ -24,9 +22,11 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
     id: 'e954c122-c9c5-459c-bda7-8c372ef2f6bf',
+    composers: [],
   },
   version: 2,
 };

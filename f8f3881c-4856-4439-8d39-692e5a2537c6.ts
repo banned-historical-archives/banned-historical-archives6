@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f8f3881c-4856-4439-8d39-692e5a2537c6',
     name: '我们的理论队伍壮大起来',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

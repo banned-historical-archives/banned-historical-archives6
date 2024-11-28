@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '4aea8f00-2478-4f1f-ac7e-d51e6283a092',
     name: '我爱北京天安门',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

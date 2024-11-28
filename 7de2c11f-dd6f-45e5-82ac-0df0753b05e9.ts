@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '7de2c11f-dd6f-45e5-82ac-0df0753b05e9',
     name: '小八路见到毛主席',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

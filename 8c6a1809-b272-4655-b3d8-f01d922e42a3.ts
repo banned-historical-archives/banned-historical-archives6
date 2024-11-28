@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8c6a1809-b272-4655-b3d8-f01d922e42a3',
     name: '你不打他就不倒',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '47db4af4-bb52-44e4-a0e7-b81c023d25d1',
     name: '我们的前程光芒万丈',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

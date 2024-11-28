@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1f2c564b-c077-419f-a16e-7b50e9f4bb38',
     name: '毛主席著作就是好',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

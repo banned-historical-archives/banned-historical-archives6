@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8c082b89-f89c-4fa7-a124-5645cfbc736b',
     name: '四好连队之歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '3de3ac77-87d9-40f6-97e0-5e9bb936ebcf',
     name: '继承毛主席的遗志奋勇向前',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

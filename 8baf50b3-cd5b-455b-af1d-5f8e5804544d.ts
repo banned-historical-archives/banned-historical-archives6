@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8baf50b3-cd5b-455b-af1d-5f8e5804544d',
     name: '欢呼北京市成立革委会',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

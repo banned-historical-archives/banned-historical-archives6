@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '4153866b-5846-45e2-8d98-4a800a4ea196',
     name: '万炮齐轰邓小平',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

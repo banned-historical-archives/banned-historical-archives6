@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '57e20a8d-5eae-4dc6-ae6b-2e1d121c942f',
     name: '我们的公社欣欣向荣',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

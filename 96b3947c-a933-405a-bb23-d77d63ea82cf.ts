@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '96b3947c-a933-405a-bb23-d77d63ea82cf',
     name: '前进 红小兵',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

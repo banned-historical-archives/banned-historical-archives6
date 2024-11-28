@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '35a6b6b6-2e45-4e3b-9c62-bed71446f33a',
     name: '村前一块语录牌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f0a44502-8300-455e-9082-d3a4fc232e01',
     name: '千万个铁人奋勇前进',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

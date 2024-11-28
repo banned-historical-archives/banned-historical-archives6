@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5de639e2-24dc-4095-9036-6079c816fdd7',
     name: '把自己的思想感情来一个变化',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

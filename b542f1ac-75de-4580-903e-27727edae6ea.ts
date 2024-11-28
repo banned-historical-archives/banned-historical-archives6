@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'b542f1ac-75de-4580-903e-27727edae6ea',
     name: '歌唱毛主席的一张大字报',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

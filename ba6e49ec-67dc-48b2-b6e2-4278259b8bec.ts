@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ba6e49ec-67dc-48b2-b6e2-4278259b8bec',
     name: '学习共产主义战士蔡永祥',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

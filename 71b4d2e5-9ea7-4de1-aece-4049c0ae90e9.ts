@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '71b4d2e5-9ea7-4de1-aece-4049c0ae90e9',
     name: '冬泳之歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

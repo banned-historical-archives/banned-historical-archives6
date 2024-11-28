@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '098f1d71-7949-4c6e-b6ab-6e836636dc8a',
     name: '全国的无产阶级文化大革命形势大好',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

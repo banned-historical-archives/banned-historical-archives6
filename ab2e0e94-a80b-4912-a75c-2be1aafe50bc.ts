@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ab2e0e94-a80b-4912-a75c-2be1aafe50bc',
     name: '毛主席率领我们打胜仗',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

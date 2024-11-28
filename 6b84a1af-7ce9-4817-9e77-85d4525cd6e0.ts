@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '6b84a1af-7ce9-4817-9e77-85d4525cd6e0',
     name: '坚决捍卫毛泽东思想',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

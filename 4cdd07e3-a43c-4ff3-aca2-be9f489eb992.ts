@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '4cdd07e3-a43c-4ff3-aca2-be9f489eb992',
     name: '穷则思变',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

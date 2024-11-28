@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '62c85451-8f4a-4ad6-a2b6-b01332c1af45',
     name: '革命的思想斗争和艺术斗争必须服从于政治的斗争',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'e916c828-6c62-4f57-bfee-84e1e6af323c',
     name: '以林副主席为榜样',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

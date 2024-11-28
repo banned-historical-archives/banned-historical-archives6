@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a99f0508-7063-4d93-a1d5-6d9dc9794029',
     name: '漫支花儿给毛主席听',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

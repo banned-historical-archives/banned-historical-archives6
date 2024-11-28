@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a7639aef-b74b-4107-9936-f99019b076d7',
     name: '欢呼世界革命进入了一个伟大的时代',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

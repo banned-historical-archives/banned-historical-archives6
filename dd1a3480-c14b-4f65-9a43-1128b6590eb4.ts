@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'dd1a3480-c14b-4f65-9a43-1128b6590eb4',
     name: '为人民服务',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

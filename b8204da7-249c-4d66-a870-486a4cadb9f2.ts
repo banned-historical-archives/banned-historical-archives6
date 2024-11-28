@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'b8204da7-249c-4d66-a870-486a4cadb9f2',
     name: '丰收歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c4d4a1dd-044f-4c25-b32a-4ea24ad002fd',
     name: '天上没有玉皇，地下没有龙王',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

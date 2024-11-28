@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'eef56949-0965-4a06-ab62-aaf8ed31b04d',
     name: '咱是支农服务队',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

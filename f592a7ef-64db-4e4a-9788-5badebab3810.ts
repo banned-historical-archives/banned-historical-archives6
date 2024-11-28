@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f592a7ef-64db-4e4a-9788-5badebab3810',
     name: '军民团结骨肉亲',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

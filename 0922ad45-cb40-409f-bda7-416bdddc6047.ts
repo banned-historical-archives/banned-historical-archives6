@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '0922ad45-cb40-409f-bda7-416bdddc6047',
     name: '我们是春天的鲜花',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

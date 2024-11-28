@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '180cdaaa-a83f-41d2-9b52-2b877f1060fd',
     name: '中国少年先锋队队歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '4a5149f1-6283-4a40-8f44-fcd7cc68b90d',
     name: '农村是个广阔天地',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '59f5ffae-0dd6-4fab-b090-366c5e3c4c38',
     name: '跃进歌声传四方',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

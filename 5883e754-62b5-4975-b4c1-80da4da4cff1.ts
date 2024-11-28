@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5883e754-62b5-4975-b4c1-80da4da4cff1',
     name: '放声歌唱伟大的党',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

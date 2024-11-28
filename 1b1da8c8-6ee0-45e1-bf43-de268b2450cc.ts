@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '1b1da8c8-6ee0-45e1-bf43-de268b2450cc',
     name: '萨丽哈最听毛主席的话',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

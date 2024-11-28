@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'db3554df-cb87-44fe-b9e8-8f877f4edace',
     name: '完全彻底为人民',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

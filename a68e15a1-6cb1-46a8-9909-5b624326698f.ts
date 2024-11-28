@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a68e15a1-6cb1-46a8-9909-5b624326698f',
     name: '海岛就是我的家',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

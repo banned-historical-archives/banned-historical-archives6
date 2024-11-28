@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '听话要听党的话',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '戴花要戴大红花\n骑马要骑千里马\n唱歌要唱跃进歌\n听话要听党的话\n戴花要戴大红花\n骑马要骑千里马\n唱歌要唱跃进歌\n听话要听党的话\n戴花要戴大红花\n骑马要骑千里马\n唱歌要唱跃进歌\n听话要听党的话\n听话要听党的话\n',
         version: '原版',
         audios: [
@@ -24,9 +22,11 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
     id: '36001f81-80d6-4bb7-aecf-80ff173db3fb',
+    composers: [],
   },
   version: 2,
 };

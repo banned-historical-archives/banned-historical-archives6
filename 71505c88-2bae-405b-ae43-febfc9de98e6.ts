@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '71505c88-2bae-405b-ae43-febfc9de98e6',
     name: '把最美的歌献给你',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

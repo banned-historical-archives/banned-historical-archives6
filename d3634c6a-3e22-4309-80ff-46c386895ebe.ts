@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd3634c6a-3e22-4309-80ff-46c386895ebe',
     name: '毛主席的恩情比山高比水长',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

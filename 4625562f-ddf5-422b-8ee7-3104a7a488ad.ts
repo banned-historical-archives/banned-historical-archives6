@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '4625562f-ddf5-422b-8ee7-3104a7a488ad',
     name: '红军纪律歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

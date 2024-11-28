@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '42c8d5b5-7a04-4175-a6b5-e1f3bcb4656b',
     name: '战士最爱三件宝',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

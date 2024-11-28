@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '7be127a4-1e5a-4bdf-810b-6b98edc3c310',
     name: '我们的教育方针',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

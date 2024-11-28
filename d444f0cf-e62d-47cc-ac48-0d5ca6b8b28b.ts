@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'd444f0cf-e62d-47cc-ac48-0d5ca6b8b28b',
     name: '要进一步节约闹革命',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '33ab4d79-be26-4dbc-ae1e-64ad44718015',
     name: '这个军队具有一往无前的精神',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

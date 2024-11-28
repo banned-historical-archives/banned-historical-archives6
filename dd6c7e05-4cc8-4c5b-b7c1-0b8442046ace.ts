@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'dd6c7e05-4cc8-4c5b-b7c1-0b8442046ace',
     name: '青春献给伟大的党',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

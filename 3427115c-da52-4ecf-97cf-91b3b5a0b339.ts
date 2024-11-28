@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '3427115c-da52-4ecf-97cf-91b3b5a0b339',
     name: '学习毛主席的好战士蔡永祥',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

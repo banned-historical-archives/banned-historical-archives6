@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'f43b5471-98d5-4262-95d9-4c797fe072b6',
     name: '把各方面的工作做得更好',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

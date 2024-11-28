@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '56fc8aaa-d498-4bd2-920e-96d461089df6',
     name: '东方巨人毛主席',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

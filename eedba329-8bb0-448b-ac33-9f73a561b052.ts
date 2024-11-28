@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'eedba329-8bb0-448b-ac33-9f73a561b052',
     name: '井冈山',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

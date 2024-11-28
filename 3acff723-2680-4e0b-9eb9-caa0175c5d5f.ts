@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '3acff723-2680-4e0b-9eb9-caa0175c5d5f',
     name: '歌唱第三个五年计划',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '3ea07e26-989d-4737-b945-39dacc3331b1',
     name: '把红色日记写下去',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

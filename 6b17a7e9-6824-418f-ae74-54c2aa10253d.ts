@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '6b17a7e9-6824-418f-ae74-54c2aa10253d',
     name: '继承毛主席的遗志，誓做革命接班人',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

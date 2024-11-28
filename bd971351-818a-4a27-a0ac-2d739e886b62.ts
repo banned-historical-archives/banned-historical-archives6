@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'bd971351-818a-4a27-a0ac-2d739e886b62',
     name: '红小兵热爱华主席',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

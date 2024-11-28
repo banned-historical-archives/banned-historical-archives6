@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'aba8dbc0-9705-4aa6-aeb1-050196a29480',
     name: '因为有了共产党',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

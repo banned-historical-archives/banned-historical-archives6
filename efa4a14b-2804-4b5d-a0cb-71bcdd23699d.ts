@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'efa4a14b-2804-4b5d-a0cb-71bcdd23699d',
     name: '祖国大地红烂漫',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '继承革命光荣传统',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '',
         version: '原版',
         audios: [
@@ -22,9 +20,11 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
     id: 'a95fe1bb-2f05',
+    composers: [],
   },
   version: 2,
 };

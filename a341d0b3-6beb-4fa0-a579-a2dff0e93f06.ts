@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'a341d0b3-6beb-4fa0-a579-a2dff0e93f06',
     name: '四个念念不忘',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

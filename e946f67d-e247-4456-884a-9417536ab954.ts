@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'e946f67d-e247-4456-884a-9417536ab954',
     name: '首都民兵之歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

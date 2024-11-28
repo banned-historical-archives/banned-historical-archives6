@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ca550d92-bd54-42a0-9506-fa179d814937',
     name: '太阳出来满天红',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

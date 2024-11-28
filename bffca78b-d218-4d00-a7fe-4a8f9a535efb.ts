@@ -2,11 +2,9 @@ export default {
   resource_type: 'music',
   entity: {
     name: '敬祝毛主席万寿无疆',
-    composer: '',
     description: '',
     lyrics: [
       {
-        lyricist: '',
         content: '敬爱的毛主席\n敬爱的毛主席\n您是我们心中的红太阳\n您是我们心中的红太阳\n我们有多少\n贴心的话儿要对您讲\n我们有多少\n热情的歌儿要对您唱\n千万颗红心向着北京\n千万张笑脸迎着红太阳\n敬祝领袖毛主席万寿无疆\n敬祝领袖毛主席万寿无疆\n敬爱的毛主席\n敬爱的毛主席\n您是我们心中的红太阳\n您是我们心中的红太阳\n我们有多少\n贴心的话儿要对您讲\n我们有多少\n热情的歌儿要对您唱\n千万颗红心向着北京\n千万张笑脸迎着红太阳\n敬祝领袖毛主席万寿无疆\n敬祝领袖毛主席万寿无疆\n',
         version: '原版',
         audios: [
@@ -24,9 +22,11 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
     id: 'bffca78b-d218-4d00-a7fe-4a8f9a535efb',
+    composers: [],
   },
   version: 2,
 };

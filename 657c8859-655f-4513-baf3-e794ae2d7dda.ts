@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '657c8859-655f-4513-baf3-e794ae2d7dda',
     name: '毛主席亲手绘蓝图',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

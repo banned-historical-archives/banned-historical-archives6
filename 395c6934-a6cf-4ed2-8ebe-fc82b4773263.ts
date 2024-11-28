@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '395c6934-a6cf-4ed2-8ebe-fc82b4773263',
     name: '路线对了头',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

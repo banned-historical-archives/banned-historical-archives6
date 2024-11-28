@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '5e497a74-c166-4a06-807b-e1ad4b303f1f',
     name: '在毛主席身边茁壮成长',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

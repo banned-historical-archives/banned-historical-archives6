@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c0c1a424-3742-4cb5-9ab1-be16f25fac32',
     name: '跟随领袖战斗向前',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

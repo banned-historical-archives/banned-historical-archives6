@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '8eda5f43-e1d8-4b29-ad35-054fb0b8a644',
     name: '加强纪律性，革命无不胜',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

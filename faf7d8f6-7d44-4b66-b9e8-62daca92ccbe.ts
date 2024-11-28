@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'faf7d8f6-7d44-4b66-b9e8-62daca92ccbe',
     name: '联系群众',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -27,7 +26,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

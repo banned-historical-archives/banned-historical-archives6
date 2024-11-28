@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '52888e5e-01df-4e35-b514-0fcd3539667f',
     name: '我是一个装卸工',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

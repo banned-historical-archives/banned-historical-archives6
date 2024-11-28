@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c33f0d8c-2c92-42a8-b809-20c8d19fda66',
     name: '紧密团结在党中央周围',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

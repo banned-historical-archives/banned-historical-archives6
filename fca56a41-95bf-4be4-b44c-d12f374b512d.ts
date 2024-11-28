@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'fca56a41-95bf-4be4-b44c-d12f374b512d',
     name: '为人民立新功',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -19,7 +18,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

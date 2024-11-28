@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '79faf5ba-bd7b-4657-8118-16b6dd98d90a',
     name: '我们的原则是党指挥枪',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

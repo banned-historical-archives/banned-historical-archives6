@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'ad676644-11e8-48e0-8925-23cd4e039a17',
     name: '山村迎亲人',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

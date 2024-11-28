@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '7dd4f03b-c409-4c96-a09c-28d559946015',
     name: '毛主席语录写在飞机上',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

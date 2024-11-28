@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'fa24fab1-3a6f-411a-b97c-c21778af1779',
     name: '毛主席夸咱半边天',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

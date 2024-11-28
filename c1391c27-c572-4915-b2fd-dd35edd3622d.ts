@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'c1391c27-c572-4915-b2fd-dd35edd3622d',
     name: '人是第一个可宝贵的',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

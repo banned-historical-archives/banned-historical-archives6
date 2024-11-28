@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '192e9b38-4ee0-4fb0-a6f9-6e8af6b301c6',
     name: '干部问题，要从教育着手',
-    composer: '',
     description: '',
     tags: [
       '语录歌',
@@ -22,7 +21,9 @@ export default {
             artists: [],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

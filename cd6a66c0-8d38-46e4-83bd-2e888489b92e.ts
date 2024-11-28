@@ -4,7 +4,6 @@ export default {
   entity: {
     id: 'cd6a66c0-8d38-46e4-83bd-2e888489b92e',
     name: '燃起篝火唱新歌',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };

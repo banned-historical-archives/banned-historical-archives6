@@ -4,7 +4,6 @@ export default {
   entity: {
     id: '928b0136-fbd4-4aa6-9103-e9d45f2d4129',
     name: '怀念毛主席',
-    composer: '',
     description: '',
     lyrics: [
       {
@@ -24,7 +23,9 @@ export default {
             ],
           },
         ],
+        lyricists: [],
       },
     ],
+    composers: [],
   },
 };
