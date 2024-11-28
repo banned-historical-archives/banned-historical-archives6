@@ -14,12 +14,12 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/654掀起文化革命大高潮 空政文工团.mp3',
-            art_form: '独唱',
+            art_form: '合唱',
             sources: [],
             artists: [
               {
                 name: '空政文工团',
-                type: '独唱',
+                type: '合唱团',
               },
             ],
           },

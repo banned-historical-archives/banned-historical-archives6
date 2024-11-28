@@ -14,12 +14,12 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/657歌唱第三个五年计划 中央广播文工团.mp3',
-            art_form: '独唱',
+            art_form: '合唱',
             sources: [],
             artists: [
               {
                 name: '中央广播文工团',
-                type: '独唱',
+                type: '合唱团',
               },
             ],
           },

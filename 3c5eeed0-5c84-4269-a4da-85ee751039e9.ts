@@ -5,7 +5,7 @@ export default {
     id: '3c5eeed0-5c84-4269-a4da-85ee751039e9',
     name: '毛主席给我们带来幸福',
     composer: '',
-    description: '',
+    description: '塔吉克语',
     lyrics: [
       {
         content: '',
@@ -18,7 +18,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '塔吉克语',
+                name: '',
                 type: '独唱',
               },
             ],
