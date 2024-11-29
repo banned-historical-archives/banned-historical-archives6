@@ -14,17 +14,13 @@ export default {
               'http://ip.lidicity.com/hj/cn/hsjd.html#top',
             ],
             artists: [
-              {
-                name: '合唱 周永西词 佚名曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
-              '独唱',
+              '合唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: ['周永西'],
       },
     ],
     id: '00f178e4-1827-4599-b094-a116b24a42d1',

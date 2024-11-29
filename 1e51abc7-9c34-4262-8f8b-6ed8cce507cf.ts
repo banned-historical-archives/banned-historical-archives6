@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '杜丽华 包钢等词 梅璧曲',
+                name: '杜丽华',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,11 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: ['包钢'],
       },
     ],
     id: '1e51abc7-9c34-4262-8f8b-6ed8cce507cf',
-    composers: [],
+    composers: ['梅璧'],
   },
   version: 2,
 };

@@ -12,21 +12,18 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wozouzaigongshededalushang.mp3',
             sources: [],
             artists: [
-              {
-                name: '男声独唱 刘登翰词 田忠智曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
+              '男声',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: ['刘登翰'],
       },
     ],
     id: '1bebb568-5b62-4753-9269-1a45a00b3eb5',
-    composers: [],
+    composers: ['田忠智'],
   },
   version: 2,
 };
