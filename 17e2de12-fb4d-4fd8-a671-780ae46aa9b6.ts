@@ -11,22 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/huainianjingaidezhouzongli.mp3',
             sources: [],
-            artists: [
-              {
-                name: '王音璇王音璇词曲',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '王音璇王音璇',
+        ],
       },
     ],
     id: '17e2de12-fb4d-4fd8-a671-780ae46aa9b6',
-    composers: [],
+    composers: [
+      '王音璇王音璇',
+    ],
   },
   version: 2,
 };

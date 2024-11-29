@@ -16,21 +16,21 @@ export default {
                 name: '合唱',
                 type: '独唱',
               },
-              {
-                name: '天津市革命歌曲创作学习班词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '天津市革命歌曲创作学习班',
+        ],
       },
     ],
     id: 'c687e2ff-0a95-4f4b-bdb4-b023e7d0988b',
-    composers: [],
+    composers: [
+      '天津市革命歌曲创作学习班',
+    ],
   },
   version: 2,
 };

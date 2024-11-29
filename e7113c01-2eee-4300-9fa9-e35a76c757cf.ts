@@ -16,21 +16,21 @@ export default {
                 name: '中华总工会文工团',
                 type: '独唱',
               },
-              {
-                name: '佚名词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '佚名',
+        ],
       },
     ],
     id: 'e7113c01-2eee-4300-9fa9-e35a76c757cf',
-    composers: [],
+    composers: [
+      '佚名',
+    ],
   },
   version: 2,
 };

@@ -16,21 +16,21 @@ export default {
                 name: '张振富、耿莲凤',
                 type: '独唱',
               },
-              {
-                name: '马骏英词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '马骏英',
+        ],
       },
     ],
     id: '8b19933e-f9e0-44ec-94be-5d6179ceb0fe',
-    composers: [],
+    composers: [
+      '马骏英',
+    ],
   },
   version: 2,
 };

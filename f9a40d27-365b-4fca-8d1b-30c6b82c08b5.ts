@@ -16,21 +16,21 @@ export default {
                 name: '中央民族乐团合唱队',
                 type: '独唱',
               },
-              {
-                name: '巩志伟词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '巩志伟',
+        ],
       },
     ],
     id: 'f9a40d27-365b-4fca-8d1b-30c6b82c08b5',
-    composers: [],
+    composers: [
+      '巩志伟',
+    ],
   },
   version: 2,
 };

@@ -11,22 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wswddzhggchd.mp3',
             sources: [],
-            artists: [
-              {
-                name: '北京部队政治部宣传队北京部队政治部宣传队词曲',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '北京部队政治部宣传队北京部队政治部宣传队',
+        ],
       },
     ],
     id: '95b2f665-2e58-4d77-a464-b3813a93ab73',
-    composers: [],
+    composers: [
+      '北京部队政治部宣传队北京部队政治部宣传队',
+    ],
   },
   version: 2,
 };

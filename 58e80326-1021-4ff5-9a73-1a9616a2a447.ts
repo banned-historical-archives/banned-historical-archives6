@@ -11,22 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/mzxwswws.mp3',
             sources: [],
-            artists: [
-              {
-                name: '李敬贤、刘淑真佚名词曲',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '李敬贤、刘淑真佚名',
+        ],
       },
     ],
     id: '58e80326-1021-4ff5-9a73-1a9616a2a447',
-    composers: [],
+    composers: [
+      '李敬贤、刘淑真佚名',
+    ],
   },
   version: 2,
 };

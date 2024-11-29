@@ -16,21 +16,21 @@ export default {
                 name: '胡松华',
                 type: '独唱',
               },
-              {
-                name: '佚名词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '佚名',
+        ],
       },
     ],
     id: '5790abbb-a8db-4e50-8d88-25da49f45049',
-    composers: [],
+    composers: [
+      '佚名',
+    ],
   },
   version: 2,
 };

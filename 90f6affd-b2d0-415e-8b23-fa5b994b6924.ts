@@ -16,21 +16,21 @@ export default {
                 name: '合唱',
                 type: '独唱',
               },
-              {
-                name: '李之金词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '李之金',
+        ],
       },
     ],
     id: '90f6affd-b2d0-415e-8b23-fa5b994b6924',
-    composers: [],
+    composers: [
+      '李之金',
+    ],
   },
   version: 2,
 };

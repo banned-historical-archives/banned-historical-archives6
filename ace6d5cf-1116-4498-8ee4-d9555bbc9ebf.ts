@@ -16,21 +16,21 @@ export default {
                 name: '单秀荣',
                 type: '独唱',
               },
-              {
-                name: '杨非词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '杨非',
+        ],
       },
     ],
     id: 'ace6d5cf-1116-4498-8ee4-d9555bbc9ebf',
-    composers: [],
+    composers: [
+      '杨非',
+    ],
   },
   version: 2,
 };

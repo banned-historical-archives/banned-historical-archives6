@@ -17,10 +17,6 @@ export default {
                 type: '独唱',
               },
               {
-                name: '杨正仁词曲',
-                type: '独唱',
-              },
-              {
                 name: '集体改词',
                 type: '独唱',
               },
@@ -30,11 +26,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '杨正仁',
+        ],
       },
     ],
     id: 'd27c02e0-cf0d-4e8b-948c-06566dff21c9',
-    composers: [],
+    composers: [
+      '杨正仁',
+    ],
   },
   version: 2,
 };

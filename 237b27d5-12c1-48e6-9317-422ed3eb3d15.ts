@@ -16,21 +16,21 @@ export default {
                 name: '赵士静、李维领唱',
                 type: '独唱',
               },
-              {
-                name: '佚名词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '佚名',
+        ],
       },
     ],
     id: '237b27d5-12c1-48e6-9317-422ed3eb3d15',
-    composers: [],
+    composers: [
+      '佚名',
+    ],
   },
   version: 2,
 };

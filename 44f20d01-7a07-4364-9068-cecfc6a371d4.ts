@@ -16,21 +16,21 @@ export default {
                 name: '合唱',
                 type: '独唱',
               },
-              {
-                name: '佚名词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '佚名',
+        ],
       },
     ],
     id: '44f20d01-7a07-4364-9068-cecfc6a371d4',
-    composers: [],
+    composers: [
+      '佚名',
+    ],
   },
   version: 2,
 };

@@ -16,21 +16,21 @@ export default {
                 name: '合唱',
                 type: '独唱',
               },
-              {
-                name: '江西省歌舞团创作组词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '江西省歌舞团创作组',
+        ],
       },
     ],
     id: '15c08412-2084-4f0b-8f6d-c5864f6976dd',
-    composers: [],
+    composers: [
+      '江西省歌舞团创作组',
+    ],
   },
   version: 2,
 };

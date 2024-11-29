@@ -16,21 +16,21 @@ export default {
                 name: '国防文工团合唱队',
                 type: '独唱',
               },
-              {
-                name: '杨非词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '杨非',
+        ],
       },
     ],
     id: '0ae7c090-86cb-4479-b8c4-a2953a9ef6f6',
-    composers: [],
+    composers: [
+      '杨非',
+    ],
   },
   version: 2,
 };

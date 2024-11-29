@@ -16,21 +16,21 @@ export default {
                 name: '女声合唱',
                 type: '独唱',
               },
-              {
-                name: '上海高桥化工厂集体词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '上海高桥化工厂集体',
+        ],
       },
     ],
     id: '9c28af1c-285c-4d43-a4f2-b86153361236',
-    composers: [],
+    composers: [
+      '上海高桥化工厂集体',
+    ],
   },
   version: 2,
 };

@@ -16,21 +16,21 @@ export default {
                 name: '合唱',
                 type: '独唱',
               },
-              {
-                name: '傅庚辰词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '傅庚辰',
+        ],
       },
     ],
     id: '983a64de-dfb1-4b59-9d20-a51997f442ff',
-    composers: [],
+    composers: [
+      '傅庚辰',
+    ],
   },
   version: 2,
 };

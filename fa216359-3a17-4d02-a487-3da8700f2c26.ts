@@ -16,21 +16,21 @@ export default {
                 name: '合唱',
                 type: '独唱',
               },
-              {
-                name: '简其华词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '简其华',
+        ],
       },
     ],
     id: 'fa216359-3a17-4d02-a487-3da8700f2c26',
-    composers: [],
+    composers: [
+      '简其华',
+    ],
   },
   version: 2,
 };

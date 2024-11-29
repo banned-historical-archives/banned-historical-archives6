@@ -11,22 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/lbkl2dshdx.mp3',
             sources: [],
-            artists: [
-              {
-                name: '童声合唱佚名词曲',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '童声合唱佚名',
+        ],
       },
     ],
     id: 'fcc3ec90-a263-4f61-ac98-fb2b94e3719b',
-    composers: [],
+    composers: [
+      '童声合唱佚名',
+    ],
   },
   version: 2,
 };

@@ -16,21 +16,21 @@ export default {
                 name: '韦有琴',
                 type: '独唱',
               },
-              {
-                name: '佚名词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '佚名',
+        ],
       },
     ],
     id: '01edf161-f9a0-418c-a597-c03e72ce6d51',
-    composers: [],
+    composers: [
+      '佚名',
+    ],
   },
   version: 2,
 };

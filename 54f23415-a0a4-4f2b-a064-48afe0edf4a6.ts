@@ -11,22 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/qsjrmramzx.mp3',
             sources: [],
-            artists: [
-              {
-                name: '女声独唱佚名词曲',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '女声独唱佚名',
+        ],
       },
     ],
     id: '54f23415-a0a4-4f2b-a064-48afe0edf4a6',
-    composers: [],
+    composers: [
+      '女声独唱佚名',
+    ],
   },
   version: 2,
 };

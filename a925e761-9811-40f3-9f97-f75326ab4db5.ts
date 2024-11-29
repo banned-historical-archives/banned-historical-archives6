@@ -16,21 +16,21 @@ export default {
                 name: '朱崇懋',
                 type: '独唱',
               },
-              {
-                name: '美丽其格词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '美丽其格',
+        ],
       },
     ],
     id: 'a925e761-9811-40f3-9f97-f75326ab4db5',
-    composers: [],
+    composers: [
+      '美丽其格',
+    ],
   },
   version: 2,
 };

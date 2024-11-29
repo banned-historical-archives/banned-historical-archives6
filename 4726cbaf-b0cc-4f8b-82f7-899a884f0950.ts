@@ -16,21 +16,21 @@ export default {
                 name: '合唱',
                 type: '独唱',
               },
-              {
-                name: '张学文词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张学文',
+        ],
       },
     ],
     id: '4726cbaf-b0cc-4f8b-82f7-899a884f0950',
-    composers: [],
+    composers: [
+      '张学文',
+    ],
   },
   version: 2,
 };

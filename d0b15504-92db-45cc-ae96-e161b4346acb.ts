@@ -16,21 +16,21 @@ export default {
                 name: '合唱',
                 type: '独唱',
               },
-              {
-                name: '李伟词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '李伟',
+        ],
       },
     ],
     id: 'd0b15504-92db-45cc-ae96-e161b4346acb',
-    composers: [],
+    composers: [
+      '李伟',
+    ],
   },
   version: 2,
 };

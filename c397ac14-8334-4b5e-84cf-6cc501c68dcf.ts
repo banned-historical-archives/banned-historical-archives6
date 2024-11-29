@@ -11,22 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/rmgshh.mp3',
             sources: [],
-            artists: [
-              {
-                name: '女声齐唱佚名词曲',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '女声齐唱佚名',
+        ],
       },
     ],
     id: 'c397ac14-8334-4b5e-84cf-6cc501c68dcf',
-    composers: [],
+    composers: [
+      '女声齐唱佚名',
+    ],
   },
   version: 2,
 };

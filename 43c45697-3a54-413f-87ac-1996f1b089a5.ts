@@ -11,22 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/jcmzxdyzfyqj.mp3',
             sources: [],
-            artists: [
-              {
-                name: '上海乐团佚名词曲',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '上海乐团佚名',
+        ],
       },
     ],
     id: '43c45697-3a54-413f-87ac-1996f1b089a5',
-    composers: [],
+    composers: [
+      '上海乐团佚名',
+    ],
   },
   version: 2,
 };

@@ -16,21 +16,21 @@ export default {
                 name: '合唱',
                 type: '独唱',
               },
-              {
-                name: '陕西文艺工作者集体词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '陕西文艺工作者集体',
+        ],
       },
     ],
     id: '46f24484-caeb-42b5-8eca-dda434e16ae3',
-    composers: [],
+    composers: [
+      '陕西文艺工作者集体',
+    ],
   },
   version: 2,
 };

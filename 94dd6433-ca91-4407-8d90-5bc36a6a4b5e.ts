@@ -16,21 +16,21 @@ export default {
                 name: '齐唱',
                 type: '独唱',
               },
-              {
-                name: '劫夫词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '劫夫',
+        ],
       },
     ],
     id: '94dd6433-ca91-4407-8d90-5bc36a6a4b5e',
-    composers: [],
+    composers: [
+      '劫夫',
+    ],
   },
   version: 2,
 };

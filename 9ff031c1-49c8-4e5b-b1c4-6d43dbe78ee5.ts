@@ -16,21 +16,21 @@ export default {
                 name: '男声独唱',
                 type: '独唱',
               },
-              {
-                name: '佚名词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '佚名',
+        ],
       },
     ],
     id: '9ff031c1-49c8-4e5b-b1c4-6d43dbe78ee5',
-    composers: [],
+    composers: [
+      '佚名',
+    ],
   },
   version: 2,
 };

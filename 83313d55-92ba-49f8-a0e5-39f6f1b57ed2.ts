@@ -11,22 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/mzxhwmz1q.mp3',
             sources: [],
-            artists: [
-              {
-                name: '男声独唱佚名词曲',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '男声独唱佚名',
+        ],
       },
     ],
     id: '83313d55-92ba-49f8-a0e5-39f6f1b57ed2',
-    composers: [],
+    composers: [
+      '男声独唱佚名',
+    ],
   },
   version: 2,
 };

@@ -16,21 +16,21 @@ export default {
                 name: '合唱',
                 type: '独唱',
               },
-              {
-                name: '晨耕词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '晨耕',
+        ],
       },
     ],
     id: 'd33153c6-70a0-4ce8-91ed-85e0d3a84c0f',
-    composers: [],
+    composers: [
+      '晨耕',
+    ],
   },
   version: 2,
 };

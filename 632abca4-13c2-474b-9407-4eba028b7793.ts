@@ -16,21 +16,21 @@ export default {
                 name: '解放军沈阳部队政治部宣传队',
                 type: '独唱',
               },
-              {
-                name: '解放军歌曲编辑部词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '解放军歌曲编辑部',
+        ],
       },
     ],
     id: '632abca4-13c2-474b-9407-4eba028b7793',
-    composers: [],
+    composers: [
+      '解放军歌曲编辑部',
+    ],
   },
   version: 2,
 };

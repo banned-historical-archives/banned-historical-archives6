@@ -11,22 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/gecangjiefangjun.mp3',
             sources: [],
-            artists: [
-              {
-                name: '陈若菊佚名词曲',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '陈若菊佚名',
+        ],
       },
     ],
     id: 'de35342c-db4a-4bae-80d8-2bc5344fe6ee',
-    composers: [],
+    composers: [
+      '陈若菊佚名',
+    ],
   },
   version: 2,
 };

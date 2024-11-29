@@ -11,22 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/nusheyuanzhige.mp3',
             sources: [],
-            artists: [
-              {
-                name: '女声合唱于会泳词曲',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '女声合唱于会泳',
+        ],
       },
     ],
     id: 'b515259e-4f1c-4ce8-986a-dcd4d4109094',
-    composers: [],
+    composers: [
+      '女声合唱于会泳',
+    ],
   },
   version: 2,
 };

@@ -16,21 +16,21 @@ export default {
                 name: '齐唱',
                 type: '独唱',
               },
-              {
-                name: '佚名词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '佚名',
+        ],
       },
     ],
     id: '6601dec9-3f21-4f07-8fec-e88ef01b9845',
-    composers: [],
+    composers: [
+      '佚名',
+    ],
   },
   version: 2,
 };

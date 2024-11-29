@@ -16,21 +16,21 @@ export default {
                 name: '金善玉',
                 type: '独唱',
               },
-              {
-                name: '佚名词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '佚名',
+        ],
       },
     ],
     id: 'f63a18a9-0b60-4f87-9b98-8c11fd9a7d8b',
-    composers: [],
+    composers: [
+      '佚名',
+    ],
   },
   version: 2,
 };

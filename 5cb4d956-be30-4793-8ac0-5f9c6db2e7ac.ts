@@ -16,21 +16,21 @@ export default {
                 name: '杜声洪',
                 type: '独唱',
               },
-              {
-                name: '佚名词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '佚名',
+        ],
       },
     ],
     id: '5cb4d956-be30-4793-8ac0-5f9c6db2e7ac',
-    composers: [],
+    composers: [
+      '佚名',
+    ],
   },
   version: 2,
 };

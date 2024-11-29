@@ -20,21 +20,21 @@ export default {
                 name: '上海市工人文化宫',
                 type: '独唱',
               },
-              {
-                name: '文艺学习班词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '文艺学习班',
+        ],
       },
     ],
     id: 'a1d61b66-5410-4501-80e4-e73ab53f3426',
-    composers: [],
+    composers: [
+      '文艺学习班',
+    ],
   },
   version: 2,
 };

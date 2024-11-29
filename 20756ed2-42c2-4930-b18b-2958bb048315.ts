@@ -17,10 +17,6 @@ export default {
                 type: '独唱',
               },
               {
-                name: '麦新词曲',
-                type: '独唱',
-              },
-              {
                 name: '集体改词',
                 type: '独唱',
               },
@@ -30,11 +26,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '麦新',
+        ],
       },
     ],
     id: '20756ed2-42c2-4930-b18b-2958bb048315',
-    composers: [],
+    composers: [
+      '麦新',
+    ],
   },
   version: 2,
 };

@@ -16,21 +16,21 @@ export default {
                 name: '上海市奉贤县星火农场文艺宣传队徐幼伟领唱',
                 type: '独唱',
               },
-              {
-                name: '上海奉贤县星火农场词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '上海奉贤县星火农场',
+        ],
       },
     ],
     id: 'accb3ec4-2cc9-4401-8382-90da31aa869a',
-    composers: [],
+    composers: [
+      '上海奉贤县星火农场',
+    ],
   },
   version: 2,
 };

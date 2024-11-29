@@ -16,21 +16,21 @@ export default {
                 name: '郭富美',
                 type: '独唱',
               },
-              {
-                name: '闫存义词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '闫存义',
+        ],
       },
     ],
     id: '6d9fb295-0b1b-4cab-a922-e3f3e5d20fe5',
-    composers: [],
+    composers: [
+      '闫存义',
+    ],
   },
   version: 2,
 };

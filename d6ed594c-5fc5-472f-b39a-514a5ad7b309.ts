@@ -16,21 +16,21 @@ export default {
                 name: '张权',
                 type: '独唱',
               },
-              {
-                name: '佚名词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '佚名',
+        ],
       },
     ],
     id: 'd6ed594c-5fc5-472f-b39a-514a5ad7b309',
-    composers: [],
+    composers: [
+      '佚名',
+    ],
   },
   version: 2,
 };

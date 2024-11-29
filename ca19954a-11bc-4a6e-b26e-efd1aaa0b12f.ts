@@ -16,21 +16,21 @@ export default {
                 name: '盘继宏',
                 type: '独唱',
               },
-              {
-                name: '广西壮族自治区文化局创作组词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '广西壮族自治区文化局创作组',
+        ],
       },
     ],
     id: 'ca19954a-11bc-4a6e-b26e-efd1aaa0b12f',
-    composers: [],
+    composers: [
+      '广西壮族自治区文化局创作组',
+    ],
   },
   version: 2,
 };

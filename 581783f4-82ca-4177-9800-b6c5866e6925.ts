@@ -11,22 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/xiangzhetaiyanggechang.mp3',
             sources: [],
-            artists: [
-              {
-                name: '上海乐团佚名词曲',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '上海乐团佚名',
+        ],
       },
     ],
     id: '581783f4-82ca-4177-9800-b6c5866e6925',
-    composers: [],
+    composers: [
+      '上海乐团佚名',
+    ],
   },
   version: 2,
 };

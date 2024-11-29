@@ -16,21 +16,21 @@ export default {
                 name: '李谷一',
                 type: '独唱',
               },
-              {
-                name: '佚名词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '佚名',
+        ],
       },
     ],
     id: 'd48a0de7-ed1e-4793-8557-589c2c3dc66a',
-    composers: [],
+    composers: [
+      '佚名',
+    ],
   },
   version: 2,
 };

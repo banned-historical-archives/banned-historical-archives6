@@ -16,21 +16,21 @@ export default {
                 name: '中央广播文工团',
                 type: '独唱',
               },
-              {
-                name: '中央广播文工团词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '中央广播文工团',
+        ],
       },
     ],
     id: '6f54aae6-8deb-4a6b-9369-67615c4d25ab',
-    composers: [],
+    composers: [
+      '中央广播文工团',
+    ],
   },
   version: 2,
 };

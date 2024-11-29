@@ -11,22 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/jieguoleifengdqiang.mp3',
             sources: [],
-            artists: [
-              {
-                name: '合唱践耳词曲',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '合唱践耳',
+        ],
       },
     ],
     id: '10c23548-87ff-42e1-988b-681d05042bf3',
-    composers: [],
+    composers: [
+      '合唱践耳',
+    ],
   },
   version: 2,
 };

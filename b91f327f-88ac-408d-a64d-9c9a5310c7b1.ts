@@ -16,21 +16,21 @@ export default {
                 name: '人民解放军战友文工团',
                 type: '独唱',
               },
-              {
-                name: '佚名词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '佚名',
+        ],
       },
     ],
     id: 'b91f327f-88ac-408d-a64d-9c9a5310c7b1',
-    composers: [],
+    composers: [
+      '佚名',
+    ],
   },
   version: 2,
 };

@@ -16,21 +16,21 @@ export default {
                 name: '江苏省东台县文工团张晓明领唱',
                 type: '独唱',
               },
-              {
-                name: '江苏省东台县文工团词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '江苏省东台县文工团',
+        ],
       },
     ],
     id: 'f3ddcb6d-b772-4fb3-acb3-780c67d3c412',
-    composers: [],
+    composers: [
+      '江苏省东台县文工团',
+    ],
   },
   version: 2,
 };

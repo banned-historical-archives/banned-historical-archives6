@@ -17,10 +17,6 @@ export default {
                 type: '独唱',
               },
               {
-                name: '怒江州宣传队词曲',
-                type: '独唱',
-              },
-              {
                 name: '集体改词',
                 type: '独唱',
               },
@@ -30,11 +26,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '怒江州宣传队',
+        ],
       },
     ],
     id: '46b1c0dc-74eb-44f4-88dd-5f21e10e830b',
-    composers: [],
+    composers: [
+      '怒江州宣传队',
+    ],
   },
   version: 2,
 };

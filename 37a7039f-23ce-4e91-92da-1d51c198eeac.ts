@@ -16,21 +16,21 @@ export default {
                 name: '合唱',
                 type: '独唱',
               },
-              {
-                name: '红铁兵词曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '红铁兵',
+        ],
       },
     ],
     id: '37a7039f-23ce-4e91-92da-1d51c198eeac',
-    composers: [],
+    composers: [
+      '红铁兵',
+    ],
   },
   version: 2,
 };
