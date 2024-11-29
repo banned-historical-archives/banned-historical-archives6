@@ -20,13 +20,10 @@ export default {
                 name: '王肯词',
                 type: '独唱',
               },
-              {
-                name: '鄂伦春族民歌',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
+              '鄂伦春族民歌',
             ],
           },
         ],

@@ -17,16 +17,13 @@ export default {
                 type: '独唱',
               },
               {
-                name: '藏族民歌',
-                type: '独唱',
-              },
-              {
                 name: '杜林曲',
                 type: '独唱',
               },
             ],
             art_forms: [
               '独唱',
+              '藏族民歌',
             ],
           },
         ],

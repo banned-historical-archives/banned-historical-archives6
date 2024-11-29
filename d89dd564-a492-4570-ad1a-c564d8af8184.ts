@@ -17,16 +17,13 @@ export default {
                 type: '独唱',
               },
               {
-                name: '西藏民歌',
-                type: '独唱',
-              },
-              {
                 name: '集体改词',
                 type: '独唱',
               },
             ],
             art_forms: [
               '独唱',
+              '西藏民歌',
             ],
           },
         ],

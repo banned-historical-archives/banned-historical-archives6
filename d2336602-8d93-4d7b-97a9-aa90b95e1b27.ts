@@ -17,10 +17,6 @@ export default {
                 type: '独唱',
               },
               {
-                name: '湖南民歌',
-                type: '独唱',
-              },
-              {
                 name: '张士燮',
                 type: '独唱',
               },
@@ -31,6 +27,7 @@ export default {
             ],
             art_forms: [
               '独唱',
+              '湖南民歌',
             ],
           },
         ],

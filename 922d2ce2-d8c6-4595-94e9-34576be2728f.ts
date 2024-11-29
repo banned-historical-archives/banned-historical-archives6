@@ -17,16 +17,13 @@ export default {
                 type: '独唱',
               },
               {
-                name: '洛川民歌',
-                type: '独唱',
-              },
-              {
                 name: '航海编曲',
                 type: '独唱',
               },
             ],
             art_forms: [
               '独唱',
+              '洛川民歌',
             ],
           },
         ],

@@ -11,14 +11,10 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/shangexiangzheqingtianchang.mp3',
             sources: [],
-            artists: [
-              {
-                name: '张权四川富顺民歌',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
               '独唱',
+              '张权四川富顺民歌',
             ],
           },
         ],

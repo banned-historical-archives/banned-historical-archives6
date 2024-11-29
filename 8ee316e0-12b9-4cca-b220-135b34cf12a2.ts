@@ -11,14 +11,10 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wsmzxwsgcd.mp3',
             sources: [],
-            artists: [
-              {
-                name: '合唱塔吉克民歌',
-                type: '独唱',
-              },
-            ],
+            artists: [],
             art_forms: [
-              '独唱',
+              '合唱',
+              '塔吉克民歌',
             ],
           },
         ],

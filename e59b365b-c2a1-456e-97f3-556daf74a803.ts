@@ -16,13 +16,10 @@ export default {
                 name: '合唱',
                 type: '独唱',
               },
-              {
-                name: '江西民歌',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
+              '江西民歌',
             ],
           },
         ],
