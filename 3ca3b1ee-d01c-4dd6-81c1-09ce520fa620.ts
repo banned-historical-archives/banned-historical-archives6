@@ -12,7 +12,6 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/mzhxshlwmfchl.mp3',
             art_form: '合唱',
             sources: [
-              'http://ip.lidicity.com/hj/cn/hsjd.html#top',
             ],
             artists: [
               {

@@ -12,13 +12,9 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/changzigerxiangeimaozuxi.mp3',
             art_form: '独唱',
             sources: [
-              'http://ip.lidicity.com/hj/cn/hsjd.html#top',
+              ,
             ],
             artists: [
-              {
-                name: '女声独唱 佚名词曲',
-                type: '独唱',
-              },
             ],
           },
         ],
