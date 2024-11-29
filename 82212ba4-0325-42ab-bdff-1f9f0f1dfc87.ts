@@ -10,9 +10,8 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wmdpybtx.mp3',
-            art_form: '独唱',
+            art_form: '合唱',
             sources: [
-              'http://www.mzdbl.com.cn/yinyue/gequ/index.html',
             ],
             artists: [],
           },

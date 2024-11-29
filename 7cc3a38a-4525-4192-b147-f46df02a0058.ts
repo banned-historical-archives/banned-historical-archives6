@@ -10,41 +10,34 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/zfyl.mp3',
-            art_form: '独唱',
+            art_form: '合唱',
             sources: [
-              'http://www.mzdbl.com.cn/yinyue/yulu/index.html',
             ],
             artists: [
               {
                 name: '中央广播文工团',
-                type: '独唱',
+                type: '合唱团',
               },
             ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/zfyl_jp.mp3',
-            art_form: '独唱',
+            art_form: '合唱',
             sources: [
-              'http://www.mzdbl.com.cn/yinyue/yulu/index.html',
             ],
             artists: [
               {
                 name: '日本齿轮座剧团',
-                type: '独唱',
+                type: '合唱团',
               },
             ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/zaofanyiuli.mp3',
-            art_form: '独唱',
+            art_form: '合唱',
             sources: [
-              ,
             ],
             artists: [
-              {
-                name: '齐唱 毛泽东词 劫夫曲',
-                type: '独唱',
-              },
             ],
           },
           {
@@ -61,7 +54,7 @@ export default {
           },
         ],
         lyricists: [
-          '李劫夫',
+          '毛泽东',
         ],
       },
     ],

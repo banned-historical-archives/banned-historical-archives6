@@ -12,7 +12,6 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/tyzhmzxzq_origin.mp3',
             art_form: '独唱',
             sources: [
-              'http://www.mzdbl.com.cn/yinyue/songge/index.html',
             ],
             artists: [
               {
@@ -34,13 +33,8 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/tyzhmzxzq_gaikai.mp3',
             art_form: '独唱',
             sources: [
-              'http://www.mzdbl.com.cn/yinyue/songge/index.html',
             ],
             artists: [
-              {
-                name: '卞小贞',
-                type: '独唱',
-              },
             ],
           },
         ],

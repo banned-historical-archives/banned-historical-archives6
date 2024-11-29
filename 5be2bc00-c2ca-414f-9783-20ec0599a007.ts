@@ -10,14 +10,13 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wmdshwb_origin.mp3',
-            art_form: '独唱',
+            art_form: '合唱',
             sources: [
-              'http://www.mzdbl.com.cn/yinyue/songge/index.html',
             ],
             artists: [
               {
-                name: '上海革命文工团演唱',
-                type: '独唱',
+                name: '上海革命文工团',
+                type: '合唱团',
               },
             ],
           },

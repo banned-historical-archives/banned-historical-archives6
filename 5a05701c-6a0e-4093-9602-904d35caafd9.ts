@@ -10,9 +10,8 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wmsgczyjbr_origin.mp3',
-            art_form: '独唱',
+            art_form: '合唱',
             sources: [
-              'http://www.mzdbl.com.cn/yinyue/snet/index.html',
             ],
             artists: [],
           },
@@ -27,14 +26,13 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wmsgczyjbr_gaikai.mp3',
-            art_form: '独唱',
+            art_form: '合唱',
             sources: [
-              'http://www.kuwo.cn/play_detail/40820406',
             ],
             artists: [
               {
                 name: '中央乐团合唱团',
-                type: '独唱',
+                type: '合唱团',
               },
             ],
           },
