@@ -12,17 +12,13 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/zmzxdhzs.mp3',
             sources: [],
             artists: [
-              {
-                name: '合唱 雷锋词 佚名曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
-              '独唱',
+              '合唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: ['雷锋'],
       },
     ],
     id: '0f4098c1-6524-40e9-bbde-2df44467a7ca',

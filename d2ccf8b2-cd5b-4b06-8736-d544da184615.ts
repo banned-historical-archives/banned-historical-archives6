@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '孙家馨 王倬词 尚德义曲',
+                name: '孙家馨',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,11 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: ['王倬'],
       },
     ],
     id: 'd2ccf8b2-cd5b-4b06-8736-d544da184615',
-    composers: [],
+    composers: ['尚德义'],
   },
   version: 2,
 };
