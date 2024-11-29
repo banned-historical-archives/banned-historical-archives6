@@ -12,7 +12,6 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/nanlaidyanbeiqudefeng.mp3',
             art_form: '陕北民歌',
             sources: [
-              ,
             ],
             artists: [
               {

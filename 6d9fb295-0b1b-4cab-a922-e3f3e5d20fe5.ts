@@ -12,7 +12,6 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/dazhairenxinxianghongtaiyang.mp3',
             art_form: '独唱',
             sources: [
-              ,
             ],
             artists: [
               {
