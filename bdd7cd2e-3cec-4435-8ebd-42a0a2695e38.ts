@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '李林燕 烁渊词 薄兰谷曲',
+                name: '李林燕',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,11 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: ['薄兰谷'],
       },
     ],
     id: 'bdd7cd2e-3cec-4435-8ebd-42a0a2695e38',
-    composers: [],
+    composers: ['烁渊词'],
   },
   version: 2,
 };

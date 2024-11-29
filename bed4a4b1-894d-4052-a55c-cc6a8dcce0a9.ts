@@ -13,20 +13,20 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央乐团 集体重新填词 聂耳曲',
-                type: '独唱',
+                name: '中央乐团',
+                type: '合唱团',
               },
             ],
             art_forms: [
-              '独唱',
+              '合唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: ['中央乐团'],
       },
     ],
     id: 'bed4a4b1-894d-4052-a55c-cc6a8dcce0a9',
-    composers: [],
+    composers: ['聂耳'],
   },
   version: 2,
 };

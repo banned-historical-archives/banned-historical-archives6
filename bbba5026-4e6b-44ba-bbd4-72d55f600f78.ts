@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '刘杏 王奎申词 刘文仁曲',
+                name: '刘杏',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,11 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: ['王奎申'],
       },
     ],
     id: 'bbba5026-4e6b-44ba-bbd4-72d55f600f78',
-    composers: [],
+    composers: ['刘文仁'],
   },
   version: 2,
 };

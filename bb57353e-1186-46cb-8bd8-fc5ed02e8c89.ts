@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '于连生、王作欣 安波词 贺绿汀编曲',
+                name: '于连生',
+                type: '独唱',
+              },
+              {
+                name: '王作欣',
                 type: '独唱',
               },
             ],
@@ -22,11 +26,11 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: ['安波'],
       },
     ],
     id: 'bb57353e-1186-46cb-8bd8-fc5ed02e8c89',
-    composers: [],
+    composers: ['贺绿汀'],
   },
   version: 2,
 };

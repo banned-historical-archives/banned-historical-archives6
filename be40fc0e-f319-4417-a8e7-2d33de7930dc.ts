@@ -13,12 +13,16 @@ export default {
             sources: [],
             artists: [
               {
-                name: '周文楠、罗异 彝族民歌 曹美韵曲',
+                name: '罗异',
+                type: '独唱',
+              },
+              {
+                name: '周文楠',
                 type: '独唱',
               },
             ],
             art_forms: [
-              '独唱',
+              '独唱','彝族民歌'
             ],
           },
         ],
@@ -26,7 +30,7 @@ export default {
       },
     ],
     id: 'be40fc0e-f319-4417-a8e7-2d33de7930dc',
-    composers: [],
+    composers: ['曹美韵'],
   },
   version: 2,
 };

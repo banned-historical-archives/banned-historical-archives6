@@ -12,21 +12,17 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/zzbdcxy.mp3',
             sources: [],
             artists: [
-              {
-                name: '合唱 张荣仁词 张雄海曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
-              '独唱',
+              '合唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: ['张荣仁'],
       },
     ],
     id: 'bf1f8452-b3bb-4fc4-9a9c-2f2ebdf647c2',
-    composers: [],
+    composers: ['张雄海'],
   },
   version: 2,
 };
