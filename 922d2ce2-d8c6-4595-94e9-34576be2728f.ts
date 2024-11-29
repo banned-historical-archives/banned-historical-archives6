@@ -16,10 +16,6 @@ export default {
                 name: '贠恩凤',
                 type: '独唱',
               },
-              {
-                name: '航海编曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
@@ -31,7 +27,9 @@ export default {
       },
     ],
     id: '922d2ce2-d8c6-4595-94e9-34576be2728f',
-    composers: [],
+    composers: [
+      '航海',
+    ],
   },
   version: 2,
 };
