@@ -12,7 +12,6 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wmsmzqn.aac',
             art_form: '独唱',
             sources: [
-              'https://www.bilibili.com/video/BV1t7411c75W',
             ],
             artists: [],
           },

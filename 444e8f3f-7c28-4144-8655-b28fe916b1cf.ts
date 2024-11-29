@@ -13,12 +13,12 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/687五好工人歌 浙江民间歌舞团.mp3',
-            art_form: '独唱',
+            art_form: '合唱',
             sources: [],
             artists: [
               {
                 name: '浙江民间歌舞团',
-                type: '独唱',
+                type: '合唱团',
               },
             ],
           },

@@ -12,7 +12,6 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/gczg_gaikai.aac',
             art_form: '独唱',
             sources: [
-              'https://www.bilibili.com/video/BV1gZ4y1o7dt?p=3',
             ],
             artists: [
               {
@@ -32,7 +31,6 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/gczg_wenge.aac',
             art_form: '独唱',
             sources: [
-              'https://www.bilibili.com/video/BV1yU4y1b7aK',
             ],
             artists: [
               {
@@ -43,7 +41,6 @@ export default {
           },
         ],
         lyricists: [
-          '王莘',
         ],
       },
       {
@@ -54,7 +51,6 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/gczg_dfh.aac',
             art_form: '独唱',
             sources: [
-              'https://www.bilibili.com/video/BV1gZ4y1o7dt?p=1',
             ],
             artists: [
               {
@@ -65,7 +61,6 @@ export default {
           },
         ],
         lyricists: [
-          '王莘',
         ],
       },
       {

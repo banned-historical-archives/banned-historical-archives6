@@ -34,7 +34,6 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wmzzdls_english.mp3',
             art_form: '独唱',
             sources: [
-              'https://www.bilibili.com/video/BV1C541117Po',
             ],
             artists: [],
           },
