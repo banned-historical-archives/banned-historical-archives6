@@ -10,12 +10,12 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/mzxyyhwz1q.mp3',
-            art_form: '独唱',
+            art_form: '西藏民歌',
             sources: [
             ],
             artists: [
               {
-                name: '傅丽坤 西藏民歌 冰河曲',
+                name: '傅丽坤',
                 type: '独唱',
               },
             ],
@@ -25,7 +25,7 @@ export default {
       },
     ],
     id: '0b264f48-8519-4d15-90b5-81203507d01c',
-    composers: [],
+    composers: ['冰河'],
   },
   version: 2,
 };
