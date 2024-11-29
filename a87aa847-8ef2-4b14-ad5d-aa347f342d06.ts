@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央民族歌舞团 刘金娥领唱',
+                name: '中央民族歌舞团',
+                type: '独唱',
+              },
+              {
+                name: '刘金娥领唱',
                 type: '独唱',
               },
             ],

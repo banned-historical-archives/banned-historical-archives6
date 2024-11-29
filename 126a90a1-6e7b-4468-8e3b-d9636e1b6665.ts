@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '马孟丹、罗德成 江西客家民歌',
+                name: '马孟丹、罗德成',
+                type: '独唱',
+              },
+              {
+                name: '江西客家民歌',
                 type: '独唱',
               },
             ],

@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 红军歌曲',
+                name: '合唱',
+                type: '独唱',
+              },
+              {
+                name: '红军歌曲',
                 type: '独唱',
               },
             ],

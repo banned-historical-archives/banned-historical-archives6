@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '朱崇懋 美丽其格词曲',
+                name: '朱崇懋',
+                type: '独唱',
+              },
+              {
+                name: '美丽其格词曲',
                 type: '独唱',
               },
             ],

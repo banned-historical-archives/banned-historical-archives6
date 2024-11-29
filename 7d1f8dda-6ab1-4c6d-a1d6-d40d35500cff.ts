@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '单秀荣 马里洛义诗程恺',
+                name: '单秀荣',
+                type: '独唱',
+              },
+              {
+                name: '马里洛义诗程恺',
                 type: '独唱',
               },
             ],

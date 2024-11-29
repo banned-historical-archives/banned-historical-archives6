@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '连小凤 江西省文化组整理改编',
+                name: '连小凤',
+                type: '独唱',
+              },
+              {
+                name: '江西省文化组整理改编',
                 type: '独唱',
               },
             ],

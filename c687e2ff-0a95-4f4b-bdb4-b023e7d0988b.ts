@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 天津市革命歌曲创作学习班词曲',
+                name: '合唱',
+                type: '独唱',
+              },
+              {
+                name: '天津市革命歌曲创作学习班词曲',
                 type: '独唱',
               },
             ],

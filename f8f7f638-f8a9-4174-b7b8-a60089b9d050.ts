@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 李怀德',
+                name: '合唱',
+                type: '独唱',
+              },
+              {
+                name: '李怀德',
                 type: '独唱',
               },
             ],

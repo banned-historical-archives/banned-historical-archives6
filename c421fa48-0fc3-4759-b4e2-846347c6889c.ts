@@ -16,7 +16,15 @@ export default {
             sources: [],
             artists: [
               {
-                name: '戎建华 李小瑜 藏语',
+                name: '戎建华',
+                type: '独唱',
+              },
+              {
+                name: '李小瑜',
+                type: '独唱',
+              },
+              {
+                name: '藏语',
                 type: '独唱',
               },
             ],

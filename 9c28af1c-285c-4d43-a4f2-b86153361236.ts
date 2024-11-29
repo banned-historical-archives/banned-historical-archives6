@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '女声合唱 上海高桥化工厂集体词曲',
+                name: '女声合唱',
+                type: '独唱',
+              },
+              {
+                name: '上海高桥化工厂集体词曲',
                 type: '独唱',
               },
             ],

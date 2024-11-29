@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 辽宁省歌剧院集体创作',
+                name: '合唱',
+                type: '独唱',
+              },
+              {
+                name: '辽宁省歌剧院集体创作',
                 type: '独唱',
               },
             ],

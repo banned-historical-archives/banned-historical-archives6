@@ -16,7 +16,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '内蒙古自治区歌舞团 广播文工团',
+                name: '内蒙古自治区歌舞团',
+                type: '独唱',
+              },
+              {
+                name: '广播文工团',
                 type: '独唱',
               },
             ],

@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '国防文工团合唱队 杨非词曲',
+                name: '国防文工团合唱队',
+                type: '独唱',
+              },
+              {
+                name: '杨非词曲',
                 type: '独唱',
               },
             ],

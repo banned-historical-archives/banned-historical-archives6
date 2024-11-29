@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 江西省歌舞团创作组词曲',
+                name: '合唱',
+                type: '独唱',
+              },
+              {
+                name: '江西省歌舞团创作组词曲',
                 type: '独唱',
               },
             ],

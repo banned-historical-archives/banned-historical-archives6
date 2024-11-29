@@ -16,7 +16,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张振富 耿莲凤',
+                name: '张振富',
+                type: '独唱',
+              },
+              {
+                name: '耿莲凤',
                 type: '独唱',
               },
             ],

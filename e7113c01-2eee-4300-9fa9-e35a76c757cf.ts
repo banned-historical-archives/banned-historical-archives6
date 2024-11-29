@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中华总工会文工团 佚名词曲',
+                name: '中华总工会文工团',
+                type: '独唱',
+              },
+              {
+                name: '佚名词曲',
                 type: '独唱',
               },
             ],

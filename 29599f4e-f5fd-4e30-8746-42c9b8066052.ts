@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '韩芝萍 熊生民',
+                name: '韩芝萍',
+                type: '独唱',
+              },
+              {
+                name: '熊生民',
                 type: '独唱',
               },
             ],

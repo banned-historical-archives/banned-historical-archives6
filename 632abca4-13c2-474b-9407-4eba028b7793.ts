@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '解放军沈阳部队政治部宣传队 解放军歌曲编辑部词曲',
+                name: '解放军沈阳部队政治部宣传队',
+                type: '独唱',
+              },
+              {
+                name: '解放军歌曲编辑部词曲',
                 type: '独唱',
               },
             ],

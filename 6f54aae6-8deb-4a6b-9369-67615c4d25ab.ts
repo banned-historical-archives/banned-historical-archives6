@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央广播文工团 中央广播文工团词曲',
+                name: '中央广播文工团',
+                type: '独唱',
+              },
+              {
+                name: '中央广播文工团词曲',
                 type: '独唱',
               },
             ],

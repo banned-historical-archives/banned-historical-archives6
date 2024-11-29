@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央民族乐团合唱队 巩志伟词曲',
+                name: '中央民族乐团合唱队',
+                type: '独唱',
+              },
+              {
+                name: '巩志伟词曲',
                 type: '独唱',
               },
             ],

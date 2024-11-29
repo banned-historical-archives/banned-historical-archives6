@@ -13,7 +13,15 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央乐团 麦新词曲 集体改词',
+                name: '中央乐团',
+                type: '独唱',
+              },
+              {
+                name: '麦新词曲',
+                type: '独唱',
+              },
+              {
+                name: '集体改词',
                 type: '独唱',
               },
             ],

@@ -16,7 +16,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '上海市建工局 轻工业局歌咏学习班',
+                name: '上海市建工局',
+                type: '独唱',
+              },
+              {
+                name: '轻工业局歌咏学习班',
                 type: '独唱',
               },
             ],

@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 陕西文艺工作者集体词曲',
+                name: '合唱',
+                type: '独唱',
+              },
+              {
+                name: '陕西文艺工作者集体词曲',
                 type: '独唱',
               },
             ],

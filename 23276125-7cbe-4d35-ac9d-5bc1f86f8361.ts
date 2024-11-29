@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '胡宝善 胡宝善',
+                name: '胡宝善',
+                type: '独唱',
+              },
+              {
+                name: '胡宝善',
                 type: '独唱',
               },
             ],

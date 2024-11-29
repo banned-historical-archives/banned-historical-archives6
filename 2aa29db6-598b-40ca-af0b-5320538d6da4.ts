@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '郭兰英 郭兰英',
+                name: '郭兰英',
+                type: '独唱',
+              },
+              {
+                name: '郭兰英',
                 type: '独唱',
               },
             ],

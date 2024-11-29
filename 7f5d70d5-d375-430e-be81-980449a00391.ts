@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱台湾高山族民歌 邰闽歌填词',
+                name: '合唱台湾高山族民歌',
+                type: '独唱',
+              },
+              {
+                name: '邰闽歌填词',
                 type: '独唱',
               },
             ],

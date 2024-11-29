@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '山东省歌舞团集体改词 藏族工部箭歌',
+                name: '山东省歌舞团集体改词',
+                type: '独唱',
+              },
+              {
+                name: '藏族工部箭歌',
                 type: '独唱',
               },
             ],

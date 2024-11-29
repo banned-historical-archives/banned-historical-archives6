@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '单秀荣 杨非词曲',
+                name: '单秀荣',
+                type: '独唱',
+              },
+              {
+                name: '杨非词曲',
                 type: '独唱',
               },
             ],

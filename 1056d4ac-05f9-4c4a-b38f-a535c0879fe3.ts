@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张振富 常留柱',
+                name: '张振富',
+                type: '独唱',
+              },
+              {
+                name: '常留柱',
                 type: '独唱',
               },
             ],

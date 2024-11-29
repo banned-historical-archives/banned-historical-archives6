@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '朱霁明 宋晓梅',
+                name: '朱霁明',
+                type: '独唱',
+              },
+              {
+                name: '宋晓梅',
                 type: '独唱',
               },
             ],

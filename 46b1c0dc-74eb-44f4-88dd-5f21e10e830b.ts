@@ -13,7 +13,15 @@ export default {
             sources: [],
             artists: [
               {
-                name: '王郁芝、王静珍 怒江州宣传队词曲 集体改词',
+                name: '王郁芝、王静珍',
+                type: '独唱',
+              },
+              {
+                name: '怒江州宣传队词曲',
+                type: '独唱',
+              },
+              {
+                name: '集体改词',
                 type: '独唱',
               },
             ],

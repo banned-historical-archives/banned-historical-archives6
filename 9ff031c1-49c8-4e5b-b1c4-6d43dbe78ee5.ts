@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '男声独唱 佚名词曲',
+                name: '男声独唱',
+                type: '独唱',
+              },
+              {
+                name: '佚名词曲',
                 type: '独唱',
               },
             ],

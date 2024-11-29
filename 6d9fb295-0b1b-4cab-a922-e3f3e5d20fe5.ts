@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '郭富美 闫存义词曲',
+                name: '郭富美',
+                type: '独唱',
+              },
+              {
+                name: '闫存义词曲',
                 type: '独唱',
               },
             ],

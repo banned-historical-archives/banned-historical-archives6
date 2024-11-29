@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '上海人民广播电台少儿课余广播合唱团 程逸汝',
+                name: '上海人民广播电台少儿课余广播合唱团',
+                type: '独唱',
+              },
+              {
+                name: '程逸汝',
                 type: '独唱',
               },
             ],

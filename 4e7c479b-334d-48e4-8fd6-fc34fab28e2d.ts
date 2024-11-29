@@ -13,7 +13,15 @@ export default {
             sources: [],
             artists: [
               {
-                name: '陕西省歌舞剧院合唱队 于淑荣领唱 佚名词曲',
+                name: '陕西省歌舞剧院合唱队',
+                type: '独唱',
+              },
+              {
+                name: '于淑荣领唱',
+                type: '独唱',
+              },
+              {
+                name: '佚名词曲',
                 type: '独唱',
               },
             ],

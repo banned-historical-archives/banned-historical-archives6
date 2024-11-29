@@ -16,7 +16,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央少年广播合唱团 广播剧团',
+                name: '中央少年广播合唱团',
+                type: '独唱',
+              },
+              {
+                name: '广播剧团',
                 type: '独唱',
               },
             ],

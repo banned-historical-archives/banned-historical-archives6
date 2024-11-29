@@ -11,15 +11,15 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/mzhxzwmxkl.mp3',
             sources: [],
-            artists: [
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
         lyricists: [
-          '李双江','郭正位',
+          '李双江',
+          '郭正位',
         ],
       },
     ],

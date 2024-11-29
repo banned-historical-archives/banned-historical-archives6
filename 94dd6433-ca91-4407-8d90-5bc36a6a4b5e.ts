@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '齐唱 劫夫词曲',
+                name: '齐唱',
+                type: '独唱',
+              },
+              {
+                name: '劫夫词曲',
                 type: '独唱',
               },
             ],

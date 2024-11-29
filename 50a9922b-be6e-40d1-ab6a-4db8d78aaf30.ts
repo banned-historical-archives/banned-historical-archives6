@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '群宗 藏族民歌',
+                name: '群宗',
+                type: '独唱',
+              },
+              {
+                name: '藏族民歌',
                 type: '独唱',
               },
             ],

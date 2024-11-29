@@ -13,7 +13,15 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 杨正仁词曲 集体改词',
+                name: '合唱',
+                type: '独唱',
+              },
+              {
+                name: '杨正仁词曲',
+                type: '独唱',
+              },
+              {
+                name: '集体改词',
                 type: '独唱',
               },
             ],

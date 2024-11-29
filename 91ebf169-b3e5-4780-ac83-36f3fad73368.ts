@@ -16,7 +16,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: ' 中国民航广州管理局毛泽东思想文艺宣传队',
+                name: '',
+                type: '独唱',
+              },
+              {
+                name: '中国民航广州管理局毛泽东思想文艺宣传队',
                 type: '独唱',
               },
             ],

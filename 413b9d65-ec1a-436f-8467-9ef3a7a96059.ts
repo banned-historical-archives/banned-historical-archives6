@@ -16,7 +16,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '熊卿才 程志',
+                name: '熊卿才',
+                type: '独唱',
+              },
+              {
+                name: '程志',
                 type: '独唱',
               },
             ],

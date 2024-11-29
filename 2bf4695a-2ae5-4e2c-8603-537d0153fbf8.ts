@@ -13,7 +13,15 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张振富、耿莲凤 洪源 刘薇',
+                name: '张振富、耿莲凤',
+                type: '独唱',
+              },
+              {
+                name: '洪源',
+                type: '独唱',
+              },
+              {
+                name: '刘薇',
                 type: '独唱',
               },
             ],

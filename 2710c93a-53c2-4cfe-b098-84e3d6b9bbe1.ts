@@ -13,7 +13,19 @@ export default {
             sources: [],
             artists: [
               {
-                name: '冯健雪 关鹤岩 张锡璠 徐恩萱词王焱曲',
+                name: '冯健雪',
+                type: '独唱',
+              },
+              {
+                name: '关鹤岩',
+                type: '独唱',
+              },
+              {
+                name: '张锡璠',
+                type: '独唱',
+              },
+              {
+                name: '徐恩萱词王焱曲',
                 type: '独唱',
               },
             ],

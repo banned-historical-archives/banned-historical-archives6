@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '贾世骏 牛宝源',
+                name: '贾世骏',
+                type: '独唱',
+              },
+              {
+                name: '牛宝源',
                 type: '独唱',
               },
             ],

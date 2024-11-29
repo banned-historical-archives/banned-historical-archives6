@@ -16,7 +16,15 @@ export default {
             sources: [],
             artists: [
               {
-                name: '余叔岩 迟仁林 戴学忱',
+                name: '余叔岩',
+                type: '独唱',
+              },
+              {
+                name: '迟仁林',
+                type: '独唱',
+              },
+              {
+                name: '戴学忱',
                 type: '独唱',
               },
             ],

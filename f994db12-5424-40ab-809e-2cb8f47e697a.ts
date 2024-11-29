@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '郭兰英 陕北民歌',
+                name: '郭兰英',
+                type: '独唱',
+              },
+              {
+                name: '陕北民歌',
                 type: '独唱',
               },
             ],

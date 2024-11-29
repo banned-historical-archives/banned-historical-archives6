@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '李文章 买买提塔提力克词奴尔买买提曲',
+                name: '李文章',
+                type: '独唱',
+              },
+              {
+                name: '买买提塔提力克词奴尔买买提曲',
                 type: '独唱',
               },
             ],

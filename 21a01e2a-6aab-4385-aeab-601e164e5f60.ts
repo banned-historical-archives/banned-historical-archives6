@@ -13,7 +13,15 @@ export default {
             sources: [],
             artists: [
               {
-                name: '童声合唱 根据邢台谚语 劫夫曲',
+                name: '童声合唱',
+                type: '独唱',
+              },
+              {
+                name: '根据邢台谚语',
+                type: '独唱',
+              },
+              {
+                name: '劫夫曲',
                 type: '独唱',
               },
             ],

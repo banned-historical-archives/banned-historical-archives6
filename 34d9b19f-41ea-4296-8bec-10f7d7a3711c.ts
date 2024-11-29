@@ -16,7 +16,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '万万岁 广州部队海上文化工作队',
+                name: '万万岁',
+                type: '独唱',
+              },
+              {
+                name: '广州部队海上文化工作队',
                 type: '独唱',
               },
             ],

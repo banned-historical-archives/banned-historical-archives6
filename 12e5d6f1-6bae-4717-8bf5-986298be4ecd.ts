@@ -23,13 +23,15 @@ export default {
           },
         ],
         lyricists: [
-          '陈书斋','曹起',
+          '陈书斋',
+          '曹起',
         ],
       },
     ],
     id: '12e5d6f1-6bae-4717-8bf5-986298be4ecd',
     composers: [
-      '艾依','尼丁',
+      '艾依',
+      '尼丁',
     ],
   },
   version: 2,

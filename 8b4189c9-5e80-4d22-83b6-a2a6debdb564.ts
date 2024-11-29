@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '才旦卓玛 藏族民歌',
+                name: '才旦卓玛',
+                type: '独唱',
+              },
+              {
+                name: '藏族民歌',
                 type: '独唱',
               },
             ],

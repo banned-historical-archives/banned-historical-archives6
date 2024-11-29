@@ -13,7 +13,19 @@ export default {
             sources: [],
             artists: [
               {
-                name: '郭颂 郭颂 胡小石词汪云才 郭颂曲',
+                name: '郭颂',
+                type: '独唱',
+              },
+              {
+                name: '郭颂',
+                type: '独唱',
+              },
+              {
+                name: '胡小石词汪云才',
+                type: '独唱',
+              },
+              {
+                name: '郭颂曲',
                 type: '独唱',
               },
             ],

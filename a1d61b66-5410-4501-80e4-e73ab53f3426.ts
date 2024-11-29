@@ -13,7 +13,15 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 上海市工人文化宫 文艺学习班词曲',
+                name: '合唱',
+                type: '独唱',
+              },
+              {
+                name: '上海市工人文化宫',
+                type: '独唱',
+              },
+              {
+                name: '文艺学习班词曲',
                 type: '独唱',
               },
             ],

@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '李小嘉、刘国栋 湖南省文工团歌舞队改词',
+                name: '李小嘉、刘国栋',
+                type: '独唱',
+              },
+              {
+                name: '湖南省文工团歌舞队改词',
                 type: '独唱',
               },
             ],

@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张越男 洪源',
+                name: '张越男',
+                type: '独唱',
+              },
+              {
+                name: '洪源',
                 type: '独唱',
               },
             ],

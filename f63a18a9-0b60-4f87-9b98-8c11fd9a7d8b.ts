@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '金善玉 佚名词曲',
+                name: '金善玉',
+                type: '独唱',
+              },
+              {
+                name: '佚名词曲',
                 type: '独唱',
               },
             ],

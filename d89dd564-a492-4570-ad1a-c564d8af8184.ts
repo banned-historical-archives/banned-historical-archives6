@@ -13,7 +13,15 @@ export default {
             sources: [],
             artists: [
               {
-                name: '女声齐唱 西藏民歌 集体改词',
+                name: '女声齐唱',
+                type: '独唱',
+              },
+              {
+                name: '西藏民歌',
+                type: '独唱',
+              },
+              {
+                name: '集体改词',
                 type: '独唱',
               },
             ],

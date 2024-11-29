@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 陆原',
+                name: '合唱',
+                type: '独唱',
+              },
+              {
+                name: '陆原',
                 type: '独唱',
               },
             ],

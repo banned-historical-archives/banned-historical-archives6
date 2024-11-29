@@ -13,7 +13,19 @@ export default {
             sources: [],
             artists: [
               {
-                name: '方明 铁志 韩敏词顾天庆 魏群曲',
+                name: '方明',
+                type: '独唱',
+              },
+              {
+                name: '铁志',
+                type: '独唱',
+              },
+              {
+                name: '韩敏词顾天庆',
+                type: '独唱',
+              },
+              {
+                name: '魏群曲',
                 type: '独唱',
               },
             ],

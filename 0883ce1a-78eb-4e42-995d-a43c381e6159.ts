@@ -16,7 +16,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '任丽蔚 张琨',
+                name: '任丽蔚',
+                type: '独唱',
+              },
+              {
+                name: '张琨',
                 type: '独唱',
               },
             ],

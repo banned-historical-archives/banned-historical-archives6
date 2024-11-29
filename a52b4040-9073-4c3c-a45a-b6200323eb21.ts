@@ -16,7 +16,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '昆明部队政治部歌舞团 电影版',
+                name: '昆明部队政治部歌舞团',
+                type: '独唱',
+              },
+              {
+                name: '电影版',
                 type: '独唱',
               },
             ],

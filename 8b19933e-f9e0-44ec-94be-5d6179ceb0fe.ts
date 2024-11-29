@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张振富、耿莲凤 马骏英词曲',
+                name: '张振富、耿莲凤',
+                type: '独唱',
+              },
+              {
+                name: '马骏英词曲',
                 type: '独唱',
               },
             ],

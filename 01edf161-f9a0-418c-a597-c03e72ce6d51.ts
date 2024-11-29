@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '韦有琴 佚名词曲',
+                name: '韦有琴',
+                type: '独唱',
+              },
+              {
+                name: '佚名词曲',
                 type: '独唱',
               },
             ],

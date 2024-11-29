@@ -13,7 +13,15 @@ export default {
             sources: [],
             artists: [
               {
-                name: '贠恩凤 洛川民歌 航海编曲',
+                name: '贠恩凤',
+                type: '独唱',
+              },
+              {
+                name: '洛川民歌',
+                type: '独唱',
+              },
+              {
+                name: '航海编曲',
                 type: '独唱',
               },
             ],

@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '刘淑芳 桑夫',
+                name: '刘淑芳',
+                type: '独唱',
+              },
+              {
+                name: '桑夫',
                 type: '独唱',
               },
             ],

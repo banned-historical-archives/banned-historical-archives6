@@ -16,7 +16,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '一步一层楼 辽宁歌舞团',
+                name: '一步一层楼',
+                type: '独唱',
+              },
+              {
+                name: '辽宁歌舞团',
                 type: '独唱',
               },
             ],

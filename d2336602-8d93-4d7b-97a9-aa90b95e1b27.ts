@@ -13,7 +13,19 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 湖南民歌 张士燮 陈杰整理',
+                name: '合唱',
+                type: '独唱',
+              },
+              {
+                name: '湖南民歌',
+                type: '独唱',
+              },
+              {
+                name: '张士燮',
+                type: '独唱',
+              },
+              {
+                name: '陈杰整理',
                 type: '独唱',
               },
             ],

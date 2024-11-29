@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '赵士静、李维领唱 佚名词曲',
+                name: '赵士静、李维领唱',
+                type: '独唱',
+              },
+              {
+                name: '佚名词曲',
                 type: '独唱',
               },
             ],

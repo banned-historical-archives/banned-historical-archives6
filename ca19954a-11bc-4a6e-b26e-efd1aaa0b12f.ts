@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '盘继宏 广西壮族自治区文化局创作组词曲',
+                name: '盘继宏',
+                type: '独唱',
+              },
+              {
+                name: '广西壮族自治区文化局创作组词曲',
                 type: '独唱',
               },
             ],

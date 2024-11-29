@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '杜声洪 佚名词曲',
+                name: '杜声洪',
+                type: '独唱',
+              },
+              {
+                name: '佚名词曲',
                 type: '独唱',
               },
             ],

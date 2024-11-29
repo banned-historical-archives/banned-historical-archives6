@@ -13,7 +13,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 晨耕词曲',
+                name: '合唱',
+                type: '独唱',
+              },
+              {
+                name: '晨耕词曲',
                 type: '独唱',
               },
             ],

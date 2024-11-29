@@ -13,7 +13,15 @@ export default {
             sources: [],
             artists: [
               {
-                name: '阿呷 藏族民歌 杜林曲',
+                name: '阿呷',
+                type: '独唱',
+              },
+              {
+                name: '藏族民歌',
+                type: '独唱',
+              },
+              {
+                name: '杜林曲',
                 type: '独唱',
               },
             ],

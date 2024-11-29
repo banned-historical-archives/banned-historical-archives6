@@ -16,7 +16,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '宋信子 李贞淑',
+                name: '宋信子',
+                type: '独唱',
+              },
+              {
+                name: '李贞淑',
                 type: '独唱',
               },
             ],

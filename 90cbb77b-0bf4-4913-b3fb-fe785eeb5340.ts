@@ -16,7 +16,11 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央民族歌舞团 苗语',
+                name: '中央民族歌舞团',
+                type: '独唱',
+              },
+              {
+                name: '苗语',
                 type: '独唱',
               },
             ],

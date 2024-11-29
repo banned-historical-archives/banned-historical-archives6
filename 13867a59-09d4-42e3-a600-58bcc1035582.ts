@@ -23,7 +23,8 @@ export default {
           },
         ],
         lyricists: [
-          '晨枫','白翎',
+          '晨枫',
+          '白翎',
         ],
       },
     ],
