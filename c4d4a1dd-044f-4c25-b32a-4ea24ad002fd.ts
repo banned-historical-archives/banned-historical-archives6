@@ -13,9 +13,11 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/天上没有玉皇，地下没有龙王.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [],
+            art_forms: [
+              '独唱',
+            ],
           },
         ],
         lyricists: [],

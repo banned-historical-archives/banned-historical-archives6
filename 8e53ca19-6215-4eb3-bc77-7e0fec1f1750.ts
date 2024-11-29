@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/276毛主席是世界人民的北斗星 马品一.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '马品一',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

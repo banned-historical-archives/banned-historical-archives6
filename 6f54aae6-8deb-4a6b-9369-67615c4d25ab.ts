@@ -10,14 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/gongrenjiejibixulingdaoyqie.mp3',
-            art_form: '独唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '中央广播文工团 中央广播文工团词曲',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

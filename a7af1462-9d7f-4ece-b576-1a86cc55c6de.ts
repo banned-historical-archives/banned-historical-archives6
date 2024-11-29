@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/607步调一致向胜利 解放军歌舞团.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '解放军歌舞团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

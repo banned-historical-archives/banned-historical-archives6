@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/585喜报送到北京城 福建前线后勤部队毛泽东思想宣传队.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '福建前线后勤部队毛泽东思想宣传队',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

@@ -10,14 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/yongyuangensuimaozhuxi.mp3',
-            art_form: '独唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '王萃年 乐群词 王淼池曲',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

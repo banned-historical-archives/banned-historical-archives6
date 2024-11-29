@@ -10,7 +10,6 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/回击翻案风，粉碎复辟梦 ⧸ Fight Back Against The Wind Of Reversing Verdicts And Smash The Dream Of Restoration [iMREZiAe_z4].mp3',
-            art_form: '独唱',
             sources: [
               '中国唱片M-2181',
             ],
@@ -19,6 +18,9 @@ export default {
                 name: '中国人民解放军沈阳部队政治部歌舞团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

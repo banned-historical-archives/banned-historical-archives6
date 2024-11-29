@@ -10,7 +10,6 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/165a我们永远是个战斗队 解放军歌舞团.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
@@ -18,16 +17,21 @@ export default {
                 type: '独唱',
               },
             ],
+            art_forms: [
+              '独唱',
+            ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/165我们永远是个战斗队 浙江省歌舞团.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '浙江省歌舞团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

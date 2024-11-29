@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/591毛主席的建军路线胜利万岁 中央广播文工团.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '中央广播文工团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

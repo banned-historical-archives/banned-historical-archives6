@@ -10,9 +10,11 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/红卫兵之歌 ⧸ Song Of The Red Guards (1966) [7lUxP7Yye5Y].mp3',
-            art_form: '独唱',
             sources: [],
             artists: [],
+            art_forms: [
+              '独唱',
+            ],
           },
         ],
         lyricists: [],

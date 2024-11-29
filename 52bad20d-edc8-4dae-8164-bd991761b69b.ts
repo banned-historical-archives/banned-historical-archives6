@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl47 “三、七”批示.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '“三、七”批示',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

@@ -10,14 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/shengchanmang.mp3',
-            art_form: '独唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '中央民族歌舞团 刘金娥领唱 崔琪词 刘炽 解冰编曲',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

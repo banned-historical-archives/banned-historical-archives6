@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/634文化大革命战果辉煌 北京部队政治部宣传队.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '北京部队政治部宣传队',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

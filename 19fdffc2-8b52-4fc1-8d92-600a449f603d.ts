@@ -10,14 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/gczg_gaikai.aac',
-            art_form: '独唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '中国广播艺术团合唱团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],
@@ -29,19 +30,19 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/gczg_wenge.aac',
-            art_form: '独唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '首都革命文艺战士',
                 type: '独唱',
               },
             ],
+            art_forms: [
+              '独唱',
+            ],
           },
         ],
-        lyricists: [
-        ],
+        lyricists: [],
       },
       {
         content: '五星红旗迎风飘扬，胜利歌声多么响亮！\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n越过高山，越过平原，跨过奔腾的黄河长江。\n宽广美丽的土地，是我们亲爱的家乡。\n英雄的人民站起来了！我们团结友爱坚强如钢。\n五星红旗迎风飘扬，胜利歌声多么响亮！\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n我们勤劳，我们勇敢，独立自由是我们的理想。\n我们战胜了多少苦难，才得到今天的解放！\n我们爱和平，我们爱家乡，谁敢侵犯我们就叫他死亡。\n五星红旗迎风飘扬，胜利歌声多么响亮！\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n东方太阳，正在升起，人民共和国正在成长。\n我们领袖毛泽东，指引着前进的方向。\n我们的生活天天向上，我们的前途万丈光芒。\n五星红旗迎风飘扬，胜利歌声多么响亮！\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n歌唱我们亲爱的祖国，从今走向繁荣富强！',
@@ -49,19 +50,19 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/gczg_dfh.aac',
-            art_form: '独唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '中央音乐学院音乐工作团合唱队',
                 type: '独唱',
               },
             ],
+            art_forms: [
+              '独唱',
+            ],
           },
         ],
-        lyricists: [
-        ],
+        lyricists: [],
       },
       {
         content: '五星红旗迎风飘扬，胜利歌声多么响亮！\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n越过高山，越过平原，跨过奔腾的黄河长江。\n宽广美丽的大地，是我们亲爱的家乡。\n英雄的人民站起来了！我们团结友爱坚强如钢。\n五星红旗迎风飘扬，胜利歌声多么响亮！\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n我们勤劳，我们勇敢，五千年历史光辉灿烂。\n我们战胜了一切苦难，才得到今天的解放！\n我们爱和平，我们爱家乡，谁敢侵犯我们就叫他死亡。\n五星红旗迎风飘扬，胜利歌声多么响亮！\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n太阳升起，万丈光芒，人民共和国正在成长。\n我们领袖毛泽东，指点着前进的方向。\n我们的生活天天向上，我们的前途万丈光芒。\n五星红旗迎风飘扬，胜利歌声多么响亮！\n歌唱我们亲爱的祖国，从今走向繁荣富强。\n歌唱我们亲爱的祖国，从今走向繁荣富强！',

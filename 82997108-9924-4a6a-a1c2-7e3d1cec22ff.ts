@@ -10,14 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/renmingongshexinhuakai.mp3',
-            art_form: '独唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '康冰、孟广来领唱柳向忱、韩伟词 宋国生曲',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

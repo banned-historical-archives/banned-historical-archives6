@@ -10,14 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/sihaoge.mp3',
-            art_form: '合唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '?',
                 type: '男声齐唱',
               },
+            ],
+            art_forms: [
+              '合唱',
             ],
           },
         ],

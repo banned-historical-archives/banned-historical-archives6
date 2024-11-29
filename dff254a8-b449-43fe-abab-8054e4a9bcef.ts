@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/673a毛泽东思想是我们心中永远不落的红太阳 周菁.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '周菁',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

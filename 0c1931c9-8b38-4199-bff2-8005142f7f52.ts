@@ -10,14 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/nanlaidyanbeiqudefeng.mp3',
-            art_form: '陕北民歌',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '苏盛兰',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '陕北民歌',
             ],
           },
         ],
@@ -25,7 +26,9 @@ export default {
       },
     ],
     id: '0c1931c9-8b38-4199-bff2-8005142f7f52',
-    composers: ['刘峰'],
+    composers: [
+      '刘峰',
+    ],
   },
   version: 2,
 };

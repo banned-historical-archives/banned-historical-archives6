@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/628我凝望着毛主席住过的地方 包淑芳.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '包淑芳',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

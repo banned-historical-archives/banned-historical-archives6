@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/538我们是革命青年 上海第八女子中学.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '上海第八女子中学',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

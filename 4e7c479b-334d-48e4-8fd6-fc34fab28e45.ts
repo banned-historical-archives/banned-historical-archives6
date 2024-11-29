@@ -10,7 +10,6 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/工农兵，革命路上打先锋 ⧸ Workers, Peasants And Soldiers, Vanguards On The Revolutionary Road (1972) [t8Jt9Emght8].mp3',
-            art_form: '独唱',
             sources: [
               '中国唱片M-948',
             ],
@@ -19,6 +18,9 @@ export default {
                 name: '中国人民解放军北京部队政治部宣传队',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

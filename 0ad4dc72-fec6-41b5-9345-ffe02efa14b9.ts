@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/e200我们歌唱党，歌唱毛主席 北京西城区月坛第一小学.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '北京西城区月坛第一小学',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/487毛主席登上庐山顶 总后勤部企业职工业余演出队.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '总后勤部企业职工业余演出队',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/501永远跟着毛泽东 辽宁喀喇沁左翼蒙古族自治县文工团.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '辽宁喀喇沁左翼蒙古族自治县文工团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

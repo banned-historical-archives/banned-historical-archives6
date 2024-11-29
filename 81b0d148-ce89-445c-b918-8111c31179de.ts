@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/622献给毛主席纪念堂 韩芝萍.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '韩芝萍',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

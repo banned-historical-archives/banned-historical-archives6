@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/e031毛主席率领我们打胜仗 动画片《小号手》插曲.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '动画片《小号手》插曲',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

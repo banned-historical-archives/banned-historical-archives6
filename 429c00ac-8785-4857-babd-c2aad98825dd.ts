@@ -10,33 +10,40 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/qzhshzhzhdyx.mp3',
-            art_form: '独唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '中央乐团 毛泽东词 中央乐团曲',
                 type: '独唱',
               },
             ],
+            art_forms: [
+              '独唱',
+            ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl88a群众是真正的英雄.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [],
+            art_forms: [
+              '独唱',
+            ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl88b群众是真正的英雄.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [],
+            art_forms: [
+              '独唱',
+            ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl88x群众是真正的英雄.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [],
+            art_forms: [
+              '独唱',
+            ],
           },
         ],
         lyricists: [],

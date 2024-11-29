@@ -10,15 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/maozhuxizoubianzuguodadi.mp3',
-            art_form: '独唱',
-            sources: [
-              ,
-            ],
+            sources: [],
             artists: [
               {
                 name: '龚军工、顾企兰 辽宁省革命样板戏学习班刘文玉词 秦咏诚曲',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

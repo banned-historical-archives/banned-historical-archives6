@@ -10,7 +10,6 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/我们是革命的新一代 ⧸ We Are A New Generation Of Revolutionary Youth (1974) [K1RJWEXw2AA].mp3',
-            art_form: '独唱',
             sources: [
               '中国唱片M-2029',
             ],
@@ -19,6 +18,9 @@ export default {
                 name: '江西省歌舞团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/772漫支花儿给毛主席听 甘肃代表团.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '甘肃代表团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

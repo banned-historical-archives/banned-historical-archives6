@@ -10,7 +10,6 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/072古田会议决议指引着方向 沈阳部队政治部宣传队.mp3',
-            art_form: '独唱',
             sources: [
               '中国唱片M-957',
             ],
@@ -19,6 +18,9 @@ export default {
                 name: '沈阳部队政治部宣传队',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

@@ -16,9 +16,11 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl109xa政策和策略是党的生命.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [],
+            art_forms: [
+              '独唱',
+            ],
           },
         ],
         lyricists: [],

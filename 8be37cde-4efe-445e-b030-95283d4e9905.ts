@@ -10,27 +10,32 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/yaotigaowomendyongq.mp3',
-            art_form: '独唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '合唱 毛泽东词 李劫夫曲',
                 type: '独唱',
               },
             ],
+            art_forms: [
+              '独唱',
+            ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl68a要提高我们的勇气.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [],
+            art_forms: [
+              '独唱',
+            ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl68要提高我们的勇气.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [],
+            art_forms: [
+              '独唱',
+            ],
           },
         ],
         lyricists: [],

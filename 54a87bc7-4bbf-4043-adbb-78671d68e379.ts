@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/484毛主席的光辉照大庆 李双江.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '李双江',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

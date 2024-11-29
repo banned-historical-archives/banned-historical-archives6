@@ -14,7 +14,6 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/举国欢腾庆胜利.mp3',
-            art_form: '独唱',
             sources: [
               '中国唱片M-2236',
             ],
@@ -23,6 +22,9 @@ export default {
                 name: '中国人民解放军铁道兵政治部文工团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

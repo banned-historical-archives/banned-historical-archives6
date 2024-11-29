@@ -10,15 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/lbkl2dshdx.mp3',
-            art_form: '独唱',
-            sources: [
-              ,
-            ],
+            sources: [],
             artists: [
               {
                 name: '童声合唱佚名词曲',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/总路线光芒照四方 中央人民广播电台广播乐团合唱队.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '中央人民广播电台广播乐团合唱队',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

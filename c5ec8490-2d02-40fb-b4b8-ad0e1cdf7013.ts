@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/592毛泽东思想武装的军队所向无敌 南京部队前线歌舞团.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '南京部队前线歌舞团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

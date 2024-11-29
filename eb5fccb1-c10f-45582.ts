@@ -14,7 +14,6 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/华主席登上天安门.mp3',
-            art_form: '独唱',
             sources: [
               '中国唱片M-2292',
             ],
@@ -23,6 +22,9 @@ export default {
                 name: '管惟俊，江苏省文工团乐队',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

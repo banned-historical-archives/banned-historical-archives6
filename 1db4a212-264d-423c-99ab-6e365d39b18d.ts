@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/e041毛主席的光辉 北京市西城区部分小学、中学.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '北京市西城区部分小学、中学',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

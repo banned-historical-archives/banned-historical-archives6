@@ -10,15 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/haoayi.mp3',
-            art_form: '独唱',
-            sources: [
-              ,
-            ],
+            sources: [],
             artists: [
               {
                 name: '上海少儿广播合唱团 于之词 寄明曲',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

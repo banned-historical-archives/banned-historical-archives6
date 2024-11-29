@@ -10,15 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/genzhihaihepuxinpian.mp3',
-            art_form: '独唱',
-            sources: [
-              ,
-            ],
+            sources: [],
             artists: [
               {
                 name: '刘杏 王奎申词 刘文仁曲',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

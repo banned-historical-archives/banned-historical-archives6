@@ -10,10 +10,11 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/zgsnxfddg_origin.mp3',
-            art_form: '独唱',
-            sources: [
-            ],
+            sources: [],
             artists: [],
+            art_forms: [
+              '独唱',
+            ],
           },
         ],
         lyricists: [
@@ -26,14 +27,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/zgsnxfddg_wenge.mp3',
-            art_form: '合唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '北京市少年宫友谊合唱团',
                 type: '合唱团',
               },
+            ],
+            art_forms: [
+              '合唱',
             ],
           },
         ],

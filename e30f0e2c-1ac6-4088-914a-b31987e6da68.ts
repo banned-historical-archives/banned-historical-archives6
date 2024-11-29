@@ -10,15 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/gcnjlsh8l.mp3',
-            art_form: '独唱',
-            sources: [
-              ,
-            ],
+            sources: [],
             artists: [
               {
                 name: '合唱 黎汝清词 沈亚威曲',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

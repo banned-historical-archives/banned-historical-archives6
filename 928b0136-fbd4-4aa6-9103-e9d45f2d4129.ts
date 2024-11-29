@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/756怀念毛主席 巴哈尔古丽.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '巴哈尔古丽',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

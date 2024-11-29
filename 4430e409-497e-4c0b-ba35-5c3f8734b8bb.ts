@@ -10,14 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wggwcjjzzfydz.mp3',
-            art_form: '合唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '解放军铁道兵歌舞团',
                 type: '合唱团',
               },
+            ],
+            art_forms: [
+              '合唱',
             ],
           },
         ],

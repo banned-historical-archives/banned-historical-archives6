@@ -10,10 +10,11 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/qsjwczlhql.mp3',
-            art_form: '合唱',
-            sources: [
-            ],
+            sources: [],
             artists: [],
+            art_forms: [
+              '合唱',
+            ],
           },
         ],
         lyricists: [],

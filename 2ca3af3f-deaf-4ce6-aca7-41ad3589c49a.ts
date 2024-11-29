@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/729歌唱我们的祖国 维吾尔语.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '维吾尔语',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

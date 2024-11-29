@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/495绣上毛主席万岁 万万岁 广州部队海上文化工作队.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '万万岁 广州部队海上文化工作队',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

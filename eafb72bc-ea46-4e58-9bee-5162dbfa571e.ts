@@ -10,21 +10,24 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/zzdtqtbssm.mp3',
-            art_form: '合唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '中央乐团',
                 type: '合唱团',
               },
             ],
+            art_forms: [
+              '合唱',
+            ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl103真正的铜墙铁壁是什么.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [],
+            art_forms: [
+              '独唱',
+            ],
           },
         ],
         lyricists: [],

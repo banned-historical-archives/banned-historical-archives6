@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/578全民皆兵就是好 上海市建工局 轻工业局歌咏学习班.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '上海市建工局 轻工业局歌咏学习班',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

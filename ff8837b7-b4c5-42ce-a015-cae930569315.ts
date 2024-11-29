@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/754天山儿女怀念毛主席 张莉.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '张莉',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

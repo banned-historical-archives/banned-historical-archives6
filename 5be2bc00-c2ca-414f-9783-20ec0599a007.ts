@@ -10,14 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wmdshwb_origin.mp3',
-            art_form: '合唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '上海革命文工团',
                 type: '合唱团',
               },
+            ],
+            art_forms: [
+              '合唱',
             ],
           },
         ],

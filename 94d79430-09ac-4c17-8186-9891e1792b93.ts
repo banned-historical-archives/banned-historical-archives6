@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/509毛泽东 张广天.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '张广天',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

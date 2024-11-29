@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/720毛主席的石油战士是硬骨头 中央广播文工团.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '中央广播文工团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

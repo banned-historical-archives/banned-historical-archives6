@@ -10,7 +10,6 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/1duiyinyanfeishangtian.mp3',
-            art_form: '独唱',
             sources: [
               'http://ip.lidicity.com/hj/cn/hsjd.html#top',
             ],
@@ -19,6 +18,9 @@ export default {
                 name: '合唱 周永西词 佚名曲',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

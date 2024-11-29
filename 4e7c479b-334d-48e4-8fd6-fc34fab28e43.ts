@@ -10,9 +10,11 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/党中央两个决议威力大-The power from two resolutions of the Party Central Committee is big-党中央の二つの決議は威力が大きい [9AOg7kiNuHM].mp3',
-            art_form: '独唱',
             sources: [],
             artists: [],
+            art_forms: [
+              '独唱',
+            ],
           },
         ],
         lyricists: [],

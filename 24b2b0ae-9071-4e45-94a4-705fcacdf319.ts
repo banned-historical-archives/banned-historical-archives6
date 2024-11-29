@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/559学习井冈革命人 范玉梅.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '范玉梅',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

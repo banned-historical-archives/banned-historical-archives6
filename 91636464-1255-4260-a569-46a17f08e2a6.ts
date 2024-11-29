@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/475这里是毛主席来过的地方 王凯平.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '王凯平',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

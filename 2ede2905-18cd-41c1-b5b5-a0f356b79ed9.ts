@@ -10,14 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/yaojiagesongmaozuxi.mp3',
-            art_form: '独唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '林锡琼湖南江华民族歌舞团',
                 type: '合唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

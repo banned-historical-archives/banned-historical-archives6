@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/504萨丽哈最听毛主席的话 库丽曼.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '库丽曼',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

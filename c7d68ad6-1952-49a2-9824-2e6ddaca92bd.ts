@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/667牢记阶级仇，紧握手中枪 胡松华.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '胡松华',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

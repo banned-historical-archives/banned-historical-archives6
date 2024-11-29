@@ -10,14 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wmzzdls_origin.mp3',
-            art_form: '合唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '沈阳音乐学院附中少年合唱队',
                 type: '合唱团',
               },
+            ],
+            art_forms: [
+              '合唱',
             ],
           },
         ],
@@ -31,10 +32,11 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wmzzdls_english.mp3',
-            art_form: '合唱',
-            sources: [
-            ],
+            sources: [],
             artists: [],
+            art_forms: [
+              '合唱',
+            ],
           },
         ],
         lyricists: [],
@@ -45,9 +47,7 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wmzzdls_wenge.mp3',
-            art_form: '合唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '首都革命文艺战士',
@@ -66,6 +66,9 @@ export default {
                 type: '领唱',
               },
             ],
+            art_forms: [
+              '合唱',
+            ],
           },
         ],
         lyricists: [],
@@ -76,14 +79,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wmzzdls_gaikai.mp3',
-            art_form: '独唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '中央乐团合唱团',
                 type: '合唱团',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/557我是公社的放牧员 吐尔逊娜依艾里.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '吐尔逊娜依艾里',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

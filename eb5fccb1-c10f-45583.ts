@@ -14,7 +14,6 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/华主席登上天安门-儿歌.mp3',
-            art_form: '独唱',
             sources: [
               '中国唱片M-2293',
             ],
@@ -23,6 +22,9 @@ export default {
                 name: '北京市少年宫合唱队，中央人民广播电台少年广播合唱团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

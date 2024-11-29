@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/328毛主席怎样说的，我就怎样 济南部队某部战士业余演出队.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '济南部队某部战士业余演出队',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

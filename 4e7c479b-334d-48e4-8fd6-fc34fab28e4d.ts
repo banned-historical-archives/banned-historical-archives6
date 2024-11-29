@@ -10,7 +10,6 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/让青春放光芒 ⧸ May Our Youth Shine (1974) [ezF-Jv2Dino].mp3',
-            art_form: '独唱',
             sources: [
               '中国唱片M-2029',
             ],
@@ -19,6 +18,9 @@ export default {
                 name: '吉林省歌舞团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

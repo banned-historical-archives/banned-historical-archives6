@@ -10,13 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/027f毛主席的光辉把炉台照亮 阎维文.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '阎维文',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],
@@ -28,7 +30,6 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/027d红太阳把炉台照亮 张建一.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
@@ -36,10 +37,12 @@ export default {
                 type: '独唱',
               },
             ],
+            art_forms: [
+              '独唱',
+            ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/027c红太阳把炉台照亮 相龙.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
@@ -47,10 +50,12 @@ export default {
                 type: '独唱',
               },
             ],
+            art_forms: [
+              '独唱',
+            ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/027b红太阳把炉台照亮 雷生.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
@@ -58,10 +63,12 @@ export default {
                 type: '独唱',
               },
             ],
+            art_forms: [
+              '独唱',
+            ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/027a毛主席的光辉把炉台照亮 施鸿鄂.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
@@ -69,16 +76,21 @@ export default {
                 type: '独唱',
               },
             ],
+            art_forms: [
+              '独唱',
+            ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/027红太阳把炉台照亮 戴玉强.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '戴玉强',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

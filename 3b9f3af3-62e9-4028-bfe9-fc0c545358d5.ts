@@ -10,9 +10,7 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/zhengzhiyexiaoliangtangtang.mp3',
-            art_form: '合唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '吉林省歌舞团',
@@ -22,6 +20,9 @@ export default {
                 name: '张培兰',
                 type: '领唱',
               },
+            ],
+            art_forms: [
+              '合唱',
             ],
           },
         ],

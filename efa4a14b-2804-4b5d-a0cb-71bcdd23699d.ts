@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/452祖国大地红烂漫 李翠涛.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '李翠涛',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

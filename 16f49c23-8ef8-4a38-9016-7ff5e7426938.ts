@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/609水家人民歌唱毛主席 卞小贞.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '卞小贞',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

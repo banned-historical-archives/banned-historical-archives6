@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/701永远做毛主席的好战士 济南部队文艺代表队.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '济南部队文艺代表队',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

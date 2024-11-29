@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/721团结胜利之歌 南京部队歌舞团.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '南京部队歌舞团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

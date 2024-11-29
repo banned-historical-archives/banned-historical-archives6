@@ -10,18 +10,26 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/laosiyangyuan.mp3',
-            art_form: '独唱',
-            sources: [
-            ],
-            artists: [
+            sources: [],
+            artists: [],
+            art_forms: [
+              '独唱',
             ],
           },
         ],
-        lyricists: ['王双印', '秀田', '双印'],
+        lyricists: [
+          '王双印',
+          '秀田',
+          '双印',
+        ],
       },
     ],
     id: '00417b38-0845-41eb-add1-2904949adbfd',
-    composers: ['王双印', '秀田', '双印'],
+    composers: [
+      '王双印',
+      '秀田',
+      '双印',
+    ],
   },
   version: 2,
 };

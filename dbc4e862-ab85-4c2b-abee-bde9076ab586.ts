@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/329g蔡永祥真英雄 战友文工团.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '战友文工团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

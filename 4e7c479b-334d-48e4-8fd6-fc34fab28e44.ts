@@ -10,7 +10,6 @@ export default {
         audios: [
           {
             url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/煤矿工人永远听毛主席的话 ⧸ Coal Miners Will Always Follow Chairman Mao's Teachings (1974) [QaVQpfnaKXY].mp3",
-            art_form: '独唱',
             sources: [
               '中国唱片M-2041',
             ],
@@ -19,6 +18,9 @@ export default {
                 name: '山西省人民歌舞团合唱队，吕梁手风琴',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

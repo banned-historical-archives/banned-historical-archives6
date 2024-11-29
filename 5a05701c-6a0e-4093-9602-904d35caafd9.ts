@@ -10,10 +10,11 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wmsgczyjbr_origin.mp3',
-            art_form: '合唱',
-            sources: [
-            ],
+            sources: [],
             artists: [],
+            art_forms: [
+              '合唱',
+            ],
           },
         ],
         lyricists: [
@@ -26,14 +27,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/wmsgczyjbr_gaikai.mp3',
-            art_form: '合唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '中央乐团合唱团',
                 type: '合唱团',
               },
+            ],
+            art_forms: [
+              '合唱',
             ],
           },
         ],

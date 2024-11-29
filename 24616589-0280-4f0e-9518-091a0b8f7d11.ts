@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/498瑶家歌颂毛主席 林锡琼.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '林锡琼',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

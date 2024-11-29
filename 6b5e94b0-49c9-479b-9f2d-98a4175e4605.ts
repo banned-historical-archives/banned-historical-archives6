@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/732伟大导师毛主席 乌兹别克语.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '乌兹别克语',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

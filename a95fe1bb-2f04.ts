@@ -10,7 +10,6 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/263a我们伟大的祖国 中央广播文工团.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
@@ -18,16 +17,21 @@ export default {
                 type: '独唱',
               },
             ],
+            art_forms: [
+              '独唱',
+            ],
           },
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/263我们伟大的祖国 辽宁歌舞团.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '辽宁歌舞团',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],
@@ -39,13 +43,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/263a我们伟大的祖国 中央广播文工团.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '此版本音乐暂缺',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

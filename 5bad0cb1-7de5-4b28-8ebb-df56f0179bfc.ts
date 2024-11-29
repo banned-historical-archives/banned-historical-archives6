@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/674毛主席著作最伟大 驻沪空军毛泽东思想宣传队.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '驻沪空军毛泽东思想宣传队',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

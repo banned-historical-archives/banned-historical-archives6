@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/619文化大革命凯歌响彻大地 方玲玲.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '方玲玲',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

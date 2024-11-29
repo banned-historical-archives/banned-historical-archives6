@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/e078万岁毛主席 小蓓蕾组合.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '小蓓蕾组合',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

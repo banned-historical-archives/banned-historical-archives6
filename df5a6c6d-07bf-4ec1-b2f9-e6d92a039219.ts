@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/e212做毛主席的好孩子 北京市第二师范学校第二附属小学.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '北京市第二师范学校第二附属小学',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

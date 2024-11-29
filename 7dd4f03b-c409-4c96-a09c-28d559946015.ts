@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/636毛主席语录写在飞机上 中国民航广州管理局毛泽东思想文艺宣传队.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '中国民航广州管理局毛泽东思想文艺宣传队',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/719毛泽东思想照俺庄 河北省农民业余演出队.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '河北省农民业余演出队',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

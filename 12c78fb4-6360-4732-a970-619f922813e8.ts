@@ -13,13 +13,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/563我们是半工半读的学生 上海机器制造学校.mp3',
-            art_form: '独唱',
             sources: [],
             artists: [
               {
                 name: '上海机器制造学校',
                 type: '独唱',
               },
+            ],
+            art_forms: [
+              '独唱',
             ],
           },
         ],

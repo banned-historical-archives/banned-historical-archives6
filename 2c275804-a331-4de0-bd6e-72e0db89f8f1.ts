@@ -10,14 +10,15 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/caichadeng.mp3',
-            art_form: '福建龙岩民歌',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
                 name: '女声合唱',
                 type: '合唱',
               },
+            ],
+            art_forms: [
+              '福建龙岩民歌',
             ],
           },
         ],

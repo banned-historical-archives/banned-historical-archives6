@@ -10,22 +10,27 @@ export default {
         audios: [
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/tiaodanchayeshangbeijing.mp3',
-            art_form: '独唱',
-            sources: [
-            ],
+            sources: [],
             artists: [
               {
-                name: '方应暄 叶蔚林词 白诚仁曲',
+                name: '方应暄',
                 type: '独唱',
               },
             ],
+            art_forms: [
+              '独唱',
+            ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '叶蔚林',
+        ],
       },
     ],
     id: '0a41f8b8-c204-4b59-b7c4-4358ec600e2f',
-    composers: [],
+    composers: [
+      '白诚仁',
+    ],
   },
   version: 2,
 };
