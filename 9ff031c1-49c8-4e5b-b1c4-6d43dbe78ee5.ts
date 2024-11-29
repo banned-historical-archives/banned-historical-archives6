@@ -22,15 +22,11 @@ export default {
             ],
           },
         ],
-        lyricists: [
-          '佚名',
-        ],
+        lyricists: [],
       },
     ],
     id: '9ff031c1-49c8-4e5b-b1c4-6d43dbe78ee5',
-    composers: [
-      '佚名',
-    ],
+    composers: [],
   },
   version: 2,
 };
