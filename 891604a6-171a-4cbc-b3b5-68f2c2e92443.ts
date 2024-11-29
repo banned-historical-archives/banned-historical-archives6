@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '叶佩英 李幼容词 夏中汤曲',
+                name: '叶佩英',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '李幼容',
+        ],
       },
     ],
     id: '891604a6-171a-4cbc-b3b5-68f2c2e92443',
-    composers: [],
+    composers: [
+      '夏中汤',
+    ],
   },
   version: 2,
 };

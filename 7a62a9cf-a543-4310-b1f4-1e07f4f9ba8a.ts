@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中国铁路文工团 林彪词 唐珂 生茂曲',
+                name: '中国铁路文工团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '林彪',
+        ],
       },
     ],
     id: '7a62a9cf-a543-4310-b1f4-1e07f4f9ba8a',
-    composers: [],
+    composers: [
+      '生茂',
+    ],
   },
   version: 2,
 };

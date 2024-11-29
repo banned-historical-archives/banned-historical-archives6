@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '庄如珍 何兆华词 张卓娅曲',
+                name: '庄如珍',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '何兆华',
+        ],
       },
     ],
     id: '9e051c51-39a9-44b0-b769-4c2c3e0e0685',
-    composers: [],
+    composers: [
+      '张卓娅',
+    ],
   },
   version: 2,
 };

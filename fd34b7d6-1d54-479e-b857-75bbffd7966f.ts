@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '黎信昌 巴·布林贝赫特·达木林词 王立平曲',
+                name: '黎信昌',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '巴·布林贝赫特·达木林',
+        ],
       },
     ],
     id: 'fd34b7d6-1d54-479e-b857-75bbffd7966f',
-    composers: [],
+    composers: [
+      '王立平',
+    ],
   },
   version: 2,
 };

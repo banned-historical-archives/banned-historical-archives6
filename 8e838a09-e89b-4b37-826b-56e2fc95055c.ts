@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '方玲玲瞿琮词 王燕樵曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '方玲玲瞿琮',
+        ],
       },
     ],
     id: '8e838a09-e89b-4b37-826b-56e2fc95055c',
-    composers: [],
+    composers: [
+      '王燕樵',
+    ],
   },
   version: 2,
 };

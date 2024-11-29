@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 芦芒词 孟波曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '芦芒',
+        ],
       },
     ],
     id: '6205f6e7-7488-44cc-9a31-e51ae3a065da',
-    composers: [],
+    composers: [
+      '孟波',
+    ],
   },
   version: 2,
 };

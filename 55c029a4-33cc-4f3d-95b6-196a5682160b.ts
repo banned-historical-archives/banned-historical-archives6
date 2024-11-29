@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '朱逢博 文莽彦词 解策励曲',
+                name: '朱逢博',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '文莽彦',
+        ],
       },
     ],
     id: '55c029a4-33cc-4f3d-95b6-196a5682160b',
-    composers: [],
+    composers: [
+      '解策励',
+    ],
   },
   version: 2,
 };

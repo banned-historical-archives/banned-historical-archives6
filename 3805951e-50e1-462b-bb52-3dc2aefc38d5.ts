@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '女声合唱 陈开元词 罗正鑫曲',
+                name: '女声合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '陈开元',
+        ],
       },
     ],
     id: '3805951e-50e1-462b-bb52-3dc2aefc38d5',
-    composers: [],
+    composers: [
+      '罗正鑫',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 王军原词 晓河曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '王军原',
+        ],
       },
     ],
     id: '7c284f2a-172c-494a-8741-9b67c6c4197f',
-    composers: [],
+    composers: [
+      '晓河',
+    ],
   },
   version: 2,
 };

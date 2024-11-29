@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '贾世骏 牛宝源 王永泉词 王永泉曲',
+                name: '贾世骏 牛宝源',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '王永泉',
+        ],
       },
     ],
     id: '270acba0-d499-45e7-985b-f04d2180470f',
-    composers: [],
+    composers: [
+      '王永泉',
+    ],
   },
   version: 2,
 };

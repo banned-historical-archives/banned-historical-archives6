@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '盘继红 曾宪瑞词 舟涛 晓影曲',
+                name: '盘继红',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '曾宪瑞',
+        ],
       },
     ],
     id: 'fe879c39-fa39-455f-b47c-b8da1dbf1349',
-    composers: [],
+    composers: [
+      '晓影',
+    ],
   },
   version: 2,
 };

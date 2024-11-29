@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '郭淑珍 顾工词 方韧曲',
+                name: '郭淑珍',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '顾工',
+        ],
       },
     ],
     id: '7f19ed8f-778e-4554-b850-e5245856ceab',
-    composers: [],
+    composers: [
+      '方韧',
+    ],
   },
   version: 2,
 };

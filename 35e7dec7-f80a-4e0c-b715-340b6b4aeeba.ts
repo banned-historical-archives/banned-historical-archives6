@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 夏冰编词 徐俊曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '夏冰编',
+        ],
       },
     ],
     id: '35e7dec7-f80a-4e0c-b715-340b6b4aeeba',
-    composers: [],
+    composers: [
+      '徐俊',
+    ],
   },
   version: 2,
 };

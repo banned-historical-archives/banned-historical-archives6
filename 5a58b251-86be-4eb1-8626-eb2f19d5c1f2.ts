@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '王双印 双印、马纳词 陈巅曲',
+                name: '王双印',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '双印、马纳',
+        ],
       },
     ],
     id: '5a58b251-86be-4eb1-8626-eb2f19d5c1f2',
-    composers: [],
+    composers: [
+      '陈巅',
+    ],
   },
   version: 2,
 };

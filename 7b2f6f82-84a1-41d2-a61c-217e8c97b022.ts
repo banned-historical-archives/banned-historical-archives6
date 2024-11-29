@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 洪源 石祥词 唐诃 生茂曲',
+                name: '合唱 洪源',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '石祥',
+        ],
       },
     ],
     id: '7b2f6f82-84a1-41d2-a61c-217e8c97b022',
-    composers: [],
+    composers: [
+      '生茂',
+    ],
   },
   version: 2,
 };

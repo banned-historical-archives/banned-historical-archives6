@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 集体词 聂耳曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '集体',
+        ],
       },
     ],
     id: 'cfe6f08d-c2ac-4cb7-a41f-4671b095226c',
-    composers: [],
+    composers: [
+      '聂耳',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '管维俊 周祥钧词 程茹辛曲',
+                name: '管维俊',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '周祥钧',
+        ],
       },
     ],
     id: '56b46076-9f60-43c2-b14b-c406aab8a2c4',
-    composers: [],
+    composers: [
+      '程茹辛',
+    ],
   },
   version: 2,
 };

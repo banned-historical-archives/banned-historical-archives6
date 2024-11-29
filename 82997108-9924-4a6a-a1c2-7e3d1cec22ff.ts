@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '康冰、孟广来领唱柳向忱、韩伟词 宋国生曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '康冰、孟广来领唱柳向忱、韩伟',
+        ],
       },
     ],
     id: '82997108-9924-4a6a-a1c2-7e3d1cec22ff',
-    composers: [],
+    composers: [
+      '宋国生',
+    ],
   },
   version: 2,
 };

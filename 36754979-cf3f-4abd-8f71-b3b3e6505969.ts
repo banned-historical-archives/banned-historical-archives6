@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '女声合唱 李德全词 高士衡曲',
+                name: '女声合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '李德全',
+        ],
       },
     ],
     id: '36754979-cf3f-4abd-8f71-b3b3e6505969',
-    composers: [],
+    composers: [
+      '高士衡',
+    ],
   },
   version: 2,
 };

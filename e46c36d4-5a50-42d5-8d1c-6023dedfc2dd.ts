@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '朱霁明 宋晓梅 张世荣词 田柯曲',
+                name: '朱霁明 宋晓梅',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张世荣',
+        ],
       },
     ],
     id: 'e46c36d4-5a50-42d5-8d1c-6023dedfc2dd',
-    composers: [],
+    composers: [
+      '田柯',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '刘淑芳 桑夫 谢添词 时乐濛曲',
+                name: '刘淑芳 桑夫',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '谢添',
+        ],
       },
     ],
     id: '976dd4de-63f5-4c95-b25d-24c8120e93e9',
-    composers: [],
+    composers: [
+      '时乐濛',
+    ],
   },
   version: 2,
 };

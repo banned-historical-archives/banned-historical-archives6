@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: ['王丹'],
+        lyricists: [
+          '王丹',
+        ],
       },
     ],
     id: '1c6baa85-6854-45b1-9a0d-9d361e274dd6',
-    composers: ['程恺'],
+    composers: [
+      '程恺',
+    ],
   },
   version: 2,
 };

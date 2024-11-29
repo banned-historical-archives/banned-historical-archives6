@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 韩塞词 佩之曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '韩塞',
+        ],
       },
     ],
     id: 'bcf90763-9aed-4948-aa3b-fdbc5074656e',
-    composers: [],
+    composers: [
+      '佩之',
+    ],
   },
   version: 2,
 };

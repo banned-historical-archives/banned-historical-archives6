@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '谢琳领唱 黄素嘉词 朱南溪曲',
+                name: '谢琳领唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '黄素嘉',
+        ],
       },
     ],
     id: '4db3b311-31d4-48dc-b26e-5c2fb495306b',
-    composers: [],
+    composers: [
+      '朱南溪',
+    ],
   },
   version: 2,
 };

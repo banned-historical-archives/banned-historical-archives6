@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '邓德英 集体词 张文曲',
+                name: '邓德英',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '集体',
+        ],
       },
     ],
     id: '083161cf-3181-452d-98d6-1aa91d6fb858',
-    composers: [],
+    composers: [
+      '张文',
+    ],
   },
   version: 2,
 };

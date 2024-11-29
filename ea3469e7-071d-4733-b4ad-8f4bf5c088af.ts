@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '李淑君、谢忆生 阎树田词 科会曲',
+                name: '李淑君、谢忆生',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '阎树田',
+        ],
       },
     ],
     id: 'ea3469e7-071d-4733-b4ad-8f4bf5c088af',
-    composers: [],
+    composers: [
+      '科会',
+    ],
   },
   version: 2,
 };

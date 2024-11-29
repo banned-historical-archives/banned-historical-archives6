@@ -12,21 +12,21 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/mzhxzwmxkl.mp3',
             sources: [],
             artists: [
-              {
-                name: '李双江郭正位词 田歌曲',
-                type: '独唱',
-              },
             ],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '李双江','郭正位',
+        ],
       },
     ],
     id: '162bd3cd-8dd4-4968-a1eb-843341f3e526',
-    composers: [],
+    composers: [
+      '田歌',
+    ],
   },
   version: 2,
 };

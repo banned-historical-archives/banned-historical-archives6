@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '广东省歌舞团女声合唱队 王堤词 张雄海曲',
+                name: '广东省歌舞团女声合唱队',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '王堤',
+        ],
       },
     ],
     id: '6bdabb10-401b-4ffe-9766-2e78735f2ed1',
-    composers: [],
+    composers: [
+      '张雄海',
+    ],
   },
   version: 2,
 };

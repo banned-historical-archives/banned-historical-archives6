@@ -22,7 +22,8 @@ export default {
               },
             ],
             art_forms: [
-              '独唱','彝族民歌'
+              '独唱',
+              '彝族民歌',
             ],
           },
         ],
@@ -30,7 +31,9 @@ export default {
       },
     ],
     id: 'be40fc0e-f319-4417-a8e7-2d33de7930dc',
-    composers: ['曹美韵'],
+    composers: [
+      '曹美韵',
+    ],
   },
   version: 2,
 };

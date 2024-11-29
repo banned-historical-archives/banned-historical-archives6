@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '童声合唱 张东方词 苏勇曲',
+                name: '童声合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张东方',
+        ],
       },
     ],
     id: 'c35e6770-a148-4a40-af61-833a178eafeb',
-    composers: [],
+    composers: [
+      '苏勇',
+    ],
   },
   version: 2,
 };

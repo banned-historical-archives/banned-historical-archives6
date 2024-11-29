@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '徐有光 崔永昌编词 周恒曲',
+                name: '徐有光',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '崔永昌编',
+        ],
       },
     ],
     id: 'd848b42f-1821-4243-84a6-40f3bbb09e60',
-    composers: [],
+    composers: [
+      '周恒',
+    ],
   },
   version: 2,
 };

@@ -11,18 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/genzhegongchandangzou.mp3',
             sources: [],
-            artists: [
-            ],
+            artists: [],
             art_forms: [
               '独唱',
             ],
           },
         ],
-        lyricists: ['沙洪'],
+        lyricists: [
+          '沙洪',
+        ],
       },
     ],
     id: '1e1adc7b-4d9f-4769-b283-fda428f590b8',
-    composers: ['王久鸣'],
+    composers: [
+      '王久鸣',
+    ],
   },
   version: 2,
 };

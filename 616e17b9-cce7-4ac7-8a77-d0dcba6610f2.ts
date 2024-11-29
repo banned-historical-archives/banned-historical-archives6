@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '李文章、韩文君 王受远词 夏康曲',
+                name: '李文章、韩文君',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '王受远',
+        ],
       },
     ],
     id: '616e17b9-cce7-4ac7-8a77-d0dcba6610f2',
-    composers: [],
+    composers: [
+      '夏康',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 任彤改词 劫夫曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '任彤改',
+        ],
       },
     ],
     id: '893e7b9c-c60d-4a2a-8518-87bdb5dc359f',
-    composers: [],
+    composers: [
+      '劫夫',
+    ],
   },
   version: 2,
 };

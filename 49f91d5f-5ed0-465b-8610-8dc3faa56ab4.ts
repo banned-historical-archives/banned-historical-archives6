@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '马玉涛 洪源、刘薇词 生茂曲',
+                name: '马玉涛',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '洪源、刘薇',
+        ],
       },
     ],
     id: '49f91d5f-5ed0-465b-8610-8dc3faa56ab4',
-    composers: [],
+    composers: [
+      '生茂',
+    ],
   },
   version: 2,
 };

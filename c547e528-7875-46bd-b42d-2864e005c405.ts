@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '黑龙江省歌舞团刘桂琴领唱 邢籁词 高扬曲',
+                name: '黑龙江省歌舞团刘桂琴领唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '邢籁',
+        ],
       },
     ],
     id: 'c547e528-7875-46bd-b42d-2864e005c405',
-    composers: [],
+    composers: [
+      '高扬',
+    ],
   },
   version: 2,
 };

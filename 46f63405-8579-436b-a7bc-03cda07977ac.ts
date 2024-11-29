@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '女声合唱 孙世毅词 聂耳曲',
+                name: '女声合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '孙世毅',
+        ],
       },
     ],
     id: '46f63405-8579-436b-a7bc-03cda07977ac',
-    composers: [],
+    composers: [
+      '聂耳',
+    ],
   },
   version: 2,
 };

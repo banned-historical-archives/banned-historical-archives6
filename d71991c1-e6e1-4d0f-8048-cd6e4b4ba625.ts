@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张振富、耿莲凤石祥词 生茂、唐诃曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张振富、耿莲凤石祥',
+        ],
       },
     ],
     id: 'd71991c1-e6e1-4d0f-8048-cd6e4b4ba625',
-    composers: [],
+    composers: [
+      '生茂、唐诃',
+    ],
   },
   version: 2,
 };

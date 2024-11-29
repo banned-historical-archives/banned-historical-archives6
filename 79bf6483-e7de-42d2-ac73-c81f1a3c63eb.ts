@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '马玉涛权宽浮词 石夫曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '马玉涛权宽浮',
+        ],
       },
     ],
     id: '79bf6483-e7de-42d2-ac73-c81f1a3c63eb',
-    composers: [],
+    composers: [
+      '石夫',
+    ],
   },
   version: 2,
 };

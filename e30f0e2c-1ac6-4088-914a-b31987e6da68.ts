@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 黎汝清词 沈亚威曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '黎汝清',
+        ],
       },
     ],
     id: 'e30f0e2c-1ac6-4088-914a-b31987e6da68',
-    composers: [],
+    composers: [
+      '沈亚威',
+    ],
   },
   version: 2,
 };

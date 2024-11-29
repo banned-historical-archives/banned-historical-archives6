@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '李光羲领唱 王祖武等词 樊祖荫 张殿英曲',
+                name: '李光羲领唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '王祖武等',
+        ],
       },
     ],
     id: 'e99d4af1-f0db-4123-be74-0038bf246f70',
-    composers: [],
+    composers: [
+      '张殿英',
+    ],
   },
   version: 2,
 };

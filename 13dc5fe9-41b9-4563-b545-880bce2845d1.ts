@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '苏凤娟 于宗信词 覃钊邦曲',
+                name: '苏凤娟',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '于宗信',
+        ],
       },
     ],
     id: '13dc5fe9-41b9-4563-b545-880bce2845d1',
-    composers: [],
+    composers: [
+      '覃钊邦',
+    ],
   },
   version: 2,
 };

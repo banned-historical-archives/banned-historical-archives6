@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张振富、耿莲凤 上海出版社词 生茂 竹林曲',
+                name: '张振富、耿莲凤',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '上海出版社',
+        ],
       },
     ],
     id: '968a35a1-50b6-4202-9a3c-75199f881299',
-    composers: [],
+    composers: [
+      '竹林',
+    ],
   },
   version: 2,
 };

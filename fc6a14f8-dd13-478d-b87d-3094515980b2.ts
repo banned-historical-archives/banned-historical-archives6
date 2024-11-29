@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张越男魏石词 魏群 傅晶曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张越男魏石',
+        ],
       },
     ],
     id: 'fc6a14f8-dd13-478d-b87d-3094515980b2',
-    composers: [],
+    composers: [
+      '傅晶',
+    ],
   },
   version: 2,
 };

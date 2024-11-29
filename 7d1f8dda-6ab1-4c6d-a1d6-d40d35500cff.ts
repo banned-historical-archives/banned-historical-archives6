@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '单秀荣 马里洛义诗程恺 石夫词 石夫曲',
+                name: '单秀荣 马里洛义诗程恺',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '石夫',
+        ],
       },
     ],
     id: '7d1f8dda-6ab1-4c6d-a1d6-d40d35500cff',
-    composers: [],
+    composers: [
+      '石夫',
+    ],
   },
   version: 2,
 };

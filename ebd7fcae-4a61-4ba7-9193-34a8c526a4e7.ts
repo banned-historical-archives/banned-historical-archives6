@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张新民、廖惠清 邓先恺等词 李才生曲',
+                name: '张新民、廖惠清',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '邓先恺等',
+        ],
       },
     ],
     id: 'ebd7fcae-4a61-4ba7-9193-34a8c526a4e7',
-    composers: [],
+    composers: [
+      '李才生',
+    ],
   },
   version: 2,
 };

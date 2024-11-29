@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '秦蕾 瞿琮词 郑秋枫曲',
+                name: '秦蕾',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '瞿琮',
+        ],
       },
     ],
     id: 'cba66e14-2204-4210-bdce-1aed11aae7a3',
-    composers: [],
+    composers: [
+      '郑秋枫',
+    ],
   },
   version: 2,
 };

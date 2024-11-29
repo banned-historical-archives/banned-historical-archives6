@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '刘秉义宇晓词 田歌曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '刘秉义宇晓',
+        ],
       },
     ],
     id: '9bf56e5b-2c66-4cae-8c4e-0eb062dc42f5',
-    composers: [],
+    composers: [
+      '田歌',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '上海声乐研究所歌唱训练班 王森词 陈锡元曲',
+                name: '上海声乐研究所歌唱训练班',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '王森',
+        ],
       },
     ],
     id: '36001f81-80d6-4bb7-aecf-80ff173db3fb',
-    composers: [],
+    composers: [
+      '陈锡元',
+    ],
   },
   version: 2,
 };

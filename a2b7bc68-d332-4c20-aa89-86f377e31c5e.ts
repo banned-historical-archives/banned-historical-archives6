@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央民族歌舞团 王中词 裴凡编曲',
+                name: '中央民族歌舞团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '王中',
+        ],
       },
     ],
     id: 'a2b7bc68-d332-4c20-aa89-86f377e31c5e',
-    composers: [],
+    composers: [
+      '裴凡编',
+    ],
   },
   version: 2,
 };

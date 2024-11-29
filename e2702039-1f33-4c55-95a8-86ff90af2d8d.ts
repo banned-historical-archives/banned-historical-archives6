@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '邓韵 郭兆甄词 郑秋枫曲',
+                name: '邓韵',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '郭兆甄',
+        ],
       },
     ],
     id: 'e2702039-1f33-4c55-95a8-86ff90af2d8d',
-    composers: [],
+    composers: [
+      '郑秋枫',
+    ],
   },
   version: 2,
 };

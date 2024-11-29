@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '贠恩凤 郭桦词 张毓贤编曲',
+                name: '贠恩凤',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '郭桦',
+        ],
       },
     ],
     id: '451e5e18-2f1c-49ee-a499-89098e3dc0be',
-    composers: [],
+    composers: [
+      '张毓贤编',
+    ],
   },
   version: 2,
 };

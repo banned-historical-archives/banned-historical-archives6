@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 麻扶摇词 周巍峙曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '麻扶摇',
+        ],
       },
     ],
     id: '209fb18c-cadb-44ec-ba6e-6568d6ea62bb',
-    composers: [],
+    composers: [
+      '周巍峙',
+    ],
   },
   version: 2,
 };

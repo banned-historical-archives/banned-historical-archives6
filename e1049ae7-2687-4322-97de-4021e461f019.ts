@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '上海少儿广播合唱团 于之词 寄明曲',
+                name: '上海少儿广播合唱团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '于之',
+        ],
       },
     ],
     id: 'e1049ae7-2687-4322-97de-4021e461f019',
-    composers: [],
+    composers: [
+      '寄明',
+    ],
   },
   version: 2,
 };

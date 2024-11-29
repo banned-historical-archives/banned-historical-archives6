@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 集体词 宋扬曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '集体',
+        ],
       },
     ],
     id: '15ddbfbc-ef26-414f-911f-690f79b1ebd9',
-    composers: [],
+    composers: [
+      '宋扬',
+    ],
   },
   version: 2,
 };

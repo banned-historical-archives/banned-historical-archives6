@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '童声合唱 孙海浪词 颂今曲',
+                name: '童声合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '孙海浪',
+        ],
       },
     ],
     id: '6edb675e-5e6e-4102-8304-c1df922f220c',
-    composers: [],
+    composers: [
+      '颂今',
+    ],
   },
   version: 2,
 };

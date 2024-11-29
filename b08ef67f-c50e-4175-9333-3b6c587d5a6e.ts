@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱金波词 刘兆光曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '合唱金波',
+        ],
       },
     ],
     id: 'b08ef67f-c50e-4175-9333-3b6c587d5a6e',
-    composers: [],
+    composers: [
+      '刘兆光',
+    ],
   },
   version: 2,
 };

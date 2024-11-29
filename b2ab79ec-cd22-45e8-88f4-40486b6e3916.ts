@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 高守信 罗晋词 麦丁曲',
+                name: '合唱 高守信',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '罗晋',
+        ],
       },
     ],
     id: 'b2ab79ec-cd22-45e8-88f4-40486b6e3916',
-    composers: [],
+    composers: [
+      '麦丁',
+    ],
   },
   version: 2,
 };

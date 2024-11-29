@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 张永枚词 肖民曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张永枚',
+        ],
       },
     ],
     id: '2909aa93-6921-4ff8-b0ab-e45ce594e826',
-    composers: [],
+    composers: [
+      '肖民',
+    ],
   },
   version: 2,
 };

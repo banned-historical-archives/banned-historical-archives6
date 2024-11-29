@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: ['王倬'],
+        lyricists: [
+          '王倬',
+        ],
       },
     ],
     id: 'd2ccf8b2-cd5b-4b06-8736-d544da184615',
-    composers: ['尚德义'],
+    composers: [
+      '尚德义',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 陈士可词 张难曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '陈士可',
+        ],
       },
     ],
     id: '52e6de03-2df3-4157-ba31-99c09b85306c',
-    composers: [],
+    composers: [
+      '张难',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '上海乐团合唱队 芦芒词 贺绿汀曲',
+                name: '上海乐团合唱队',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '芦芒',
+        ],
       },
     ],
     id: 'c05a63bc-1169-452b-9c9d-b8f4823b3e19',
-    composers: [],
+    composers: [
+      '贺绿汀',
+    ],
   },
   version: 2,
 };

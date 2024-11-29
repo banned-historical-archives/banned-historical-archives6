@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '才旦卓玛 西藏歌舞团集体词 白登朗吉曲',
+                name: '才旦卓玛',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '西藏歌舞团集体',
+        ],
       },
     ],
     id: '287fb106-df8d-4c8b-959a-ababe9fd7113',
-    composers: [],
+    composers: [
+      '白登朗吉',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '赵海兰领唱 龙燕怡词 怀化曲',
+                name: '赵海兰领唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '龙燕怡',
+        ],
       },
     ],
     id: '4744444a-930b-4117-87a5-c6da3025ab01',
-    composers: [],
+    composers: [
+      '怀化',
+    ],
   },
   version: 2,
 };

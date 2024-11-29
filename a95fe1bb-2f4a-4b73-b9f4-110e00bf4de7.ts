@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 郭 凡词 张棣昌曲',
+                name: '合唱 郭',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '凡',
+        ],
       },
     ],
     id: 'a95fe1bb-2f4a-4b73-b9f4-110e00bf4de7',
-    composers: [],
+    composers: [
+      '张棣昌',
+    ],
   },
   version: 2,
 };

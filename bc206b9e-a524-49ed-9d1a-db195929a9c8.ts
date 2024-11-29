@@ -11,8 +11,7 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/zlxdgmz4f.mp3',
             sources: [],
-            artists: [
-            ],
+            artists: [],
             art_forms: [
               '合唱',
             ],

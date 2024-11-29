@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '才旦卓玛 李坤词 阎飞曲',
+                name: '才旦卓玛',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '李坤',
+        ],
       },
     ],
     id: '76f1fedd-0a64-49bf-9c3d-7dc7374036ff',
-    composers: [],
+    composers: [
+      '阎飞',
+    ],
   },
   version: 2,
 };

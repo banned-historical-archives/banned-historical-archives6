@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央乐团 毛泽东词 中央乐团曲',
+                name: '中央乐团',
                 type: '独唱',
               },
             ],
@@ -78,11 +78,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '毛泽东',
+        ],
       },
     ],
     id: '687130e4-db7a-4401-a753-b3477296d3c5',
-    composers: [],
+    composers: [
+      '中央乐团',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '银川市文工团 征明万词 延河曲',
+                name: '银川市文工团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '征明万',
+        ],
       },
     ],
     id: 'c3e3b725-af27-4e9f-a2d8-eebec5a09319',
-    composers: [],
+    composers: [
+      '延河',
+    ],
   },
   version: 2,
 };

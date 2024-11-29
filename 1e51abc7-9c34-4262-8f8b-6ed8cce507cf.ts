@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: ['包钢'],
+        lyricists: [
+          '包钢',
+        ],
       },
     ],
     id: '1e51abc7-9c34-4262-8f8b-6ed8cce507cf',
-    composers: ['梅璧'],
+    composers: [
+      '梅璧',
+    ],
   },
   version: 2,
 };

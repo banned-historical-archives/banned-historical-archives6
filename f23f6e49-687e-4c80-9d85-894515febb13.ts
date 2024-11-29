@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张越男 陈克政词 锡宜、田光、傅晶曲',
+                name: '张越男',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '陈克政',
+        ],
       },
     ],
     id: 'f23f6e49-687e-4c80-9d85-894515febb13',
-    composers: [],
+    composers: [
+      '锡宜、田光、傅晶',
+    ],
   },
   version: 2,
 };

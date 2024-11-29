@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 岳伦 常松词 岳伦曲',
+                name: '合唱 岳伦',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '常松',
+        ],
       },
     ],
     id: '63b85936-f4ed-4c73-ace4-b1af88a75ba5',
-    composers: [],
+    composers: [
+      '岳伦',
+    ],
   },
   version: 2,
 };

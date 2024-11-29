@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 远惠、吕梁词 刘德增曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '远惠、吕梁',
+        ],
       },
     ],
     id: '49572b01-14db-4cd5-97c5-2a97b9e79a48',
-    composers: [],
+    composers: [
+      '刘德增',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '李双江魏梦君、张永泉词 张永泉曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '李双江魏梦君、张永泉',
+        ],
       },
     ],
     id: 'd0772cb7-345b-4546-a744-fd4ba9741a50',
-    composers: [],
+    composers: [
+      '张永泉',
+    ],
   },
   version: 2,
 };

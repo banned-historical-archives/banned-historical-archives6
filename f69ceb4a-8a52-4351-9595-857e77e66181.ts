@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 刘英俊词 袁方曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '刘英俊',
+        ],
       },
     ],
     id: 'f69ceb4a-8a52-4351-9595-857e77e66181',
-    composers: [],
+    composers: [
+      '袁方',
+    ],
   },
   version: 2,
 };

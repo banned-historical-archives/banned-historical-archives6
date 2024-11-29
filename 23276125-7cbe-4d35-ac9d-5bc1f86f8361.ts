@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '胡宝善 胡宝善 王传流词 胡宝善曲',
+                name: '胡宝善 胡宝善',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '王传流',
+        ],
       },
     ],
     id: '23276125-7cbe-4d35-ac9d-5bc1f86f8361',
-    composers: [],
+    composers: [
+      '胡宝善',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 单文词 吕远曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '单文',
+        ],
       },
     ],
     id: '50587960-e5c3-4d0a-af35-b23723fb13ff',
-    composers: [],
+    composers: [
+      '吕远',
+    ],
   },
   version: 2,
 };

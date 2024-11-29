@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '朱淑琴高枫词 铁军曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '朱淑琴高枫',
+        ],
       },
     ],
     id: '74bc407c-2d4f-4f8a-8c45-9028fd43ff19',
-    composers: [],
+    composers: [
+      '铁军',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '齐唱 毛泽东词 李劫夫曲',
+                name: '齐唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '毛泽东',
+        ],
       },
     ],
     id: '8d9062ca-20ab-48cd-840d-41e35fb6d1bb',
-    composers: [],
+    composers: [
+      '李劫夫',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 朱田词 艾开铃曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '朱田',
+        ],
       },
     ],
     id: 'e9a8f2d9-0d0b-458c-b73c-80f9015f77fc',
-    composers: [],
+    composers: [
+      '艾开铃',
+    ],
   },
   version: 2,
 };

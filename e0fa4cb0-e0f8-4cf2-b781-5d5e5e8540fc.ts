@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 石祥词 维聪 生茂曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '石祥',
+        ],
       },
     ],
     id: 'e0fa4cb0-e0f8-4cf2-b781-5d5e5e8540fc',
-    composers: [],
+    composers: [
+      '生茂',
+    ],
   },
   version: 2,
 };

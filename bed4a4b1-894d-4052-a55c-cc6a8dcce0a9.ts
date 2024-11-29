@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: ['中央乐团'],
+        lyricists: [
+          '中央乐团',
+        ],
       },
     ],
     id: 'bed4a4b1-894d-4052-a55c-cc6a8dcce0a9',
-    composers: ['聂耳'],
+    composers: [
+      '聂耳',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '高娃 集体词 图力古耳曲',
+                name: '高娃',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '集体',
+        ],
       },
     ],
     id: '492015ca-9d7b-451a-b4df-dc07b4a6008c',
-    composers: [],
+    composers: [
+      '图力古耳',
+    ],
   },
   version: 2,
 };

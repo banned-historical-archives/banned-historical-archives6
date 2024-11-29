@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 李俊琛词 罗念一曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '李俊琛',
+        ],
       },
     ],
     id: '5fab64b6-c218-4290-bad5-d1b38db004e5',
-    composers: [],
+    composers: [
+      '罗念一',
+    ],
   },
   version: 2,
 };

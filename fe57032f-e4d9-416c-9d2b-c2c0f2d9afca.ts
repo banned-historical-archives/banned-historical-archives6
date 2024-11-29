@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '上海广播电视艺术团 邬大为词 瞿维曲',
+                name: '上海广播电视艺术团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '邬大为',
+        ],
       },
     ],
     id: 'fe57032f-e4d9-416c-9d2b-c2c0f2d9afca',
-    composers: [],
+    composers: [
+      '瞿维',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '江苏省盐城地区文工团潘友仁领唱 林克仁词 朱新华曲',
+                name: '江苏省盐城地区文工团潘友仁领唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '林克仁',
+        ],
       },
     ],
     id: '25c8fc26-e455-4438-b170-ce6fa62860ee',
-    composers: [],
+    composers: [
+      '朱新华',
+    ],
   },
   version: 2,
 };

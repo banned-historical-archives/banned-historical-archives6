@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中国青年艺术团 马寒冰词 刘炽编曲',
+                name: '中国青年艺术团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '马寒冰',
+        ],
       },
     ],
     id: 'f0f64ab8-6d6a-48fd-923e-bf3dc6219ab5',
-    composers: [],
+    composers: [
+      '刘炽编',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 希扬词 李焕之曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '希扬',
+        ],
       },
     ],
     id: 'eac56562-b37a-4140-9f0e-18d13c25ec7e',
-    composers: [],
+    composers: [
+      '李焕之',
+    ],
   },
   version: 2,
 };

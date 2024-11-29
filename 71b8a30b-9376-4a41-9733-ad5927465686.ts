@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '贾世骏刘薇等词 引龙、晨耕曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '贾世骏刘薇等',
+        ],
       },
     ],
     id: '71b8a30b-9376-4a41-9733-ad5927465686',
-    composers: [],
+    composers: [
+      '引龙、晨耕',
+    ],
   },
   version: 2,
 };

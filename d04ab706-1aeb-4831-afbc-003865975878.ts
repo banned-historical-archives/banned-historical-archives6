@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '央广少年广播合唱团 曾宪瑞词 钟庆民曲',
+                name: '央广少年广播合唱团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '曾宪瑞',
+        ],
       },
     ],
     id: 'd04ab706-1aeb-4831-afbc-003865975878',
-    composers: [],
+    composers: [
+      '钟庆民',
+    ],
   },
   version: 2,
 };

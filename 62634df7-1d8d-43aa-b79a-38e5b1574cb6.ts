@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 韩笑词 晓河曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '韩笑',
+        ],
       },
     ],
     id: '62634df7-1d8d-43aa-b79a-38e5b1574cb6',
-    composers: [],
+    composers: [
+      '晓河',
+    ],
   },
   version: 2,
 };

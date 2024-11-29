@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '热比亚买买提 蒋德夫词 周吉曲',
+                name: '热比亚买买提',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '蒋德夫',
+        ],
       },
     ],
     id: '329743fd-bd24-4dd8-a897-6f448b079765',
-    composers: [],
+    composers: [
+      '周吉',
+    ],
   },
   version: 2,
 };

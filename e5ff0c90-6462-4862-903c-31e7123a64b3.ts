@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 石祥 刘薇词 唐诃曲',
+                name: '合唱 石祥',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '刘薇',
+        ],
       },
     ],
     id: 'e5ff0c90-6462-4862-903c-31e7123a64b3',
-    composers: [],
+    composers: [
+      '唐诃',
+    ],
   },
   version: 2,
 };

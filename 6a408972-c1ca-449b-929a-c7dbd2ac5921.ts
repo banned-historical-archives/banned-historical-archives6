@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '甘肃省歌剧团 张立人词 丁兆清曲',
+                name: '甘肃省歌剧团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张立人',
+        ],
       },
     ],
     id: '6a408972-c1ca-449b-929a-c7dbd2ac5921',
-    composers: [],
+    composers: [
+      '丁兆清',
+    ],
   },
   version: 2,
 };

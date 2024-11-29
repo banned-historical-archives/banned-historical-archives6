@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '才旦卓玛 焦萍词 朱践耳曲',
+                name: '才旦卓玛',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '焦萍',
+        ],
       },
     ],
     id: '478150c8-09b8-4d73-886c-b121dfc5f4ec',
-    composers: [],
+    composers: [
+      '朱践耳',
+    ],
   },
   version: 2,
 };

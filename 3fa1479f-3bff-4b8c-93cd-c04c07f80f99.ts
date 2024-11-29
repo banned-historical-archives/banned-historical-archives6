@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '翟世豪 张永枚词 彦克曲',
+                name: '翟世豪',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张永枚',
+        ],
       },
     ],
     id: '3fa1479f-3bff-4b8c-93cd-c04c07f80f99',
-    composers: [],
+    composers: [
+      '彦克',
+    ],
   },
   version: 2,
 };

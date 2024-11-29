@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '罗天婵 韩伟词 施光南曲',
+                name: '罗天婵',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '韩伟',
+        ],
       },
     ],
     id: '40f0c8d2-92a3-4a82-9a21-4493110fdc72',
-    composers: [],
+    composers: [
+      '施光南',
+    ],
   },
   version: 2,
 };

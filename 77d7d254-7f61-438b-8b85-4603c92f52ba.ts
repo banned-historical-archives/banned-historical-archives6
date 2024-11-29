@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中国歌剧团 张之涛词 王世一曲',
+                name: '中国歌剧团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张之涛',
+        ],
       },
     ],
     id: '77d7d254-7f61-438b-8b85-4603c92f52ba',
-    composers: [],
+    composers: [
+      '王世一',
+    ],
   },
   version: 2,
 };

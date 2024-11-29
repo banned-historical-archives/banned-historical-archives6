@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '李双江 唐青林词 韩夏曲',
+                name: '李双江',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '唐青林',
+        ],
       },
     ],
     id: '5d29f8a9-0690-4a14-a3fd-42f19a464deb',
-    composers: [],
+    composers: [
+      '韩夏',
+    ],
   },
   version: 2,
 };

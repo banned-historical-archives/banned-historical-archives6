@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '董振厚 魏宝贵词 钊邦 铁源曲',
+                name: '董振厚',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '魏宝贵',
+        ],
       },
     ],
     id: '760eeff5-684f-4d20-9114-86f0173ccc2e',
-    composers: [],
+    composers: [
+      '铁源',
+    ],
   },
   version: 2,
 };

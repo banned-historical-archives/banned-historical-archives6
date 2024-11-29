@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '孟贵彬、宁北河洛水词 高如星 孟贵彬曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,16 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '孟贵彬','宁北河洛水',
+        ],
       },
     ],
     id: '12a440e3-87a7-4694-a0f9-fbff28c67169',
-    composers: [],
+    composers: [
+      '高如星',
+      '孟贵彬',
+    ],
   },
   version: 2,
 };

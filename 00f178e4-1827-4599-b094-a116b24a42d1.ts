@@ -13,14 +13,15 @@ export default {
             sources: [
               'http://ip.lidicity.com/hj/cn/hsjd.html#top',
             ],
-            artists: [
-            ],
+            artists: [],
             art_forms: [
               '合唱',
             ],
           },
         ],
-        lyricists: ['周永西'],
+        lyricists: [
+          '周永西',
+        ],
       },
     ],
     id: '00f178e4-1827-4599-b094-a116b24a42d1',

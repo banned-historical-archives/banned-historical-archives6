@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 晨钟词 田光曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '晨钟',
+        ],
       },
     ],
     id: 'f66bbc75-72b9-489c-8ccd-c659d80b9419',
-    composers: [],
+    composers: [
+      '田光',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '蔡绍序 松拉才郎词 丁善德曲',
+                name: '蔡绍序',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '松拉才郎',
+        ],
       },
     ],
     id: 'f575695e-bdbf-4f37-88fe-70851e2136bf',
-    composers: [],
+    composers: [
+      '丁善德',
+    ],
   },
   version: 2,
 };

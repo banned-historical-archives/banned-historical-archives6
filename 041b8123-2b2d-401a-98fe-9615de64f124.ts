@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '金善玉 张藜词 金凤浩曲',
+                name: '金善玉',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张藜',
+        ],
       },
     ],
     id: '041b8123-2b2d-401a-98fe-9615de64f124',
-    composers: [],
+    composers: [
+      '金凤浩',
+    ],
   },
   version: 2,
 };

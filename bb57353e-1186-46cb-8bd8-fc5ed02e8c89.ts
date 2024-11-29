@@ -26,11 +26,15 @@ export default {
             ],
           },
         ],
-        lyricists: ['安波'],
+        lyricists: [
+          '安波',
+        ],
       },
     ],
     id: 'bb57353e-1186-46cb-8bd8-fc5ed02e8c89',
-    composers: ['贺绿汀'],
+    composers: [
+      '贺绿汀',
+    ],
   },
   version: 2,
 };

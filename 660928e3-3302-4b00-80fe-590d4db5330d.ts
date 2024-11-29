@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '童声合唱 张云峰词 金月苓曲',
+                name: '童声合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张云峰',
+        ],
       },
     ],
     id: '660928e3-3302-4b00-80fe-590d4db5330d',
-    composers: [],
+    composers: [
+      '金月苓',
+    ],
   },
   version: 2,
 };

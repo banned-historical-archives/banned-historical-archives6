@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 张士燮词 朱正本曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张士燮',
+        ],
       },
     ],
     id: '9e1c2564-bac4-4e9e-87af-98c01f61665b',
-    composers: [],
+    composers: [
+      '朱正本',
+    ],
   },
   version: 2,
 };

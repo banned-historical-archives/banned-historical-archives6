@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '蒋祖缋 阎肃词 羊鸣 姜春阳 金砂曲',
+                name: '蒋祖缋',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '阎肃',
+        ],
       },
     ],
     id: '24dc1cf4-d993-4410-905f-ddf52bae9db2',
-    composers: [],
+    composers: [
+      '金砂',
+    ],
   },
   version: 2,
 };

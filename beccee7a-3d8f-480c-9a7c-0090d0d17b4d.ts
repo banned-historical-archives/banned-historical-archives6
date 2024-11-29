@@ -11,10 +11,10 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/sldhj.mp3',
             sources: [],
-            artists: [
-            ],
+            artists: [],
             art_forms: [
-              '合唱','江西客家民歌'
+              '合唱',
+              '江西客家民歌',
             ],
           },
         ],

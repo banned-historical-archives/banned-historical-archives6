@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '童声合唱 金果临词 金月苓曲',
+                name: '童声合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '金果临',
+        ],
       },
     ],
     id: '9addf799-c507-41cb-83be-b6d4abdbbc8e',
-    composers: [],
+    composers: [
+      '金月苓',
+    ],
   },
   version: 2,
 };

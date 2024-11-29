@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '郭兰英、吕文科领唱 春潮、周杰词 吕远、唐诃曲',
+                name: '郭兰英、吕文科领唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '春潮、周杰',
+        ],
       },
     ],
     id: 'e79d83e6-ffa1-4d92-8b9c-381346862be8',
-    composers: [],
+    composers: [
+      '吕远、唐诃',
+    ],
   },
   version: 2,
 };

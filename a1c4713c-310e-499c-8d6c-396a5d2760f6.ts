@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '郭淑珍 何少林等词 高映华曲',
+                name: '郭淑珍',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '何少林等',
+        ],
       },
     ],
     id: 'a1c4713c-310e-499c-8d6c-396a5d2760f6',
-    composers: [],
+    composers: [
+      '高映华',
+    ],
   },
   version: 2,
 };

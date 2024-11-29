@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央广播少年合唱团叶影词 陈良曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '中央广播少年合唱团叶影',
+        ],
       },
     ],
     id: '28cfca10-3c9f-4c30-ad89-80ea5b0aa5d3',
-    composers: [],
+    composers: [
+      '陈良',
+    ],
   },
   version: 2,
 };

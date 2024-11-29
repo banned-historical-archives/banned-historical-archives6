@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张振富 常留柱 庄涛词 常留柱曲',
+                name: '张振富 常留柱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '庄涛',
+        ],
       },
     ],
     id: '1056d4ac-05f9-4c4a-b38f-a535c0879fe3',
-    composers: [],
+    composers: [
+      '常留柱',
+    ],
   },
   version: 2,
 };

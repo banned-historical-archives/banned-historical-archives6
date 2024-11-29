@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '内蒙古乌兰牧骑毛泽东思想宣传队 集体改词 胡松华词 编曲',
+                name: '内蒙古乌兰牧骑毛泽东思想宣传队',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '集体改',
+        ],
       },
     ],
     id: 'edba5397-b8b5-4d46-bd65-99fcc949619e',
-    composers: [],
+    composers: [
+      '编',
+    ],
   },
   version: 2,
 };

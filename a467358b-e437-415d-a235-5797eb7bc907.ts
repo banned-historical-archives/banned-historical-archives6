@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱阎肃词 羊鸣曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '合唱阎肃',
+        ],
       },
     ],
     id: 'a467358b-e437-415d-a235-5797eb7bc907',
-    composers: [],
+    composers: [
+      '羊鸣',
+    ],
   },
   version: 2,
 };

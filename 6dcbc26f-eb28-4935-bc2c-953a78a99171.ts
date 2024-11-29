@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '刘秉义 纪闯词 亢杰曲',
+                name: '刘秉义',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '纪闯',
+        ],
       },
     ],
     id: '6dcbc26f-eb28-4935-bc2c-953a78a99171',
-    composers: [],
+    composers: [
+      '亢杰',
+    ],
   },
   version: 2,
 };

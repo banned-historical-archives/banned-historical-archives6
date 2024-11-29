@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '云南白族自治州歌舞团段顺媛领唱 路丁词 张文编曲',
+                name: '云南白族自治州歌舞团段顺媛领唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '路丁',
+        ],
       },
     ],
     id: '487b378f-bd3a-4b72-a22d-6a937806449c',
-    composers: [],
+    composers: [
+      '张文编',
+    ],
   },
   version: 2,
 };

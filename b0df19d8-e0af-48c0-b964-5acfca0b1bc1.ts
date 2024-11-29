@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '罗天婵、谢静琴 金帆词 瞿希贤曲',
+                name: '罗天婵、谢静琴',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '金帆',
+        ],
       },
     ],
     id: 'b0df19d8-e0af-48c0-b964-5acfca0b1bc1',
-    composers: [],
+    composers: [
+      '瞿希贤',
+    ],
   },
   version: 2,
 };

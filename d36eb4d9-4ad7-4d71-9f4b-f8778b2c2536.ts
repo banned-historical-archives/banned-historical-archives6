@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张映哲 毛泽东词 劫夫曲',
+                name: '张映哲',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '毛泽东',
+        ],
       },
     ],
     id: 'd36eb4d9-4ad7-4d71-9f4b-f8778b2c2536',
-    composers: [],
+    composers: [
+      '劫夫',
+    ],
   },
   version: 2,
 };

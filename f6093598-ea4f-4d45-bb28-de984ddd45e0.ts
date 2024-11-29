@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '贾世骏 洪源词 生茂、晨耕曲',
+                name: '贾世骏',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '洪源',
+        ],
       },
     ],
     id: 'f6093598-ea4f-4d45-bb28-de984ddd45e0',
-    composers: [],
+    composers: [
+      '生茂、晨耕',
+    ],
   },
   version: 2,
 };

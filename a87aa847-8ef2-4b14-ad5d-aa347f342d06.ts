@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央民族歌舞团 刘金娥领唱 崔琪词 刘炽 解冰编曲',
+                name: '中央民族歌舞团 刘金娥领唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '崔琪',
+        ],
       },
     ],
     id: 'a87aa847-8ef2-4b14-ad5d-aa347f342d06',
-    composers: [],
+    composers: [
+      '解冰编',
+    ],
   },
   version: 2,
 };

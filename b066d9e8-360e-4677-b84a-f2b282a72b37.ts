@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '上海人民广播电台少儿课余广播合唱团 程逸汝 贾立夫词 众庆曲',
+                name: '上海人民广播电台少儿课余广播合唱团 程逸汝',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '贾立夫',
+        ],
       },
     ],
     id: 'b066d9e8-360e-4677-b84a-f2b282a72b37',
-    composers: [],
+    composers: [
+      '众庆',
+    ],
   },
   version: 2,
 };

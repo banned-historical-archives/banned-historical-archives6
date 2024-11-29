@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张振富、耿莲凤 刘薇 石祥词 竹林曲',
+                name: '张振富、耿莲凤 刘薇',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '石祥',
+        ],
       },
     ],
     id: '6b18c3a4-4323-4f28-8da8-16387a552a46',
-    composers: [],
+    composers: [
+      '竹林',
+    ],
   },
   version: 2,
 };

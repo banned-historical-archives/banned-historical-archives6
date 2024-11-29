@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '贾世骏 郁文词 王双印曲',
+                name: '贾世骏',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '郁文',
+        ],
       },
     ],
     id: '960a7a7c-56ed-49ad-b8f8-21a031fe961d',
-    composers: [],
+    composers: [
+      '王双印',
+    ],
   },
   version: 2,
 };

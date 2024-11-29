@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央民族歌舞团洪福芝领唱 高守信词 许承铉编曲',
+                name: '中央民族歌舞团洪福芝领唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '高守信',
+        ],
       },
     ],
     id: '8e818227-685f-4596-8c2a-e5dedcd6b0d2',
-    composers: [],
+    composers: [
+      '许承铉编',
+    ],
   },
   version: 2,
 };

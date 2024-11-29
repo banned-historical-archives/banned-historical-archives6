@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '李双江 郑南词 刘长安曲',
+                name: '李双江',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '郑南',
+        ],
       },
     ],
     id: '3898842a-fc94-4873-9055-eea76525b691',
-    composers: [],
+    composers: [
+      '刘长安',
+    ],
   },
   version: 2,
 };

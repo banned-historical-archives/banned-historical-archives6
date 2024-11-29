@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱傅金城词 生茂、唐诃曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '合唱傅金城',
+        ],
       },
     ],
     id: 'c71206b5-35d7-4f0b-94bf-2578c244b1a7',
-    composers: [],
+    composers: [
+      '生茂、唐诃',
+    ],
   },
   version: 2,
 };

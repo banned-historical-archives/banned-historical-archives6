@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '方应萱、王萃年 李劫夫词 李中艺 李劫夫曲',
+                name: '方应萱、王萃年',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '李劫夫',
+        ],
       },
     ],
     id: '2a4e9818-da3e-4c29-83a4-f5a92c12e235',
-    composers: [],
+    composers: [
+      '李劫夫',
+    ],
   },
   version: 2,
 };

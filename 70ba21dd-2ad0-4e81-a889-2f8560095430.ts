@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '克里木等 陈克正词 彦克曲',
+                name: '克里木等',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '陈克正',
+        ],
       },
     ],
     id: '70ba21dd-2ad0-4e81-a889-2f8560095430',
-    composers: [],
+    composers: [
+      '彦克',
+    ],
   },
   version: 2,
 };

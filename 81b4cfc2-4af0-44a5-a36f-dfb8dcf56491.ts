@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '韩芝萍 王晓岭词 魏群、李福玉曲',
+                name: '韩芝萍',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '王晓岭',
+        ],
       },
     ],
     id: '81b4cfc2-4af0-44a5-a36f-dfb8dcf56491',
-    composers: [],
+    composers: [
+      '魏群、李福玉',
+    ],
   },
   version: 2,
 };

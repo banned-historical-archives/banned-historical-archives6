@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '郑湘娟 瞿琮词 曹俊山曲',
+                name: '郑湘娟',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '瞿琮',
+        ],
       },
     ],
     id: '13908381-61a3-44fd-a60d-42248299133f',
-    composers: [],
+    composers: [
+      '曹俊山',
+    ],
   },
   version: 2,
 };

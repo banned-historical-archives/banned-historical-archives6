@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '郑欣江普词 锡铨 瑞生曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '郑欣江普',
+        ],
       },
     ],
     id: '9b12efe3-e7d4-47cb-8faf-2c49d0fae813',
-    composers: [],
+    composers: [
+      '瑞生',
+    ],
   },
   version: 2,
 };

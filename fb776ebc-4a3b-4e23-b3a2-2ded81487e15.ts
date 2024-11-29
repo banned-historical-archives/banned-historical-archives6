@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '上海少儿课余广播合唱团 安继红领唱李幼容词 王鸣光曲',
+                name: '上海少儿课余广播合唱团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '安继红领唱李幼容',
+        ],
       },
     ],
     id: 'fb776ebc-4a3b-4e23-b3a2-2ded81487e15',
-    composers: [],
+    composers: [
+      '王鸣光',
+    ],
   },
   version: 2,
 };

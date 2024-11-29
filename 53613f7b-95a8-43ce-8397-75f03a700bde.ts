@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '寇家伦 李瑛词 彦克曲',
+                name: '寇家伦',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '李瑛',
+        ],
       },
     ],
     id: '53613f7b-95a8-43ce-8397-75f03a700bde',
-    composers: [],
+    composers: [
+      '彦克',
+    ],
   },
   version: 2,
 };

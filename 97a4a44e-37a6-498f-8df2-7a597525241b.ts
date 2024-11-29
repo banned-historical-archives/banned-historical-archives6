@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '上海乐团合唱队 沈吉明词 曹善隆曲',
+                name: '上海乐团合唱队',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '沈吉明',
+        ],
       },
     ],
     id: '97a4a44e-37a6-498f-8df2-7a597525241b',
-    composers: [],
+    composers: [
+      '曹善隆',
+    ],
   },
   version: 2,
 };

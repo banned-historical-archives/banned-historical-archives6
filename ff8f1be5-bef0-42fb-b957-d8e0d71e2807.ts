@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '李光伦 集体词 聂耳曲',
+                name: '李光伦',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '集体',
+        ],
       },
     ],
     id: 'ff8f1be5-bef0-42fb-b957-d8e0d71e2807',
-    composers: [],
+    composers: [
+      '聂耳',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 石祥词 王锡仁曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '石祥',
+        ],
       },
     ],
     id: 'ab80fb19-b679-4a50-9d3e-2258dc8718e4',
-    composers: [],
+    composers: [
+      '王锡仁',
+    ],
   },
   version: 2,
 };

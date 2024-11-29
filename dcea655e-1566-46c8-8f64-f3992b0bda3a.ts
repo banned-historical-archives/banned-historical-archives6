@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 张汉举等词 张汉举曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张汉举等',
+        ],
       },
     ],
     id: 'dcea655e-1566-46c8-8f64-f3992b0bda3a',
-    composers: [],
+    composers: [
+      '张汉举',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张振富、耿莲凤 洪源 刘薇 石祥词 唐诃 生茂曲',
+                name: '张振富、耿莲凤 洪源 刘薇',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '石祥',
+        ],
       },
     ],
     id: '2bf4695a-2ae5-4e2c-8603-537d0153fbf8',
-    composers: [],
+    composers: [
+      '生茂',
+    ],
   },
   version: 2,
 };

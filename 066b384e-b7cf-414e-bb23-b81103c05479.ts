@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 集体词 田歌曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '集体',
+        ],
       },
     ],
     id: '066b384e-b7cf-414e-bb23-b81103c05479',
-    composers: [],
+    composers: [
+      '田歌',
+    ],
   },
   version: 2,
 };

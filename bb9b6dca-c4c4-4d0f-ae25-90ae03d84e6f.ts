@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '李谷一叶槐青、剑兵词 羊鸣曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '李谷一叶槐青、剑兵',
+        ],
       },
     ],
     id: 'bb9b6dca-c4c4-4d0f-ae25-90ae03d84e6f',
-    composers: [],
+    composers: [
+      '羊鸣',
+    ],
   },
   version: 2,
 };

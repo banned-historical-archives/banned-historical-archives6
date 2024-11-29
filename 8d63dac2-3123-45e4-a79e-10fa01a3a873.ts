@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '贾世骏 瞿琮词 郑秋枫曲',
+                name: '贾世骏',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '瞿琮',
+        ],
       },
     ],
     id: '8d63dac2-3123-45e4-a79e-10fa01a3a873',
-    composers: [],
+    composers: [
+      '郑秋枫',
+    ],
   },
   version: 2,
 };

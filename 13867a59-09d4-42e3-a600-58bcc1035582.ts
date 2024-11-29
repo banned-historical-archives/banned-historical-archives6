@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '总政歌舞团合唱队 晨枫、白翎词 彦克曲',
+                name: '总政歌舞团合唱队',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '晨枫','白翎',
+        ],
       },
     ],
     id: '13867a59-09d4-42e3-a600-58bcc1035582',
-    composers: [],
+    composers: [
+      '彦克',
+    ],
   },
   version: 2,
 };

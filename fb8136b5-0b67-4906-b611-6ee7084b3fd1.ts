@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央乐团 集体词 冼星海曲',
+                name: '中央乐团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '集体',
+        ],
       },
     ],
     id: 'fb8136b5-0b67-4906-b611-6ee7084b3fd1',
-    composers: [],
+    composers: [
+      '冼星海',
+    ],
   },
   version: 2,
 };

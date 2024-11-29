@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张越男 洪源 田光词 傅晶曲',
+                name: '张越男 洪源',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '田光',
+        ],
       },
     ],
     id: '83bd49fd-dbdd-465d-b5e5-f56fb9459ece',
-    composers: [],
+    composers: [
+      '傅晶',
+    ],
   },
   version: 2,
 };

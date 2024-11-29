@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '胡松华 张冠荣词 郭万春曲',
+                name: '胡松华',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张冠荣',
+        ],
       },
     ],
     id: '33cde82b-8de2-4518-9bb0-713502aa193a',
-    composers: [],
+    composers: [
+      '郭万春',
+    ],
   },
   version: 2,
 };

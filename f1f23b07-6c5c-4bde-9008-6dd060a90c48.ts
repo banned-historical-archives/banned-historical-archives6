@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 陈耘 徐景贤词 萧珩曲',
+                name: '合唱 陈耘',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '徐景贤',
+        ],
       },
     ],
     id: 'f1f23b07-6c5c-4bde-9008-6dd060a90c48',
-    composers: [],
+    composers: [
+      '萧珩',
+    ],
   },
   version: 2,
 };

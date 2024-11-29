@@ -13,12 +13,12 @@ export default {
             sources: [],
             artists: [
               {
-                name: '央广少年合唱团童波词 王莘曲',
-                type: '独唱',
+                name: '央广少年合唱团',
+                type: '合唱团',
               },
             ],
             art_forms: [
-              '独唱',
+              '合唱',
             ],
           },
           {
@@ -26,20 +26,24 @@ export default {
             sources: [],
             artists: [
               {
-                name: '北京石驸马大街幼儿园佚名词曲',
-                type: '独唱',
+                name: '北京石驸马大街幼儿园',
+                type: '合唱团',
               },
             ],
             art_forms: [
-              '独唱',
+              '合唱',
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '童波',
+        ],
       },
     ],
     id: '086b9016-d561-49d9-ad5b-dec0c1a70d9d',
-    composers: [],
+    composers: [
+      '王莘',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 朱田词 程化栋曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '朱田',
+        ],
       },
     ],
     id: 'c4ec2504-5076-4e8e-bf93-4de072501d4f',
-    composers: [],
+    composers: [
+      '程化栋',
+    ],
   },
   version: 2,
 };

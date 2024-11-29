@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '郭兰英 郭兰英 邱玉璞词 郭兰英曲',
+                name: '郭兰英 郭兰英',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '邱玉璞',
+        ],
       },
     ],
     id: '2aa29db6-598b-40ca-af0b-5320538d6da4',
-    composers: [],
+    composers: [
+      '郭兰英',
+    ],
   },
   version: 2,
 };

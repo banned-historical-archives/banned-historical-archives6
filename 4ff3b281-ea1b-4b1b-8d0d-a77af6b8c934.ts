@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '童声合唱 张秋生词 薄兰谷 程金元曲',
+                name: '童声合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '张秋生',
+        ],
       },
     ],
     id: '4ff3b281-ea1b-4b1b-8d0d-a77af6b8c934',
-    composers: [],
+    composers: [
+      '程金元',
+    ],
   },
   version: 2,
 };

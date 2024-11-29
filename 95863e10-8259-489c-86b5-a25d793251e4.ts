@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱集体词 王莘曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '合唱集体',
+        ],
       },
     ],
     id: '95863e10-8259-489c-86b5-a25d793251e4',
-    composers: [],
+    composers: [
+      '王莘',
+    ],
   },
   version: 2,
 };

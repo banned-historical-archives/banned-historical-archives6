@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 安娥词 贺绿汀曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '安娥',
+        ],
       },
     ],
     id: '9696e116-ba1a-450b-a28a-09e841111f02',
-    composers: [],
+    composers: [
+      '贺绿汀',
+    ],
   },
   version: 2,
 };

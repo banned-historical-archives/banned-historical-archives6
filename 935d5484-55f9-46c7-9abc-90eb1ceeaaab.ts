@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '王萃年 乐群词 王淼池曲',
+                name: '王萃年',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '乐群',
+        ],
       },
     ],
     id: '935d5484-55f9-46c7-9abc-90eb1ceeaaab',
-    composers: [],
+    composers: [
+      '王淼池',
+    ],
   },
   version: 2,
 };

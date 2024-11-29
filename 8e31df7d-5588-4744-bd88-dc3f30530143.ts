@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 陆原 岳伦词 岳伦曲',
+                name: '合唱 陆原',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '岳伦',
+        ],
       },
     ],
     id: '8e31df7d-5588-4744-bd88-dc3f30530143',
-    composers: [],
+    composers: [
+      '岳伦',
+    ],
   },
   version: 2,
 };

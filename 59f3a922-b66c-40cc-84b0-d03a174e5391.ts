@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '齐唱 集体词 聂耳曲',
+                name: '齐唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '集体',
+        ],
       },
     ],
     id: '59f3a922-b66c-40cc-84b0-d03a174e5391',
-    composers: [],
+    composers: [
+      '聂耳',
+    ],
   },
   version: 2,
 };

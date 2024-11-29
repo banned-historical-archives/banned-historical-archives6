@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '陆青霜 管平词 唐诃曲',
+                name: '陆青霜',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '管平',
+        ],
       },
     ],
     id: 'ca8ae275-e5a7-4c89-a86b-10ab5f5003bf',
-    composers: [],
+    composers: [
+      '唐诃',
+    ],
   },
   version: 2,
 };

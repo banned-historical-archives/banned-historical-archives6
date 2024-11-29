@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '解放军歌舞团洪源词 傅晶、田光曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '解放军歌舞团洪源',
+        ],
       },
     ],
     id: 'fe8be74d-f485-4cbb-89ff-02b013299f45',
-    composers: [],
+    composers: [
+      '傅晶、田光',
+    ],
   },
   version: 2,
 };

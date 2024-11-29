@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 佘吐肯原词 祝恒谦编曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '佘吐肯原',
+        ],
       },
     ],
     id: '2496533a-ef45-4ebc-9728-6785fbe7f928',
-    composers: [],
+    composers: [
+      '祝恒谦编',
+    ],
   },
   version: 2,
 };

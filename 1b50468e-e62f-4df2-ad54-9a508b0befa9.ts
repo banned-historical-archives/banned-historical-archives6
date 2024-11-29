@@ -11,18 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/mzhxwmxzhdty.mp3',
             sources: [],
-            artists: [
-            ],
+            artists: [],
             art_forms: [
               '合唱',
             ],
           },
         ],
-        lyricists: ['乔羽'],
+        lyricists: [
+          '乔羽',
+        ],
       },
     ],
     id: '1b50468e-e62f-4df2-ad54-9a508b0befa9',
-    composers: ['沈亚葳'],
+    composers: [
+      '沈亚葳',
+    ],
   },
   version: 2,
 };

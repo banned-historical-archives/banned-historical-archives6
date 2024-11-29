@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '上海乐团合唱队 鲁君词 贺绿汀曲',
+                name: '上海乐团合唱队',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '鲁君',
+        ],
       },
     ],
     id: '6f937178-fd4a-4543-a619-8478cc94e926',
-    composers: [],
+    composers: [
+      '贺绿汀',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '朱逢博 王森词 践耳曲',
+                name: '朱逢博',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '王森',
+        ],
       },
     ],
     id: '110aa802-47d4-4425-8e8c-78156762249f',
-    composers: [],
+    composers: [
+      '践耳',
+    ],
   },
   version: 2,
 };

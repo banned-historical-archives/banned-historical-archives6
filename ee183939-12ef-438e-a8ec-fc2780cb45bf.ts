@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '龚军工、顾企兰 辽宁省革命样板戏学习班刘文玉词 秦咏诚曲',
+                name: '龚军工、顾企兰',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '辽宁省革命样板戏学习班刘文玉',
+        ],
       },
     ],
     id: 'ee183939-12ef-438e-a8ec-fc2780cb45bf',
-    composers: [],
+    composers: [
+      '秦咏诚',
+    ],
   },
   version: 2,
 };

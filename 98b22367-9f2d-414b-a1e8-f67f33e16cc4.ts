@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '施爱华领唱 蓝天词 献芝曲',
+                name: '施爱华领唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '蓝天',
+        ],
       },
     ],
     id: '98b22367-9f2d-414b-a1e8-f67f33e16cc4',
-    composers: [],
+    composers: [
+      '献芝',
+    ],
   },
   version: 2,
 };

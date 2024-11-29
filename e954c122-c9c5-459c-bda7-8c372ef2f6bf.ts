@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 西彤词 寄明曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '西彤',
+        ],
       },
     ],
     id: 'e954c122-c9c5-459c-bda7-8c372ef2f6bf',
-    composers: [],
+    composers: [
+      '寄明',
+    ],
   },
   version: 2,
 };

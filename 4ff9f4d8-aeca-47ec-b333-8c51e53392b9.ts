@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 向彤词 龙飞曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '向彤',
+        ],
       },
     ],
     id: '4ff9f4d8-aeca-47ec-b333-8c51e53392b9',
-    composers: [],
+    composers: [
+      '龙飞',
+    ],
   },
   version: 2,
 };

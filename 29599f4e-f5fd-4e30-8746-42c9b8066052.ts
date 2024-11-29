@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '韩芝萍 熊生民 王晓岭词 魏群 季承曲',
+                name: '韩芝萍 熊生民',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '王晓岭',
+        ],
       },
     ],
     id: '29599f4e-f5fd-4e30-8746-42c9b8066052',
-    composers: [],
+    composers: [
+      '季承',
+    ],
   },
   version: 2,
 };

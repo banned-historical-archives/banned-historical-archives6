@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张振富、耿莲凤 石祥 刘薇词 生茂曲',
+                name: '张振富、耿莲凤 石祥',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '刘薇',
+        ],
       },
     ],
     id: '6017f818-96e6-41ae-b2e2-4da5433fa792',
-    composers: [],
+    composers: [
+      '生茂',
+    ],
   },
   version: 2,
 };

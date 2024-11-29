@@ -11,14 +11,15 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/zmzxdhzs.mp3',
             sources: [],
-            artists: [
-            ],
+            artists: [],
             art_forms: [
               '合唱',
             ],
           },
         ],
-        lyricists: ['雷锋'],
+        lyricists: [
+          '雷锋',
+        ],
       },
     ],
     id: '0f4098c1-6524-40e9-bbde-2df44467a7ca',

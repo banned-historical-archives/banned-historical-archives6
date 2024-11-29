@@ -11,18 +11,21 @@ export default {
           {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/gongrenjiejiyinggutou.mp3',
             sources: [],
-            artists: [
-            ],
+            artists: [],
             art_forms: [
               '合唱',
             ],
           },
         ],
-        lyricists: ['希扬'],
+        lyricists: [
+          '希扬',
+        ],
       },
     ],
     id: '4b57e8cb-9975-42fb-9a2d-95fc2db96196',
-    composers: ['瞿维'],
+    composers: [
+      '瞿维',
+    ],
   },
   version: 2,
 };

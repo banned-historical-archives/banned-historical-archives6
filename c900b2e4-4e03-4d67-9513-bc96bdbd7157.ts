@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张振富 薛柱国词 秦咏诚曲',
+                name: '张振富',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '薛柱国',
+        ],
       },
     ],
     id: 'c900b2e4-4e03-4d67-9513-bc96bdbd7157',
-    composers: [],
+    composers: [
+      '秦咏诚',
+    ],
   },
   version: 2,
 };

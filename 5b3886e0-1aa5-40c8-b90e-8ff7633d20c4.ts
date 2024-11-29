@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '王凯平 刘中词 先程曲',
+                name: '王凯平',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '刘中',
+        ],
       },
     ],
     id: '5b3886e0-1aa5-40c8-b90e-8ff7633d20c4',
-    composers: [],
+    composers: [
+      '先程',
+    ],
   },
   version: 2,
 };

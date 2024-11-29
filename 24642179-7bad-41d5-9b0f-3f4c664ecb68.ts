@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '中央音乐学院上海分院音工团 招司词 瞿希贤曲',
+                name: '中央音乐学院上海分院音工团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '招司',
+        ],
       },
     ],
     id: '24642179-7bad-41d5-9b0f-3f4c664ecb68',
-    composers: [],
+    composers: [
+      '瞿希贤',
+    ],
   },
   version: 2,
 };

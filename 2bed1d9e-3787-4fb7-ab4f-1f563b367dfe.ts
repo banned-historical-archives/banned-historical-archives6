@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张权 崔永昌词 罗宗贤编曲',
+                name: '张权',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '崔永昌',
+        ],
       },
     ],
     id: '2bed1d9e-3787-4fb7-ab4f-1f563b367dfe',
-    composers: [],
+    composers: [
+      '罗宗贤编',
+    ],
   },
   version: 2,
 };

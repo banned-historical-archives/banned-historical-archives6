@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 毛泽东词 李劫夫曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '毛泽东',
+        ],
       },
     ],
     id: '5ec42029-c593-4819-bb6d-e1299fad84d7',
-    composers: [],
+    composers: [
+      '李劫夫',
+    ],
   },
   version: 2,
 };

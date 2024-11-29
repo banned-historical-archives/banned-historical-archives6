@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: ['王奎申'],
+        lyricists: [
+          '王奎申',
+        ],
       },
     ],
     id: 'bbba5026-4e6b-44ba-bbd4-72d55f600f78',
-    composers: ['刘文仁'],
+    composers: [
+      '刘文仁',
+    ],
   },
   version: 2,
 };

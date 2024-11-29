@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '贠恩凤 高永谋词 孙韶 恩凤曲',
+                name: '贠恩凤',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '高永谋',
+        ],
       },
     ],
     id: '5535408f-745a-4b99-94df-9df9c7cac42d',
-    composers: [],
+    composers: [
+      '恩凤',
+    ],
   },
   version: 2,
 };

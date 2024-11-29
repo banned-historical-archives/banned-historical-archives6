@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张汝襄 陈书斋、曹起词 艾依、尼丁曲',
+                name: '张汝襄',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '陈书斋','曹起',
+        ],
       },
     ],
     id: '0502ca0c-5e0b-4ddc-8156-a3d0b950e762',
-    composers: [],
+    composers: [
+      '艾依','尼丁',
+    ],
   },
   version: 2,
 };

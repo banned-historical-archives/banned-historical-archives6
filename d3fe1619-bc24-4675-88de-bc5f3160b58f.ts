@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 夏阳词 梁浚曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '夏阳',
+        ],
       },
     ],
     id: 'd3fe1619-bc24-4675-88de-bc5f3160b58f',
-    composers: [],
+    composers: [
+      '梁浚',
+    ],
   },
   version: 2,
 };

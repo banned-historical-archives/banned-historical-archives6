@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 集体词 阿拉腾奥勒曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '集体',
+        ],
       },
     ],
     id: 'bffca78b-d218-4d00-a7fe-4a8f9a535efb',
-    composers: [],
+    composers: [
+      '阿拉腾奥勒',
+    ],
   },
   version: 2,
 };

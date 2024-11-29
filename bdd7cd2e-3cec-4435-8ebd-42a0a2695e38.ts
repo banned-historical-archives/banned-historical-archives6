@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: ['薄兰谷'],
+        lyricists: [
+          '薄兰谷',
+        ],
       },
     ],
     id: 'bdd7cd2e-3cec-4435-8ebd-42a0a2695e38',
-    composers: ['烁渊词'],
+    composers: [
+      '烁渊词',
+    ],
   },
   version: 2,
 };

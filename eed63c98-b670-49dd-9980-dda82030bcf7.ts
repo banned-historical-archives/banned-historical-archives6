@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '总政歌舞团 谢明词 庄映曲',
+                name: '总政歌舞团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '谢明',
+        ],
       },
     ],
     id: 'eed63c98-b670-49dd-9980-dda82030bcf7',
-    composers: [],
+    composers: [
+      '庄映',
+    ],
   },
   version: 2,
 };

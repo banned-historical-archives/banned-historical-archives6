@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '黄仁顺 韩允浩原词 金凤浩曲',
+                name: '黄仁顺',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '韩允浩原',
+        ],
       },
     ],
     id: '36eaf29e-c6ae-4acd-9c45-10f87cbeb05d',
-    composers: [],
+    composers: [
+      '金凤浩',
+    ],
   },
   version: 2,
 };

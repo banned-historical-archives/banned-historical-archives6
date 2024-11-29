@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '张振富 乔羽词 梁克祥曲',
+                name: '张振富',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '乔羽',
+        ],
       },
     ],
     id: '4c7fa01b-f9a0-4efd-a6b5-e283fd88d67b',
-    composers: [],
+    composers: [
+      '梁克祥',
+    ],
   },
   version: 2,
 };

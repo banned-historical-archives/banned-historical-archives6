@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '郭淑珍顾工词 傅庚辰曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '郭淑珍顾工',
+        ],
       },
     ],
     id: '141e3435-f821-4073-889a-7e416f8b7de1',
-    composers: [],
+    composers: [
+      '傅庚辰',
+    ],
   },
   version: 2,
 };

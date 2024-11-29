@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 朱流词 罗念一曲',
+                name: '合唱',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '朱流',
+        ],
       },
     ],
     id: '2158cbfb-f54e-400e-90be-204f65f4dc1f',
-    composers: [],
+    composers: [
+      '罗念一',
+    ],
   },
   version: 2,
 };

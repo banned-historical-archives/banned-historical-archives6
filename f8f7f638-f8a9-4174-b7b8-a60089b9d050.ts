@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '合唱 李怀德 彭承标词 白诚仁编曲',
+                name: '合唱 李怀德',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '彭承标',
+        ],
       },
     ],
     id: 'f8f7f638-f8a9-4174-b7b8-a60089b9d050',
-    composers: [],
+    composers: [
+      '白诚仁编',
+    ],
   },
   version: 2,
 };

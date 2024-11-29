@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '广西壮族自治区歌舞团 永祥、罗湜词 林雨谷曲',
+                name: '广西壮族自治区歌舞团',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '永祥、罗湜',
+        ],
       },
     ],
     id: 'c46af11e-5153-4341-ad5d-a34e5bf82a81',
-    composers: [],
+    composers: [
+      '林雨谷',
+    ],
   },
   version: 2,
 };

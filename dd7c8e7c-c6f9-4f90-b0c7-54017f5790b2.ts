@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '胡松华 胡松华词 编曲',
+                name: '胡松华',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '胡松华',
+        ],
       },
     ],
     id: 'dd7c8e7c-c6f9-4f90-b0c7-54017f5790b2',
-    composers: [],
+    composers: [
+      '编',
+    ],
   },
   version: 2,
 };

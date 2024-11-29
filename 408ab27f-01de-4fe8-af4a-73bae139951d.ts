@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '马玉涛 孔祥雨词 唐诃曲',
+                name: '马玉涛',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '孔祥雨',
+        ],
       },
     ],
     id: '408ab27f-01de-4fe8-af4a-73bae139951d',
-    composers: [],
+    composers: [
+      '唐诃',
+    ],
   },
   version: 2,
 };

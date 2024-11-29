@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '蔡绍序 毛泽东词 羊路由曲',
+                name: '蔡绍序',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '毛泽东',
+        ],
       },
     ],
     id: '46cd938e-c4bb-404a-ba13-f7409c245ed6',
-    composers: [],
+    composers: [
+      '羊路由',
+    ],
   },
   version: 2,
 };

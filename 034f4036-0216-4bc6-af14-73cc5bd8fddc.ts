@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '王昆 乔羽、陈泽人词 周巍峙曲',
+                name: '王昆',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '乔羽','陈泽人',
+        ],
       },
     ],
     id: '034f4036-0216-4bc6-af14-73cc5bd8fddc',
-    composers: [],
+    composers: [
+      '周巍峙',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '邓玉华张士燮词 金砂曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '邓玉华张士燮',
+        ],
       },
     ],
     id: '8dd46194-f25c-4c5b-924e-84b8c5e790a7',
-    composers: [],
+    composers: [
+      '金砂',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '陆青霜 众志词 唐诃 生茂曲',
+                name: '陆青霜',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '众志',
+        ],
       },
     ],
     id: '79b83c8f-c178-421a-8de7-01c5357fbf58',
-    composers: [],
+    composers: [
+      '生茂',
+    ],
   },
   version: 2,
 };

@@ -13,7 +13,7 @@ export default {
             sources: [],
             artists: [
               {
-                name: '女声独唱谷枫词 刘森民曲',
+                name: '',
                 type: '独唱',
               },
             ],
@@ -22,11 +22,15 @@ export default {
             ],
           },
         ],
-        lyricists: [],
+        lyricists: [
+          '女声独唱谷枫',
+        ],
       },
     ],
     id: 'aa3df00c-5f7c-4da0-9b21-c566edecdea0',
-    composers: [],
+    composers: [
+      '刘森民',
+    ],
   },
   version: 2,
 };
