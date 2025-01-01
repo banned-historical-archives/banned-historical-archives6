@@ -12,12 +12,17 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/“三落实”指示永放光芒.mp3',
             sources: ['中国唱片M-2029'],
             artists: [
-              '中国人民解放军北京部队歌舞团',
-              '韦福根'
+              {
+                name: '中国人民解放军工程兵政治部文工团',
+                type: '合唱团',
+              },
+              {
+                name: '韦福根',
+                type: '手风琴',
+              },
             ],
             art_forms: [
               '合唱',
-              '手风琴'
             ],
           },
         ],
