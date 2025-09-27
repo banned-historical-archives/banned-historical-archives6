@@ -1,0 +1,32 @@
+export default {
+  resource_type: 'music',
+  entity: {
+    name: '我们是毛主席的红卫兵',
+    description: '',
+    lyrics: [
+      {
+        content: '',
+        version: '原版',
+        audios: [
+          {
+            url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/我们是毛主席的红卫兵17807.mp3',
+            sources: ['中国唱片1-7807'],
+            artists: [
+              '中央广播文工团'
+            ],
+            art_forms: [
+            ],
+          },
+        ],
+        lyricists: [
+          '毛烽'
+        ],
+      },
+    ],
+    id: 'zgcp1-7807-1',
+    composers: [
+      '〈解放军歌曲〉编辑部'
+    ],
+  },
+  version: 2,
+};

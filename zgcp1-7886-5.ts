@@ -1,0 +1,29 @@
+export default {
+  resource_type: 'music',
+  entity: {
+    name: '[待补充]17886-第5首',
+    description: '',
+    lyrics: [
+      {
+        content: '',
+        version: '原版',
+        audios: [
+          {
+            url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/17886-第5首.mp3',
+            sources: ['中国唱片1-7886'],
+            artists: [
+            ],
+            art_forms: [
+            ],
+          },
+        ],
+        lyricists: [
+        ],
+      },
+    ],
+    id: 'zgcp1-7886-5',
+    composers: [
+    ],
+  },
+  version: 2,
+};

@@ -1,0 +1,32 @@
+export default {
+  resource_type: 'music',
+  entity: {
+    name: '红卫兵之歌',
+    description: '',
+    lyrics: [
+      {
+        content: '',
+        version: '原版',
+        audios: [
+          {
+            url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/红卫兵之歌17807.mp3',
+            sources: ['中国唱片1-7807'],
+            artists: [
+              '北京大学红卫兵'
+            ],
+            art_forms: [
+            ],
+          },
+        ],
+        lyricists: [
+          '中国人民大学附中红卫兵集体'
+        ],
+      },
+    ],
+    id: 'zgcp1-7807-2',
+    composers: [
+      '中国人民大学附中红卫兵集体'
+    ],
+  },
+  version: 2,
+};

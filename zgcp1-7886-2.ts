@@ -1,0 +1,29 @@
+export default {
+  resource_type: 'music',
+  entity: {
+    name: '无产阶级革命派联合起来17886',
+    description: '',
+    lyrics: [
+      {
+        content: '',
+        version: '原版',
+        audios: [
+          {
+            url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/无产阶级革命派联合起来17886.mp3',
+            sources: ['中国唱片1-7886'],
+            artists: [
+            ],
+            art_forms: [
+            ],
+          },
+        ],
+        lyricists: [
+        ],
+      },
+    ],
+    id: 'zgcp1-7886-2',
+    composers: [
+    ],
+  },
+  version: 2,
+};

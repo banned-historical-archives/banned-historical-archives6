@@ -1,0 +1,29 @@
+export default {
+  resource_type: 'music',
+  entity: {
+    name: '坚决贯彻三相信三依靠',
+    description: '',
+    lyrics: [
+      {
+        content: '',
+        version: '原版',
+        audios: [
+          {
+            url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/坚决贯彻三相信三依靠.mp3',
+            sources: ['中国唱片m-852'],
+            artists: [
+            ],
+            art_forms: [
+            ],
+          },
+        ],
+        lyricists: [
+        ],
+      },
+    ],
+    id: 'zgcpm852-10',
+    composers: [
+    ],
+  },
+  version: 2,
+};
