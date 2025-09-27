@@ -1,0 +1,27 @@
+export default {
+    "resource_type": "music",
+    "entity": {
+        "id": "b280b599-70b9-497d-960a-ed739f218d82",
+        "name": "草原牧民学大寨",
+        "description": "",
+        "lyrics": [
+            {
+                "content": "",
+                "version": "原版",
+                "audios": [
+                    {
+                        "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/草原牧民学大寨.mp3",
+                        "sources": [
+                            "战地新歌"
+                        ],
+                        "artists": [],
+                        "art_forms": []
+                    }
+                ],
+                "lyricists": []
+            }
+        ],
+        "composers": []
+    },
+    "version": 2
+}

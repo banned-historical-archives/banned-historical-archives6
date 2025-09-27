@@ -1,0 +1,27 @@
+export default {
+    "resource_type": "music",
+    "entity": {
+        "id": "0ce658c2-2cbe-4e46-b970-152f66cadad5",
+        "name": "公社喜开丰收镰（女独）",
+        "description": "",
+        "lyrics": [
+            {
+                "content": "",
+                "version": "原版",
+                "audios": [
+                    {
+                        "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/公社喜开丰收镰（女独）.mp3",
+                        "sources": [
+                            "战地新歌"
+                        ],
+                        "artists": [],
+                        "art_forms": []
+                    }
+                ],
+                "lyricists": []
+            }
+        ],
+        "composers": []
+    },
+    "version": 2
+}

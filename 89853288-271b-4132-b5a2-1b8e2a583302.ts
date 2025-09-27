@@ -1,0 +1,27 @@
+export default {
+    "resource_type": "music",
+    "entity": {
+        "id": "89853288-271b-4132-b5a2-1b8e2a583302",
+        "name": "纺织工人学大庆",
+        "description": "",
+        "lyrics": [
+            {
+                "content": "",
+                "version": "原版",
+                "audios": [
+                    {
+                        "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/纺织工人学大庆.mp3",
+                        "sources": [
+                            "战地新歌"
+                        ],
+                        "artists": [],
+                        "art_forms": []
+                    }
+                ],
+                "lyricists": []
+            }
+        ],
+        "composers": []
+    },
+    "version": 2
+}

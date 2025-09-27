@@ -1,0 +1,27 @@
+export default {
+    "resource_type": "music",
+    "entity": {
+        "id": "8d138498-c65d-4d0a-87d8-91e825ec3f74",
+        "name": "女飞行员之歌",
+        "description": "",
+        "lyrics": [
+            {
+                "content": "",
+                "version": "原版",
+                "audios": [
+                    {
+                        "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/女飞行员之歌.mp3",
+                        "sources": [
+                            "战地新歌"
+                        ],
+                        "artists": [],
+                        "art_forms": []
+                    }
+                ],
+                "lyricists": []
+            }
+        ],
+        "composers": []
+    },
+    "version": 2
+}

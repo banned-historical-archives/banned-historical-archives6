@@ -1,0 +1,27 @@
+export default {
+    "resource_type": "music",
+    "entity": {
+        "id": "0dd37612-d1f1-4a71-b372-38226893aadb",
+        "name": "拖拉机手之歌2",
+        "description": "",
+        "lyrics": [
+            {
+                "content": "",
+                "version": "原版",
+                "audios": [
+                    {
+                        "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/拖拉机手之歌2.mp3",
+                        "sources": [
+                            "战地新歌"
+                        ],
+                        "artists": [],
+                        "art_forms": []
+                    }
+                ],
+                "lyricists": []
+            }
+        ],
+        "composers": []
+    },
+    "version": 2
+}

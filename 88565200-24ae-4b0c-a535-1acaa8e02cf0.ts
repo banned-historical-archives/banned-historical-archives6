@@ -1,0 +1,27 @@
+export default {
+    "resource_type": "music",
+    "entity": {
+        "id": "88565200-24ae-4b0c-a535-1acaa8e02cf0",
+        "name": "歌唱伟大光荣正确的中国共产党(YY-PC--yy--2016-09-15-16,48,59)",
+        "description": "",
+        "lyrics": [
+            {
+                "content": "",
+                "version": "原版",
+                "audios": [
+                    {
+                        "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/歌唱伟大光荣正确的中国共产党(YY-PC--yy--2016-09-15-16,48,59).mp3",
+                        "sources": [
+                            "战地新歌"
+                        ],
+                        "artists": [],
+                        "art_forms": []
+                    }
+                ],
+                "lyricists": []
+            }
+        ],
+        "composers": []
+    },
+    "version": 2
+}
