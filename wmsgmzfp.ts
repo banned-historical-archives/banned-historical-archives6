@@ -21,7 +21,7 @@ export default {
         ],
       },
     ],
-    id: '我们是革命造反派',
+    id: 'wmsgmzfp',
     composers: [
     ],
   },
