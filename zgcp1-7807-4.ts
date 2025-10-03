@@ -12,7 +12,7 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/我们是毛主席的红卫兵2-17807.mp3',
             sources: ['中国唱片1-7807'],
             artists: [
-              '中央音乐学院附中红兵集体'
+              {name:'中央音乐学院附中红兵集体',type:'合唱'}
             ],
             art_forms: [
             ],

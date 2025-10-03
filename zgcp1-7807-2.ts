@@ -12,7 +12,7 @@ export default {
             url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/红卫兵之歌17807.mp3',
             sources: ['中国唱片1-7807'],
             artists: [
-              '北京大学红卫兵'
+              {name:'北京大学红卫兵',type:'合唱'}
             ],
             art_forms: [
             ],
