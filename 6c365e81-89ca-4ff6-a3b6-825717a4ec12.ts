@@ -1,27 +1,44 @@
 export default {
-    "resource_type": "music",
-    "entity": {
-        "id": "6c365e81-89ca-4ff6-a3b6-825717a4ec12",
-        "name": "根治海河谱新篇",
-        "description": "",
-        "lyrics": [
+    resource_type: "music",
+    entity: {
+        id: "6c365e81-89ca-4ff6-a3b6-825717a4ec12",
+        name: "根治海河谱新篇",
+        description: "",
+        lyrics: [
             {
-                "content": "",
-                "version": "原版",
-                "audios": [
+                content: "\n春风吹绿太行山\n朝霞映红渤海湾\n春风吹绿太行山\n朝霞映红渤海湾\n毛主席号召治海河\n红太阳照得人心暖\n哎 百万愚公上战场\n改天换地谱新篇\n改天换地谱新篇\n战旗映红海河水\n歌声传遍千里滩\n毛主席挥手指方向\n亿万人民齐向前\n哎 双手根除千年害\n万众引来幸福泉\n万众引来幸福泉\n大寨花开海河畔\n稻谷丰收捷报传\n毛主席亲手绘蓝图\n公社一步一层天\n哎 贫下中农齐欢唱\n毛主席的恩情唱不完\n毛主席的恩情唱不完 唱不完\n",
+                version: "原版",
+                audios: [
                     {
-                        "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/根治海河谱新篇.mp3",
-                        "sources": [
-                            "战地新歌"
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/根治海河谱新篇.mp3",
+                        sources: [
+                            "战地新歌",
                         ],
-                        "artists": [],
-                        "art_forms": []
-                    }
+                        artists: [],
+                        art_forms: [],
+                    },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/genzhihaihepuxinpian.mp3",
+                        sources: [],
+                        artists: [
+                            {
+                                name: "刘杏",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
                 ],
-                "lyricists": []
-            }
+                lyricists: [
+                    "王奎申",
+                ],
+            },
         ],
-        "composers": []
+        composers: [
+            "刘文仁",
+        ],
     },
-    "version": 2
-}
+    version: 2,
+};
