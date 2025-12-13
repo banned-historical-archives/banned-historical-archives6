@@ -20,6 +20,14 @@ export default {
                         ],
                     },
                     {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/riyexiangnianmaozhuxi_2.mp3",
+                        sources: [],
+                        artists: [],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
+                    {
                         url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/riyexiangnianmaozhuxi.mp3",
                         sources: [],
                         artists: [
