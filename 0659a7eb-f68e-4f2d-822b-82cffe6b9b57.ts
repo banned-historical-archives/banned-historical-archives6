@@ -2,7 +2,7 @@ export default {
     "resource_type": "music",
     "entity": {
         "id": "0659a7eb-f68e-4f2d-822b-82cffe6b9b57",
-        "name": "革命青年志在四方",
+        "name": "革命青年志在四方(小众版本)",
         "description": "",
         "lyrics": [
             {
