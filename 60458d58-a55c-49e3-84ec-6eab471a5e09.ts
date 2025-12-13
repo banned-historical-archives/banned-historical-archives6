@@ -40,6 +40,19 @@ export default {
                             "独唱",
                         ],
                     },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl38联系群众 表现群众.mp3",
+                        sources: [],
+                        artists: [
+                            {
+                                name: "表现群众",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
                 ],
                 lyricists: [],
             },
