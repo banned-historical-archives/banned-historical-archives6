@@ -3,7 +3,7 @@ export default {
   version: 2,
   entity: {
     id: '2acf30fb-0ea0-4ebb-8989-0756323b3c48',
-    name: '红小兵之歌',
+    name: '红小兵之歌(小众版本)',
     description: '',
     lyrics: [
       {
