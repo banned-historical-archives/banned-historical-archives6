@@ -3,7 +3,7 @@ export default {
   version: 2,
   entity: {
     id: '5cc706d4-d55a-4582-b1a6-cf029a007498',
-    name: '我们是毛主席的红小兵',
+    name: '我们是毛主席的红小兵(小众版本)',
     description: '',
     lyrics: [
       {
