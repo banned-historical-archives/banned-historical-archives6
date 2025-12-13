@@ -1,27 +1,40 @@
 export default {
-    "resource_type": "music",
-    "entity": {
-        "id": "db4aaa83-a2c7-458a-9fbf-073748f09591",
-        "name": "我们的理论队伍壮大起来",
-        "description": "",
-        "lyrics": [
+    resource_type: "music",
+    entity: {
+        id: "db4aaa83-a2c7-458a-9fbf-073748f09591",
+        name: "我们的理论队伍壮大起来",
+        description: "",
+        lyrics: [
             {
-                "content": "",
-                "version": "原版",
-                "audios": [
+                content: "",
+                version: "原版",
+                audios: [
                     {
-                        "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/我们的理论队伍壮大起来.mp3",
-                        "sources": [
-                            "战地新歌"
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/我们的理论队伍壮大起来.mp3",
+                        sources: [
+                            "战地新歌",
                         ],
-                        "artists": [],
-                        "art_forms": []
-                    }
+                        artists: [],
+                        art_forms: [],
+                    },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/649我们的理论队伍壮大起来 南京部队政治部歌舞团.mp3",
+                        sources: [],
+                        artists: [
+                            {
+                                name: "南京部队政治部歌舞团",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
                 ],
-                "lyricists": []
-            }
+                lyricists: [],
+            },
         ],
-        "composers": []
+        composers: [],
     },
-    "version": 2
-}
+    version: 2,
+};
