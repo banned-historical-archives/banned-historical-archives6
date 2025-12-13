@@ -3,7 +3,7 @@ export default {
   version: 2,
   entity: {
     id: '38797e62-0e54-43b5-adcd-a6ea71f4336e',
-    name: '万岁毛主席',
+    name: '万岁毛主席（现代）',
     description: '',
     lyrics: [
       {
