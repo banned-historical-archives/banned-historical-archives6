@@ -12,19 +12,6 @@ export default {
                 lyrictist: "",
                 audios: [
                     {
-                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/447a伟大的祖国 中央广播文工团.mp3",
-                        sources: [],
-                        artists: [
-                            {
-                                name: "中央广播文工团",
-                                type: "独唱",
-                            },
-                        ],
-                        art_forms: [
-                            "独唱",
-                        ],
-                    },
-                    {
                         url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/447伟大的祖国 中央广播文工团.mp3",
                         sources: [],
                         artists: [
