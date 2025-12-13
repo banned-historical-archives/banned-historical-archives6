@@ -3,7 +3,7 @@ export default {
   version: 2,
   entity: {
     id: 'ba30c8f6-e412-4f9c-b22f-ef3b90887c2b',
-    name: '毛泽东思想是我们心中永远不落的红太阳',
+    name: '毛泽东思想是我们心中永远不落的红太阳(小众版本)',
     description: '',
     lyrics: [
       {
