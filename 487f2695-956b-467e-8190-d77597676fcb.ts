@@ -34,6 +34,19 @@ export default {
                             "合唱",
                         ],
                     },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/650政治夜校亮堂堂 吉林省歌舞团.mp3",
+                        sources: [],
+                        artists: [
+                            {
+                                name: "吉林省歌舞团",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
                 ],
                 lyricists: [
                     "孟令政",
