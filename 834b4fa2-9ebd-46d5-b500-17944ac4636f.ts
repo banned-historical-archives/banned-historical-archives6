@@ -24,6 +24,14 @@ export default {
                             "独唱",
                         ],
                     },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/伟大的祖国.mp3",
+                        sources: [
+                            "战地新歌",
+                        ],
+                        artists: [],
+                        art_forms: [],
+                    },
                 ],
                 lyricists: [],
             },
