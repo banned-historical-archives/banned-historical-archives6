@@ -1,7 +1,7 @@
 export default {
   resource_type: 'music',
   entity: {
-    name: '我们是毛主席的红卫兵',
+    name: '我们是毛主席的红卫兵(小众版本)',
     description: '',
     lyrics: [
       {
