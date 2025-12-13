@@ -1,7 +1,7 @@
 export default {
   resource_type: 'music',
   entity: {
-    name: '毛主席和我们在一起',
+    name: '毛主席和我们在一起(小众版本)',
     description: '',
     lyrics: [
       {
