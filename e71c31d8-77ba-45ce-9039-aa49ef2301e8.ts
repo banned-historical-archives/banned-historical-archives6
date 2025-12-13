@@ -1,36 +1,44 @@
 export default {
-  resource_type: 'music',
-  entity: {
-    name: '纪念白求恩',
-    description: '',
-    lyrics: [
-      {
-        content: '毛主席说 白求恩同志\n是加拿大共产党员\n五十多岁了\n为了帮助中国的抗日战争\n受加拿大共产党\n和美国共产党的派遣\n不远万里 来到中国\n一个外国人\n毫无利己的动机\n把中国人民的解放事业\n当作他自己的事业\n这是什么精神\n这是国际主义的精神\n这是共产主义的精神\n每一个中国共产党员\n都要学习这种精神\n每一个中国共产党员\n都要学习这种精神\n',
-        version: '原版',
-        audios: [
-          {
-            url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/jinianbaiqiuen.mp3',
-            sources: [],
-            artists: [
-              {
-                name: '合唱',
-                type: '独唱',
-              },
-            ],
-            art_forms: [
-              '独唱',
-            ],
-          },
+    resource_type: "music",
+    entity: {
+        name: "纪念白求恩",
+        description: "",
+        lyrics: [
+            {
+                content: "毛主席说 白求恩同志\n是加拿大共产党员\n五十多岁了\n为了帮助中国的抗日战争\n受加拿大共产党\n和美国共产党的派遣\n不远万里 来到中国\n一个外国人\n毫无利己的动机\n把中国人民的解放事业\n当作他自己的事业\n这是什么精神\n这是国际主义的精神\n这是共产主义的精神\n每一个中国共产党员\n都要学习这种精神\n每一个中国共产党员\n都要学习这种精神\n",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/jinianbaiqiuen.mp3",
+                        sources: [],
+                        artists: [
+                            {
+                                name: "合唱",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/纪念白求恩.mp3",
+                        sources: [],
+                        artists: [],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
+                ],
+                lyricists: [
+                    "毛泽东",
+                ],
+            },
         ],
-        lyricists: [
-          '毛泽东',
+        id: "e71c31d8-77ba-45ce-9039-aa49ef2301e8",
+        composers: [
+            "劫夫",
         ],
-      },
-    ],
-    id: 'e71c31d8-77ba-45ce-9039-aa49ef2301e8',
-    composers: [
-      '劫夫',
-    ],
-  },
-  version: 2,
+    },
+    version: 2,
 };
