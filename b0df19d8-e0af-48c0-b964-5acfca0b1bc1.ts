@@ -1,7 +1,7 @@
 export default {
   resource_type: 'music',
   entity: {
-    name: '送郎当红军',
+    name: '送郎当红军（小众版本）',
     description: '',
     lyrics: [
       {
