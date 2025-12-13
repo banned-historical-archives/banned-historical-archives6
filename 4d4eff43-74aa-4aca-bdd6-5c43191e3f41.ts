@@ -1,27 +1,40 @@
 export default {
-    "resource_type": "music",
-    "entity": {
-        "id": "4d4eff43-74aa-4aca-bdd6-5c43191e3f41",
-        "name": "行军歌",
-        "description": "",
-        "lyrics": [
+    resource_type: "music",
+    entity: {
+        id: "4d4eff43-74aa-4aca-bdd6-5c43191e3f41",
+        name: "行军歌",
+        description: "",
+        lyrics: [
             {
-                "content": "",
-                "version": "原版",
-                "audios": [
+                content: "",
+                version: "原版",
+                audios: [
                     {
-                        "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/行军歌.mp3",
-                        "sources": [
-                            "战地新歌"
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/行军歌.mp3",
+                        sources: [
+                            "战地新歌",
                         ],
-                        "artists": [],
-                        "art_forms": []
-                    }
+                        artists: [],
+                        art_forms: [],
+                    },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/354行军歌 空军政治部宣传队.mp3",
+                        sources: [],
+                        artists: [
+                            {
+                                name: "空军政治部宣传队",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
                 ],
-                "lyricists": []
-            }
+                lyricists: [],
+            },
         ],
-        "composers": []
+        composers: [],
     },
-    "version": 2
-}
+    version: 2,
+};
