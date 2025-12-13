@@ -1,7 +1,7 @@
 export default {
   resource_type: 'music',
   entity: {
-    name: '红卫兵之歌',
+    name: '红卫兵之歌(小众版本)',
     description: '',
     lyrics: [
       {
