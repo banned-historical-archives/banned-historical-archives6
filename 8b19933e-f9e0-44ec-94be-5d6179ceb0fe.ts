@@ -1,7 +1,7 @@
 export default {
   resource_type: 'music',
   entity: {
-    name: '祝福毛主席万寿无疆',
+    name: '祝福毛主席万寿无疆（小众版本）',
     description: '',
     lyrics: [
       {

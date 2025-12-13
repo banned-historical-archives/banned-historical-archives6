@@ -2,7 +2,7 @@ export default {
     "resource_type": "music",
     "entity": {
         "id": "df9a8d3a-0aca-48d9-b288-3e8d1564d90b",
-        "name": "祝福毛主席万寿无疆",
+        "name": "祝福毛主席万寿无疆（小众版本）",
         "description": "",
         "lyrics": [
             {
