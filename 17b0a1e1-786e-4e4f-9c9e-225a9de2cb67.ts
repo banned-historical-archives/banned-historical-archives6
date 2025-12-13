@@ -2,7 +2,7 @@ export default {
     "resource_type": "music",
     "entity": {
         "id": "17b0a1e1-786e-4e4f-9c9e-225a9de2cb67",
-        "name": "大海航行靠舵手（男独）",
+        "name": "大海航行靠舵手",
         "description": "",
         "lyrics": [
             {
