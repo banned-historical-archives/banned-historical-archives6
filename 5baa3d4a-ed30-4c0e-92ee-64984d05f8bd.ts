@@ -2,7 +2,7 @@ export default {
     "resource_type": "music",
     "entity": {
         "id": "5baa3d4a-ed30-4c0e-92ee-64984d05f8bd",
-        "name": "颂歌献给毛主席（女声）",
+        "name": "颂歌献给毛主席",
         "description": "",
         "lyrics": [
             {
