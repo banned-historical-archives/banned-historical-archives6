@@ -3,7 +3,7 @@ export default {
   version: 2,
   entity: {
     id: '4b583e70-03ff-47cb-9985-536c3d92f379',
-    name: '文化革命打先锋',
+    name: '文化革命打先锋（小众版本）',
     description: '',
     lyrics: [
       {
