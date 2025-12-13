@@ -3,7 +3,7 @@ export default {
   version: 2,
   entity: {
     id: 'fc133a81-5e80-4e58-82ef-52d0601789d8',
-    name: '毛主席号召农业学大寨',
+    name: '毛主席号召农业学大寨(小众版本)',
     description: '',
     lyrics: [
       {
