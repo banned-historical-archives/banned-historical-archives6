@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "我们的朋友遍天下",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m951/1.mp3",
+                        sources: [
+                            "中国唱片m951",
+                        ],
+                        artists: [
+                            {
+                                name: "辽宁省歌舞团",
+                                type: "演唱并伴奏",
+                            },
+                            {
+                                name: "刘守义",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "cc40f034-6147-4843-8d4b-aee2f73ca4cb",
+        composers: [],
+    },
+    version: 2,
+};

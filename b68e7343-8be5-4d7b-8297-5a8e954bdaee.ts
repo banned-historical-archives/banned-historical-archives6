@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "反帝大军乘胜前进",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m951/7.mp3",
+                        sources: [
+                            "中国唱片m951",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军歌舞团",
+                                type: "演唱并伴奏",
+                            },
+                            {
+                                name: "胡德风",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "b68e7343-8be5-4d7b-8297-5a8e954bdaee",
+        composers: [],
+    },
+    version: 2,
+};
