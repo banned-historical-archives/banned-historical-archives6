@@ -33,6 +33,14 @@ export default {
                         artists: [],
                         art_forms: [],
                     },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/三大纪律八项注意.mp3",
+                        sources: [
+                            "战地新歌",
+                        ],
+                        artists: [],
+                        art_forms: [],
+                    },
                 ],
                 lyricists: [],
             },
