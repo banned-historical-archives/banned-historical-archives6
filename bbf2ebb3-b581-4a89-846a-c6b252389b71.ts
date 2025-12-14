@@ -1,0 +1,29 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "歌唱敬爱的华主席",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2235/6.mp3",
+                        sources: [
+                            "中国唱片m2235",
+                        ],
+                        artists: [],
+                        art_forms: [
+                            "",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "bbf2ebb3-b581-4a89-846a-c6b252389b71",
+        composers: [],
+    },
+    version: 2,
+};

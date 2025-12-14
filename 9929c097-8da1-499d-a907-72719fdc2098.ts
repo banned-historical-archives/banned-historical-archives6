@@ -1,0 +1,29 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "华主席来掌舵",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2235/3.mp3",
+                        sources: [
+                            "中国唱片m2235",
+                        ],
+                        artists: [],
+                        art_forms: [
+                            "",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "9929c097-8da1-499d-a907-72719fdc2098",
+        composers: [],
+    },
+    version: 2,
+};

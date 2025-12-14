@@ -1,0 +1,29 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "坚决拥护华主席",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2235/1.mp3",
+                        sources: [
+                            "中国唱片m2235",
+                        ],
+                        artists: [],
+                        art_forms: [
+                            "",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "956bcfec-ef94-45b1-a29d-2c2ad0d9318d",
+        composers: [],
+    },
+    version: 2,
+};
