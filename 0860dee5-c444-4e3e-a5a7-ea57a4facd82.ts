@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "我为祖国献石油",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m1018/6.mp3",
+                        sources: [
+                            "中国唱片m1018",
+                        ],
+                        artists: [
+                            {
+                                name: "张振富",
+                                type: "演唱",
+                            },
+                            {
+                                name: "韦福根",
+                                type: "钢琴伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "男声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "0860dee5-c444-4e3e-a5a7-ea57a4facd82",
+        composers: [],
+    },
+    version: 2,
+};
