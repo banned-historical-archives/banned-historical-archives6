@@ -3,7 +3,7 @@ export default {
   version: 2,
   entity: {
     id: '6569c264-7e36-4781-b0d8-aa634587f056',
-    name: '前进吧！祖国',
+    name: '前进吧！祖国(小众版本)',
     description: '',
     lyrics: [
       {
