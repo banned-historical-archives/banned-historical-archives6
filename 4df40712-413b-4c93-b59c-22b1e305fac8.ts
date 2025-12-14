@@ -1,0 +1,46 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "我们伟大的祖国",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2052/4.mp3",
+                        sources: [
+                            "中国唱片m2052",
+                        ],
+                        artists: [
+                            {
+                                name: "中央广播文工团",
+                                type: "合唱团",
+                            },
+                            {
+                                name: "沈文娟",
+                                type: "领唱",
+                            },
+                            {
+                                name: "蔡国屏",
+                                type: "领唱",
+                            },
+                            {
+                                name: "聂中明",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "4df40712-413b-4c93-b59c-22b1e305fac8",
+        composers: [],
+    },
+    version: 2,
+};

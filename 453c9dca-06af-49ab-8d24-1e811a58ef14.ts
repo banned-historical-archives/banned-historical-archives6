@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "万众一心跟党走",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2052/3.mp3",
+                        sources: [
+                            "中国唱片m2052",
+                        ],
+                        artists: [
+                            {
+                                name: "中央广播文工团合唱团",
+                                type: "合唱团",
+                            },
+                            {
+                                name: "余继清",
+                                type: "手风琴伴奏",
+                            },
+                            {
+                                name: "聂中明",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "453c9dca-06af-49ab-8d24-1e811a58ef14",
+        composers: [],
+    },
+    version: 2,
+};
