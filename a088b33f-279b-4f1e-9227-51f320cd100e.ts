@@ -1,0 +1,29 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "跟着毛主席永远向前进",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2001/5.mp3",
+                        sources: [
+                            "中国唱片m2001",
+                        ],
+                        artists: [],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "a088b33f-279b-4f1e-9227-51f320cd100e",
+        composers: [],
+    },
+    version: 2,
+};

@@ -1,0 +1,29 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "我终生把您歌唱",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2001/4.mp3",
+                        sources: [
+                            "中国唱片m2001",
+                        ],
+                        artists: [],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "6b849b97-4e9c-49c9-b46e-9316b84ce159",
+        composers: [],
+    },
+    version: 2,
+};

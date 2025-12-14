@@ -1,0 +1,29 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "毛主席的恩情唱不完",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2001/3.mp3",
+                        sources: [
+                            "中国唱片m2001",
+                        ],
+                        artists: [],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "ca4d200f-46e0-49ef-9dd4-a636ce7fc130",
+        composers: [],
+    },
+    version: 2,
+};
