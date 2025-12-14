@@ -1,0 +1,29 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "帽子工厂",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2233/1.mp3",
+                        sources: [
+                            "中国唱片m2233",
+                        ],
+                        artists: [],
+                        art_forms: [
+                            "相声",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "f4485a45-de79-4c61-a30a-1481dfa56924",
+        composers: [],
+    },
+    version: 2,
+};
