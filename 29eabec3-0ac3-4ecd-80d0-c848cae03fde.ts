@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "伟大的毛泽东思想灿烂辉煌",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m847/1.mp3",
+                        sources: [
+                            "中国唱片m847",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军海政文工团",
+                                type: "演唱",
+                            },
+                            {
+                                name: "海军军乐队",
+                                type: "演唱",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "29eabec3-0ac3-4ecd-80d0-c848cae03fde",
+        composers: [],
+    },
+    version: 2,
+};

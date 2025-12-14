@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "草原上的红卫兵见到了毛主席",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m847/2.mp3",
+                        sources: [
+                            "中国唱片m847",
+                        ],
+                        artists: [
+                            {
+                                name: "中国音乐学院",
+                                type: "演唱",
+                            },
+                        ],
+                        art_forms: [
+                            "女声齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "8a4d8da8-0acb-46d7-954a-246ded69713f",
+        composers: [],
+    },
+    version: 2,
+};

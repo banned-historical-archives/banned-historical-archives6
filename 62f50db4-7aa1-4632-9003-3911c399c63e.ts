@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "跟着毛泽东，世界一片红",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m847/13.mp3",
+                        sources: [
+                            "中国唱片m847",
+                        ],
+                        artists: [
+                            {
+                                name: "胡松华",
+                                type: "演唱",
+                            },
+                            {
+                                name: "中央民族歌舞团民乐队",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "男高音独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "62f50db4-7aa1-4632-9003-3911c399c63e",
+        composers: [],
+    },
+    version: 2,
+};
