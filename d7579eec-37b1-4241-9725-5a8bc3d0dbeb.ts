@@ -1,28 +1,41 @@
 export default {
-  resource_type: 'music',
-  version: 2,
-  entity: {
-    id: 'd7579eec-37b1-4241-9725-5a8bc3d0dbeb',
-    name: '我们是毛主席的红小兵',
-    description: '',
-    lyrics: [
-      {
-        content: '',
-        version: '原版',
-        lyrictist: '',
-        audios: [
-          {
-            url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/e252b我们是毛主席的红小兵.mp3',
-            sources: [],
-            artists: [],
-            art_forms: [
-              '独唱',
-            ],
-          },
+    resource_type: "music",
+    version: 2,
+    entity: {
+        id: "d7579eec-37b1-4241-9725-5a8bc3d0dbeb",
+        name: "我们是毛主席的红小兵",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                lyrictist: "",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/e252b我们是毛主席的红小兵.mp3",
+                        sources: [],
+                        artists: [],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/e252我们是毛主席的红小兵 中央人民广播电台少年合唱团.mp3",
+                        sources: [],
+                        artists: [
+                            {
+                                name: "中央人民广播电台少年合唱团",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
         ],
-        lyricists: [],
-      },
-    ],
-    composers: [],
-  },
+        composers: [],
+    },
 };
