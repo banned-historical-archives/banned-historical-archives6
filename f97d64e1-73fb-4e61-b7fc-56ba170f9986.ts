@@ -38,6 +38,14 @@ export default {
                             "独唱",
                         ],
                     },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl44xa完全彻底为人民.mp3",
+                        sources: [],
+                        artists: [],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
                 ],
                 lyricists: [],
             },
