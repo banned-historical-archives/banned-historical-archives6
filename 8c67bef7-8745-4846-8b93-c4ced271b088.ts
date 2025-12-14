@@ -1,33 +1,41 @@
 export default {
-  resource_type: 'music',
-  version: 2,
-  entity: {
-    id: '8c67bef7-8745-4846-8b93-c4ced271b088',
-    name: '党的阳光照耀着祖国',
-    description: '',
-    lyrics: [
-      {
-        content: '',
-        version: '原版',
-        lyrictist: '',
-        audios: [
-          {
-            url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/295党的阳光照耀着祖国 顾企兰.mp3',
-            sources: [],
-            artists: [
-              {
-                name: '顾企兰',
-                type: '独唱',
-              },
-            ],
-            art_forms: [
-              '独唱',
-            ],
-          },
+    resource_type: "music",
+    version: 2,
+    entity: {
+        id: "8c67bef7-8745-4846-8b93-c4ced271b088",
+        name: "党的阳光照耀着祖国",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                lyrictist: "",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/295党的阳光照耀着祖国 顾企兰.mp3",
+                        sources: [],
+                        artists: [
+                            {
+                                name: "顾企兰",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/党的阳光照耀着祖国.mp3",
+                        sources: [
+                            "战地新歌",
+                        ],
+                        artists: [],
+                        art_forms: [],
+                    },
+                ],
+                lyricists: [],
+            },
         ],
-        lyricists: [],
-      },
-    ],
-    composers: [],
-  },
+        composers: [],
+    },
 };
