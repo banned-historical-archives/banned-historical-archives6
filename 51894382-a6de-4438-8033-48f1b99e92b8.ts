@@ -3,7 +3,7 @@ export default {
   version: 2,
   entity: {
     id: '51894382-a6de-4438-8033-48f1b99e92b8',
-    name: '前进歌（改）',
+    name: '前进歌（小众版本）',
     description: '',
     lyrics: [
       {
