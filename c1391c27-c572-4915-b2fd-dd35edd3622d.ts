@@ -1,31 +1,39 @@
 export default {
-  resource_type: 'music',
-  version: 2,
-  entity: {
-    id: 'c1391c27-c572-4915-b2fd-dd35edd3622d',
-    name: '人是第一个可宝贵的',
-    description: '',
-    tags: [
-      '语录歌',
-    ],
-    lyrics: [
-      {
-        content: '',
-        version: '原版',
-        lyrictist: '',
-        audios: [
-          {
-            url: 'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl57a人是第一个可宝贵的.mp3',
-            sources: [],
-            artists: [],
-            art_forms: [
-              '独唱',
-            ],
-          },
+    resource_type: "music",
+    version: 2,
+    entity: {
+        id: "c1391c27-c572-4915-b2fd-dd35edd3622d",
+        name: "人是第一个可宝贵的",
+        description: "",
+        tags: [
+            "语录歌",
         ],
-        lyricists: [],
-      },
-    ],
-    composers: [],
-  },
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                lyrictist: "",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl57a人是第一个可宝贵的.mp3",
+                        sources: [],
+                        artists: [],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl57人是第一个可宝贵的.mp3",
+                        sources: [],
+                        artists: [],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        composers: [],
+    },
 };
