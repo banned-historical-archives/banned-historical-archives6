@@ -38,6 +38,14 @@ export default {
                         artists: [],
                         art_forms: [],
                     },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/山乡盼着你们来（非原唱）.mp3",
+                        sources: [
+                            "战地新歌",
+                        ],
+                        artists: [],
+                        art_forms: [],
+                    },
                 ],
                 lyricists: [
                     "征明万",
