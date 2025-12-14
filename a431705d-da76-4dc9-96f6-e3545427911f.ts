@@ -2,7 +2,7 @@ export default {
     "resource_type": "music",
     "entity": {
         "id": "a431705d-da76-4dc9-96f6-e3545427911f",
-        "name": "大刀进行曲（非文革版）",
+        "name": "大刀进行曲",
         "description": "",
         "lyrics": [
             {
