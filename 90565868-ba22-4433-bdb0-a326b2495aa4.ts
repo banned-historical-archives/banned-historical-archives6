@@ -30,6 +30,14 @@ export default {
                             "独唱",
                         ],
                     },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/毛主席语录歌曲/myl87xa我们应当相信群众.mp3",
+                        sources: [],
+                        artists: [],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
                 ],
                 lyricists: [],
             },
