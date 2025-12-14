@@ -1,27 +1,44 @@
 export default {
-    "resource_type": "music",
-    "entity": {
-        "id": "2d2ef06a-5b5b-428b-a0df-581b448f93b3",
-        "name": "伟大的领袖毛泽东",
-        "description": "",
-        "lyrics": [
+    resource_type: "music",
+    entity: {
+        id: "2d2ef06a-5b5b-428b-a0df-581b448f93b3",
+        name: "伟大的领袖毛泽东",
+        description: "",
+        lyrics: [
             {
-                "content": "",
-                "version": "原版",
-                "audios": [
+                content: "响亮的歌是东方红\n伟大的领袖是毛泽东\n毛泽东 毛泽东\n您是革命人民心中的太阳\n您的光辉思想\n是胜利的保证\n毛泽东 毛泽东\n您是革命人民的导师\n您的革命路线指引着航程\n我们永远热爱您\n伟大的领袖毛泽东\n我们永远歌唱您\n伟大的领袖毛泽东\n",
+                version: "原版",
+                audios: [
                     {
-                        "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/伟大的领袖毛泽东.mp3",
-                        "sources": [
-                            "战地新歌"
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/伟大的领袖毛泽东.mp3",
+                        sources: [
+                            "战地新歌",
                         ],
-                        "artists": [],
-                        "art_forms": []
-                    }
+                        artists: [],
+                        art_forms: [],
+                    },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/weidadelinxiumaozedong.mp3",
+                        sources: [],
+                        artists: [
+                            {
+                                name: "合唱",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
                 ],
-                "lyricists": []
-            }
+                lyricists: [
+                    "晨钟",
+                ],
+            },
         ],
-        "composers": []
+        composers: [
+            "田光",
+        ],
     },
-    "version": 2
-}
+    version: 2,
+};
