@@ -37,6 +37,16 @@ export default {
                         artists: [],
                         art_forms: [],
                     },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/大海航行靠舵手（军乐伴奏）.mp3",
+                        sources: [
+                            "战地新歌",
+                        ],
+                        artists: [],
+                        art_forms: [
+                            "军乐伴奏",
+                        ],
+                    },
                 ],
                 lyricists: [
                     "郁文",
