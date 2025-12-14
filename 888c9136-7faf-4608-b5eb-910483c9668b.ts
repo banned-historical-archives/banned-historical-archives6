@@ -1,0 +1,40 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "庆丰收",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2054/8.mp3",
+                        sources: [
+                            "中国唱片m2054",
+                        ],
+                        artists: [
+                            {
+                                name: "郑石生",
+                                type: "演奏",
+                            },
+                            {
+                                name: "林恩蓓",
+                                type: "钢琴伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "小提琴独奏",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "888c9136-7faf-4608-b5eb-910483c9668b",
+        composers: [
+            "张静平",
+        ],
+    },
+    version: 2,
+};
