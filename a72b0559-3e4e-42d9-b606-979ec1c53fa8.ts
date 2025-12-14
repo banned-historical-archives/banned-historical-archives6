@@ -1,0 +1,37 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "高举革命大旗",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/xm1000/2.mp3",
+                        sources: [
+                            "中国唱片xm1000",
+                        ],
+                        artists: [
+                            {
+                                name: "赵琼",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "铜管乐队",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "a72b0559-3e4e-42d9-b606-979ec1c53fa8",
+        composers: [
+            "齐国栋",
+            "孟波",
+        ],
+    },
+    version: 2,
+};

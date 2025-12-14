@@ -1,0 +1,36 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "一定要把胜利的旗帜插到台湾",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/xm1000/5.mp3",
+                        sources: [
+                            "中国唱片xm1000",
+                        ],
+                        artists: [
+                            {
+                                name: "赵琼",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "铜管乐队",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "099f4f9e-28be-4124-8d19-59d7b143cacc",
+        composers: [
+            "晓河",
+        ],
+    },
+    version: 2,
+};
