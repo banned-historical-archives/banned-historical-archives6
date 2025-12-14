@@ -2,7 +2,7 @@ export default {
     "resource_type": "music",
     "entity": {
         "id": "8f9a38f1-27a3-4d52-971e-c8d578bf61ae",
-        "name": "山乡盼着你们来（非原唱）",
+        "name": "山乡盼着你们来",
         "description": "",
         "lyrics": [
             {
