@@ -1,7 +1,7 @@
 export default {
   resource_type: 'music',
   entity: {
-    name: '想念毛主席',
+    name: '想念毛主席(小众版本)',
     description: '',
     lyrics: [
       {
