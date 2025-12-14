@@ -3,7 +3,7 @@ export default {
   version: 2,
   entity: {
     id: '0deb038c-55dc-4797-86a0-d4e26d534a5c',
-    name: '全世界人民团结起来',
+    name: '全世界人民团结起来(小众版本)',
     description: '',
     tags: [
       '语录歌',
