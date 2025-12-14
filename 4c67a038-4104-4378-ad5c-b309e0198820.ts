@@ -1,27 +1,40 @@
 export default {
-    "resource_type": "music",
-    "entity": {
-        "id": "4c67a038-4104-4378-ad5c-b309e0198820",
-        "name": "咱是支农服务队",
-        "description": "",
-        "lyrics": [
+    resource_type: "music",
+    entity: {
+        id: "4c67a038-4104-4378-ad5c-b309e0198820",
+        name: "咱是支农服务队",
+        description: "",
+        lyrics: [
             {
-                "content": "",
-                "version": "原版",
-                "audios": [
+                content: "",
+                version: "原版",
+                audios: [
                     {
-                        "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/咱是支农服务队.mp3",
-                        "sources": [
-                            "战地新歌"
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/咱是支农服务队.mp3",
+                        sources: [
+                            "战地新歌",
                         ],
-                        "artists": [],
-                        "art_forms": []
-                    }
+                        artists: [],
+                        art_forms: [],
+                    },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/543咱是支农服务队 黑龙江省歌舞团.mp3",
+                        sources: [],
+                        artists: [
+                            {
+                                name: "黑龙江省歌舞团",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "独唱",
+                        ],
+                    },
                 ],
-                "lyricists": []
-            }
+                lyricists: [],
+            },
         ],
-        "composers": []
+        composers: [],
     },
-    "version": 2
-}
+    version: 2,
+};
