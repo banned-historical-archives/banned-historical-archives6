@@ -1,7 +1,7 @@
 export default {
   resource_type: 'music',
   entity: {
-    name: '丰收歌',
+    name: '丰收歌(小众版本)',
     description: '',
     lyrics: [
       {
