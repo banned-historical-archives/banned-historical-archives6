@@ -1,0 +1,37 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "大柳树下育新人",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/L0004/3.mp3",
+                        sources: [
+                            "中国唱片L0004",
+                        ],
+                        artists: [
+                            {
+                                name: "孙大方",
+                                type: "演奏",
+                            },
+                        ],
+                        art_forms: [
+                            "圆号独奏",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "74347aba-fd73-4a27-adb1-e3d68cadd0a9",
+        composers: [
+            "孙大方",
+            "季福玉",
+        ],
+    },
+    version: 2,
+};
