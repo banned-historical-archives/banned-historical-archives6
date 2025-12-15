@@ -1,0 +1,46 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "紧握战斗的刹把",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2314/5.mp3",
+                        sources: [
+                            "中国唱片m2314",
+                        ],
+                        artists: [
+                            {
+                                name: "孙守义",
+                                type: "领唱",
+                            },
+                            {
+                                name: "黑龙江歌舞团",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "领唱 男声合唱",
+                        ],
+                    },
+                ],
+                lyricists: [
+                    "王德",
+                    "邢籁",
+                    "吴源",
+                ],
+            },
+        ],
+        id: "ee0c7479-808d-472c-b4c1-b522e5c964e5",
+        composers: [
+            "暴侠",
+            "俊源",
+            "乐驷",
+        ],
+    },
+    version: 2,
+};

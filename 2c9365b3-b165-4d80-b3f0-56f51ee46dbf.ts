@@ -1,0 +1,50 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "新型矿区建起来",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2314/6.mp3",
+                        sources: [
+                            "中国唱片m2314",
+                        ],
+                        artists: [
+                            {
+                                name: "王淑珍",
+                                type: "对唱",
+                            },
+                            {
+                                name: "刘志杰",
+                                type: "对唱",
+                            },
+                            {
+                                name: "黑龙江歌舞团",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "对唱 合唱",
+                        ],
+                    },
+                ],
+                lyricists: [
+                    "王德",
+                    "邢籁",
+                    "吴源",
+                ],
+            },
+        ],
+        id: "2c9365b3-b165-4d80-b3f0-56f51ee46dbf",
+        composers: [
+            "暴侠",
+            "俊源",
+            "乐驷",
+        ],
+    },
+    version: 2,
+};

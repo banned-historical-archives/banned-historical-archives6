@@ -1,0 +1,50 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "创业歌",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2314/3.mp3",
+                        sources: [
+                            "中国唱片m2314",
+                        ],
+                        artists: [
+                            {
+                                name: "吕巍",
+                                type: "领唱",
+                            },
+                            {
+                                name: "王淑杰",
+                                type: "领唱",
+                            },
+                            {
+                                name: "黑龙江歌舞团",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "领唱 合唱",
+                        ],
+                    },
+                ],
+                lyricists: [
+                    "王德",
+                    "邢籁",
+                    "吴源",
+                ],
+            },
+        ],
+        id: "0bf5499f-f2d2-4ad6-86c8-886d81567e1f",
+        composers: [
+            "暴侠",
+            "俊源",
+            "乐驷",
+        ],
+    },
+    version: 2,
+};
