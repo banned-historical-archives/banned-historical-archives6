@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "红卫兵战歌",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m861/5.mp3",
+                        sources: [
+                            "中国唱片m861",
+                        ],
+                        artists: [
+                            {
+                                name: "上海合唱团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "6caba622-dadd-4e53-9573-a7565e860dcf",
+        composers: [],
+    },
+    version: 2,
+};

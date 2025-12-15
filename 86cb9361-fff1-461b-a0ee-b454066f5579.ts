@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "领导我们事业的核心力量",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m861/2.mp3",
+                        sources: [
+                            "中国唱片m861",
+                        ],
+                        artists: [
+                            {
+                                name: "上海合唱团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "86cb9361-fff1-461b-a0ee-b454066f5579",
+        composers: [],
+    },
+    version: 2,
+};

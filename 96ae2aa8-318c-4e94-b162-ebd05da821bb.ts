@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "我们走在大路上",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m861/10.mp3",
+                        sources: [
+                            "中国唱片m861",
+                        ],
+                        artists: [
+                            {
+                                name: "上海合唱团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "96ae2aa8-318c-4e94-b162-ebd05da821bb",
+        composers: [],
+    },
+    version: 2,
+};

@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "大海航行靠舵手",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m861/8.mp3",
+                        sources: [
+                            "中国唱片m861",
+                        ],
+                        artists: [
+                            {
+                                name: "蔡国屏",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "男高音独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "af219e7d-e713-4ed2-afe7-8779eb57e233",
+        composers: [],
+    },
+    version: 2,
+};
