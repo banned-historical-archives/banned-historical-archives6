@@ -1,0 +1,29 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "劳动曲",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2002/11.mp3",
+                        sources: [
+                            "中国唱片m2002",
+                        ],
+                        artists: [],
+                        art_forms: [
+                            "冬不拉齐奏",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "76179b06-1ead-43f6-b4f0-31b3f0530002",
+        composers: [],
+    },
+    version: 2,
+};

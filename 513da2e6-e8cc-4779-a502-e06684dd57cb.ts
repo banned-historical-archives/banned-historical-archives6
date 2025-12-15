@@ -1,0 +1,29 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "高歌猛进",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2002/9.mp3",
+                        sources: [
+                            "中国唱片m2002",
+                        ],
+                        artists: [],
+                        art_forms: [
+                            "冬不拉齐奏",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "513da2e6-e8cc-4779-a502-e06684dd57cb",
+        composers: [],
+    },
+    version: 2,
+};

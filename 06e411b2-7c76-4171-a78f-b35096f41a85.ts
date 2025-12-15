@@ -1,0 +1,29 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "春光万里红旗扬",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2002/7.mp3",
+                        sources: [
+                            "中国唱片m2002",
+                        ],
+                        artists: [],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "06e411b2-7c76-4171-a78f-b35096f41a85",
+        composers: [],
+    },
+    version: 2,
+};
