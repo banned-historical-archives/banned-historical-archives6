@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "咱们要大干",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2041/3.mp3",
+                        sources: [
+                            "中国唱片m2041",
+                        ],
+                        artists: [
+                            {
+                                name: "郑如龙",
+                                type: "指挥",
+                            },
+                            {
+                                name: "福建省歌舞团",
+                                type: "演唱",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "ae409e67-220c-4e7e-93d7-c5d243863c96",
+        composers: [],
+    },
+    version: 2,
+};
