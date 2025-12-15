@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "中阿友谊万古长青",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/xm1029/7.mp3",
+                        sources: [
+                            "中国唱片xm1029",
+                        ],
+                        artists: [
+                            {
+                                name: "中央音乐学院",
+                                type: "合唱",
+                            },
+                            {
+                                name: "中央广播文工团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "48cf14da-a0a3-4752-bd94-f4f213463239",
+        composers: [],
+    },
+    version: 2,
+};

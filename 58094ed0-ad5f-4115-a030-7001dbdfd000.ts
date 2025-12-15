@@ -1,0 +1,36 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "在共同的革命道路上前进",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/xm1029/5.mp3",
+                        sources: [
+                            "中国唱片xm1029",
+                        ],
+                        artists: [
+                            {
+                                name: "首都革命文艺战士",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [
+                    "恩维尔·霍查",
+                ],
+            },
+        ],
+        id: "58094ed0-ad5f-4115-a030-7001dbdfd000",
+        composers: [],
+    },
+    version: 2,
+};

@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "万岁！伟大的中阿战斗友谊",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/xm1029/6.mp3",
+                        sources: [
+                            "中国唱片xm1029",
+                        ],
+                        artists: [
+                            {
+                                name: "中央音乐学院",
+                                type: "合唱",
+                            },
+                            {
+                                name: "中央广播文工团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "79c40baf-afcd-4cda-bdf8-79f0f2238a0d",
+        composers: [],
+    },
+    version: 2,
+};
