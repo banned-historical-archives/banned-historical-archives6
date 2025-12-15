@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "学习雷锋好榜样",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2265/5.mp3",
+                        sources: [
+                            "中国唱片m2265",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军北京部队政治部歌舞团",
+                                type: "合唱团",
+                            },
+                            {
+                                name: "唐江",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "6fe9983d-ed0d-4c11-b737-682b4130886b",
+        composers: [],
+    },
+    version: 2,
+};

@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "唱支山歌给党听",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2265/8.mp3",
+                        sources: [
+                            "中国唱片m2265",
+                        ],
+                        artists: [
+                            {
+                                name: "才旦卓玛",
+                                type: "独唱",
+                            },
+                            {
+                                name: "上海音乐学院民族乐队",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "女高音独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "b74ca6cd-d67d-4c5b-9786-6b76e40de789",
+        composers: [],
+    },
+    version: 2,
+};
