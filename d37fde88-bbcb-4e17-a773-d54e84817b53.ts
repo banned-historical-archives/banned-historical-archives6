@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "民兵进行曲",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m803/10.mp3",
+                        sources: [
+                            "中国唱片m803",
+                        ],
+                        artists: [
+                            {
+                                name: "上海警乐团",
+                                type: "演奏",
+                            },
+                        ],
+                        art_forms: [
+                            "管乐合奏",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "d37fde88-bbcb-4e17-a773-d54e84817b53",
+        composers: [],
+    },
+    version: 2,
+};
