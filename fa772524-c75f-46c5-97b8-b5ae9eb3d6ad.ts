@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "毛泽东思想是我们心中永远不落的红太阳",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m856/3.mp3",
+                        sources: [
+                            "中国唱片m856",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军海军海字184部队毛泽东思想宣传队",
+                                type: "演唱队",
+                            },
+                        ],
+                        art_forms: [
+                            "男声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "fa772524-c75f-46c5-97b8-b5ae9eb3d6ad",
+        composers: [],
+    },
+    version: 2,
+};

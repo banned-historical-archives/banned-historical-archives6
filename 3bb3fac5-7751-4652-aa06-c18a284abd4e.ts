@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "革命干劲宝书中学来",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m856/11.mp3",
+                        sources: [
+                            "中国唱片m856",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军驻沪空军毛泽东思想宣传队",
+                                type: "演唱队",
+                            },
+                        ],
+                        art_forms: [
+                            "表演唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "3bb3fac5-7751-4652-aa06-c18a284abd4e",
+        composers: [],
+    },
+    version: 2,
+};
