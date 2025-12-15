@@ -1,0 +1,46 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "伐木工人歌",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2056/6.mp3",
+                        sources: [
+                            "中国唱片m2056",
+                        ],
+                        artists: [
+                            {
+                                name: "王凯平",
+                                type: "领唱",
+                            },
+                            {
+                                name: "吉林省歌舞团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "李明俊",
+                                type: "伴奏",
+                            },
+                            {
+                                name: "亢杰",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "领唱，男声合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "e36a5969-9ffd-4a3c-9bf1-9feef1b42b45",
+        composers: [],
+    },
+    version: 2,
+};

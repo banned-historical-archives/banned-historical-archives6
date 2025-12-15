@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "大寨红花遍地开",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2056/8.mp3",
+                        sources: [
+                            "中国唱片m2056",
+                        ],
+                        artists: [
+                            {
+                                name: "天津歌舞团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "女声合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "66377e4b-bc8f-4fea-852f-573fc69d3ad6",
+        composers: [],
+    },
+    version: 2,
+};

@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "公社喜开丰收镰",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2056/11.mp3",
+                        sources: [
+                            "中国唱片m2056",
+                        ],
+                        artists: [
+                            {
+                                name: "陆青霜",
+                                type: "独唱",
+                            },
+                            {
+                                name: "中央广播文工团民族乐队",
+                                type: "伴奏",
+                            },
+                            {
+                                name: "刘森",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "c8f97166-035f-4cee-913b-fdca098d0cbe",
+        composers: [],
+    },
+    version: 2,
+};

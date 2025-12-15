@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "我为革命多炼钢",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2056/4.mp3",
+                        sources: [
+                            "中国唱片m2056",
+                        ],
+                        artists: [
+                            {
+                                name: "山东省歌舞团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "赵河",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "男声齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "ce6358eb-3325-4cd5-8207-1221fa1512e0",
+        composers: [],
+    },
+    version: 2,
+};

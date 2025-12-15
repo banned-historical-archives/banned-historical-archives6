@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "农业学大寨",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2056/7.mp3",
+                        sources: [
+                            "中国唱片m2056",
+                        ],
+                        artists: [
+                            {
+                                name: "上海歌剧院",
+                                type: "合唱",
+                            },
+                            {
+                                name: "上海电影乐团",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "f72a30bf-33d3-4b58-abee-eb167122dc49",
+        composers: [],
+    },
+    version: 2,
+};
