@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "五·七战士上山来",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2213/2.mp3",
+                        sources: [
+                            "中国唱片m2213",
+                        ],
+                        artists: [
+                            {
+                                name: "张延鹏",
+                                type: "独唱",
+                            },
+                            {
+                                name: "中央五·七艺术大学音乐学院",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "男声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "51bae449-6c5d-4778-9ab7-bf5b84a0a705",
+        composers: [],
+    },
+    version: 2,
+};

@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "五·七路上向前走",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2213/5.mp3",
+                        sources: [
+                            "中国唱片m2213",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军总政治部歌舞团",
+                                type: "齐唱",
+                            },
+                            {
+                                name: "李延",
+                                type: "钢琴伴奏",
+                            },
+                            {
+                                name: "姚家杰",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "03a19ee6-1ae3-49fe-b41d-cfec9828e5cb",
+        composers: [],
+    },
+    version: 2,
+};

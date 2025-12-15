@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "七·二一大道金光闪耀",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2213/6.mp3",
+                        sources: [
+                            "中国唱片m2213",
+                        ],
+                        artists: [
+                            {
+                                name: "上海广播乐团",
+                                type: "齐唱",
+                            },
+                            {
+                                name: "杨韵华",
+                                type: "钢琴伴奏",
+                            },
+                            {
+                                name: "李金声",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "4bbd1af6-eec1-4cf3-ae1c-aaf3bdb73ffc",
+        composers: [],
+    },
+    version: 2,
+};

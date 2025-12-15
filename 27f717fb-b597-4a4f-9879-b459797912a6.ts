@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "五·七战士胸怀朝阳",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2213/10.mp3",
+                        sources: [
+                            "中国唱片m2213",
+                        ],
+                        artists: [
+                            {
+                                name: "北京广播学院",
+                                type: "合唱",
+                            },
+                            {
+                                name: "王露意",
+                                type: "钢琴伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "男声合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "27f717fb-b597-4a4f-9879-b459797912a6",
+        composers: [],
+    },
+    version: 2,
+};

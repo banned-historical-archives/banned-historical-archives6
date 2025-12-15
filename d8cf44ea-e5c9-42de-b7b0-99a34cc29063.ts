@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "五·七战士之歌",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2213/1.mp3",
+                        sources: [
+                            "中国唱片m2213",
+                        ],
+                        artists: [
+                            {
+                                name: "中国歌剧团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "陈文",
+                                type: "钢琴伴奏",
+                            },
+                            {
+                                name: "方松甫",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "d8cf44ea-e5c9-42de-b7b0-99a34cc29063",
+        composers: [],
+    },
+    version: 2,
+};

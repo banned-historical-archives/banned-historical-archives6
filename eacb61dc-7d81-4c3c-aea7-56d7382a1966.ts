@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "五·七干校老羊倌",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2213/4.mp3",
+                        sources: [
+                            "中国唱片m2213",
+                        ],
+                        artists: [
+                            {
+                                name: "王凯平",
+                                type: "独唱",
+                            },
+                            {
+                                name: "赵碧璇",
+                                type: "钢琴伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "男声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "eacb61dc-7d81-4c3c-aea7-56d7382a1966",
+        composers: [],
+    },
+    version: 2,
+};
