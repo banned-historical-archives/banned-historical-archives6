@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "合作医疗开红花",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2123/11.mp3",
+                        sources: [
+                            "中国唱片m2123",
+                        ],
+                        artists: [
+                            {
+                                name: "张云珍",
+                                type: "二重唱",
+                            },
+                            {
+                                name: "张先玉",
+                                type: "二重唱",
+                            },
+                            {
+                                name: "张景平",
+                                type: "手风琴伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "女声二重唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "f0e6e11b-19ce-469c-afde-324ae373d29f",
+        composers: [],
+    },
+    version: 2,
+};

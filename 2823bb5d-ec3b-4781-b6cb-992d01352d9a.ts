@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "当年老李回乡来",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2123/8.mp3",
+                        sources: [
+                            "中国唱片m2123",
+                        ],
+                        artists: [
+                            {
+                                name: "罗德成",
+                                type: "独唱",
+                            },
+                            {
+                                name: "陈述刘",
+                                type: "钢琴伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "男声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "2823bb5d-ec3b-4781-b6cb-992d01352d9a",
+        composers: [],
+    },
+    version: 2,
+};

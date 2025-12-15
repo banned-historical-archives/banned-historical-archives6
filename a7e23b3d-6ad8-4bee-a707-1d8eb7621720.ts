@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "向阳大院开红花",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2123/12.mp3",
+                        sources: [
+                            "中国唱片m2123",
+                        ],
+                        artists: [
+                            {
+                                name: "中央广播文工团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "女声合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "a7e23b3d-6ad8-4bee-a707-1d8eb7621720",
+        composers: [],
+    },
+    version: 2,
+};

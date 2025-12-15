@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "炉长灯前学理论",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2123/5.mp3",
+                        sources: [
+                            "中国唱片m2123",
+                        ],
+                        artists: [
+                            {
+                                name: "金有功",
+                                type: "独唱",
+                            },
+                            {
+                                name: "黎耘",
+                                type: "钢琴伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "男声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "561b14c5-af31-4455-874e-e95f4a9b1919",
+        composers: [],
+    },
+    version: 2,
+};

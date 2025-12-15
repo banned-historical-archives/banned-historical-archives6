@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "党是春雨我是苗",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2123/7.mp3",
+                        sources: [
+                            "中国唱片m2123",
+                        ],
+                        artists: [
+                            {
+                                name: "葛军",
+                                type: "独唱",
+                            },
+                            {
+                                name: "江西省歌舞团乐队",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "04163e90-c535-4d0e-aa8a-34470f1efe4b",
+        composers: [],
+    },
+    version: 2,
+};
