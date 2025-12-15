@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "三八作风歌",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m804/1.mp3",
+                        sources: [
+                            "中国唱片m804",
+                        ],
+                        artists: [
+                            {
+                                name: "中央乐团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "中央广播合唱团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "d39724d8-7aa0-4b53-9276-a42acd5da163",
+        composers: [],
+    },
+    version: 2,
+};

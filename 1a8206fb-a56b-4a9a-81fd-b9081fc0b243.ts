@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "铁道兵志在四方",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m804/7.mp3",
+                        sources: [
+                            "中国唱片m804",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军铁道兵政治部歌舞团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "男声合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "1a8206fb-a56b-4a9a-81fd-b9081fc0b243",
+        composers: [],
+    },
+    version: 2,
+};

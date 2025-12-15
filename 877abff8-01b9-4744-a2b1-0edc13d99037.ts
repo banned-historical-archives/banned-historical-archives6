@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "三大纪律八项注意",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m804/2.mp3",
+                        sources: [
+                            "中国唱片m804",
+                        ],
+                        artists: [
+                            {
+                                name: "音乐舞蹈史诗《东方红》合唱队",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "男声齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "877abff8-01b9-4744-a2b1-0edc13d99037",
+        composers: [],
+    },
+    version: 2,
+};
