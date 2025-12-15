@@ -1,0 +1,54 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "毛主席恩情比海深",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2209/5.mp3",
+                        sources: [
+                            "中国唱片m2209",
+                        ],
+                        artists: [
+                            {
+                                name: "冯健雪",
+                                type: "女声独唱",
+                            },
+                            {
+                                name: "仇明德",
+                                type: "指挥",
+                            },
+                            {
+                                name: "刘大冬",
+                                type: "指挥",
+                            },
+                            {
+                                name: "杨洁明",
+                                type: "指挥",
+                            },
+                            {
+                                name: "李长青",
+                                type: "指挥",
+                            },
+                            {
+                                name: "陕西省歌舞剧院",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "264b3bf4-edbc-4b3a-97bc-cff070e0a7aa",
+        composers: [],
+    },
+    version: 2,
+};
