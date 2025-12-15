@@ -1,0 +1,46 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "神圣的领土不许侵犯",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2042/11.mp3",
+                        sources: [
+                            "中国唱片m2042",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军军乐团",
+                                type: "演奏",
+                            },
+                            {
+                                name: "程义明",
+                                type: "指挥",
+                            },
+                            {
+                                name: "刘玉宝",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "铜管乐",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "5d3acc1c-9857-4be8-a258-3f414e7877f6",
+        composers: [
+            "栾仁杰",
+            "郑秋枫",
+            "曹俊山",
+        ],
+    },
+    version: 2,
+};

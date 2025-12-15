@@ -1,0 +1,45 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "我们的朋友遍天下",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2042/12.mp3",
+                        sources: [
+                            "中国唱片m2042",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军军乐团",
+                                type: "演奏",
+                            },
+                            {
+                                name: "程义明",
+                                type: "指挥",
+                            },
+                            {
+                                name: "刘玉宝",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "铜管乐",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "9174a799-591d-42c3-b651-66ff5403f566",
+        composers: [
+            "李廷生",
+            "辽宁省革命样板戏学习班",
+        ],
+    },
+    version: 2,
+};

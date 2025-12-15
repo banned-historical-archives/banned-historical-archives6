@@ -1,0 +1,46 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "党领导我们胜利前进",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2042/7.mp3",
+                        sources: [
+                            "中国唱片m2042",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军军乐团",
+                                type: "演奏",
+                            },
+                            {
+                                name: "程义明",
+                                type: "指挥",
+                            },
+                            {
+                                name: "刘玉宝",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "铜管乐",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "2807f6c2-a27a-451c-a1da-3a621f167729",
+        composers: [
+            "彦克",
+            "陆祖龙",
+            "魏群",
+        ],
+    },
+    version: 2,
+};

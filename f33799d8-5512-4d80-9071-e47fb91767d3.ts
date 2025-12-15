@@ -1,0 +1,46 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "我们是矿工也是兵",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2042/10.mp3",
+                        sources: [
+                            "中国唱片m2042",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军军乐团",
+                                type: "演奏",
+                            },
+                            {
+                                name: "程义明",
+                                type: "指挥",
+                            },
+                            {
+                                name: "刘玉宝",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "铜管乐",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "f33799d8-5512-4d80-9071-e47fb91767d3",
+        composers: [
+            "季福玉",
+            "张呈",
+            "子烈",
+        ],
+    },
+    version: 2,
+};
