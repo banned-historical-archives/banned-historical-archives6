@@ -1,0 +1,36 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "什么人是革命派，什么人是反革命派，什么人是口头革命派",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m805/4.mp3",
+                        sources: [
+                            "中国唱片m805",
+                        ],
+                        artists: [
+                            {
+                                name: "中央广播文工团合唱团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [
+                    "毛主席",
+                ],
+            },
+        ],
+        id: "c0b992bc-7679-4b29-8c4f-a9728073371f",
+        composers: [],
+    },
+    version: 2,
+};

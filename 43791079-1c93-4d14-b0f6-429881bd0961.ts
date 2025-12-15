@@ -1,0 +1,36 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "纪念白求恩",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m805/19.mp3",
+                        sources: [
+                            "中国唱片m805",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军总政文工团歌舞团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [
+                    "毛主席",
+                ],
+            },
+        ],
+        id: "43791079-1c93-4d14-b0f6-429881bd0961",
+        composers: [],
+    },
+    version: 2,
+};

@@ -1,0 +1,36 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "完全彻底为人民",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m805/14.mp3",
+                        sources: [
+                            "中国唱片m805",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军战友文工团歌舞团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [
+                    "毛主席",
+                ],
+            },
+        ],
+        id: "52983e44-c6f0-4c0d-a203-14b8529b7bbc",
+        composers: [],
+    },
+    version: 2,
+};

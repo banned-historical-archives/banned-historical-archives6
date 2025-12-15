@@ -1,0 +1,36 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "希望寄托在你们身上",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m805/13.mp3",
+                        sources: [
+                            "中国唱片m805",
+                        ],
+                        artists: [
+                            {
+                                name: "中央广播文工团合唱团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [
+                    "毛主席",
+                ],
+            },
+        ],
+        id: "138d08e7-e5ef-49a9-a1d3-88dfb9534c31",
+        composers: [],
+    },
+    version: 2,
+};

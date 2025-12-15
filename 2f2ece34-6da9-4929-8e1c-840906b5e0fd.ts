@@ -1,0 +1,36 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "毫不利己专门利人",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m805/20.mp3",
+                        sources: [
+                            "中国唱片m805",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军总政文工团歌舞团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [
+                    "毛主席",
+                ],
+            },
+        ],
+        id: "2f2ece34-6da9-4929-8e1c-840906b5e0fd",
+        composers: [],
+    },
+    version: 2,
+};
