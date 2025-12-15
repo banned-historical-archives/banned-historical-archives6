@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "文化大革命凯歌响彻大地",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2218/8.mp3",
+                        sources: [
+                            "中国唱片m2218",
+                        ],
+                        artists: [
+                            {
+                                name: "方玲玲",
+                                type: "独唱",
+                            },
+                            {
+                                name: "吕青宝",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "9bb628f1-4c18-403d-a9c8-b70813950329",
+        composers: [],
+    },
+    version: 2,
+};

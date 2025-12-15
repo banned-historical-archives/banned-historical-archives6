@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "这里是毛主席来过的地方",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2218/7.mp3",
+                        sources: [
+                            "中国唱片m2218",
+                        ],
+                        artists: [
+                            {
+                                name: "王凯平",
+                                type: "独唱",
+                            },
+                            {
+                                name: "朱珊珊",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "男声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "1a5ce1a7-863a-49da-945d-c6d86f74af03",
+        composers: [],
+    },
+    version: 2,
+};

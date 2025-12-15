@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "毛委员来到我家乡",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2218/4.mp3",
+                        sources: [
+                            "中国唱片m2218",
+                        ],
+                        artists: [
+                            {
+                                name: "林淑娟",
+                                type: "独唱",
+                            },
+                            {
+                                name: "福建省龙岩县山歌剧团民乐队",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "3a8919d2-36c7-43b7-94b2-b692862aed9d",
+        composers: [],
+    },
+    version: 2,
+};

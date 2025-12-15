@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "心中的太阳永不落",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2218/5.mp3",
+                        sources: [
+                            "中国唱片m2218",
+                        ],
+                        artists: [
+                            {
+                                name: "周建丽",
+                                type: "独唱",
+                            },
+                            {
+                                name: "李爱华",
+                                type: "指挥",
+                            },
+                            {
+                                name: "银川市文工团乐队",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "dc1f586d-fac6-4c7e-b80d-a3831a1a0fac",
+        composers: [],
+    },
+    version: 2,
+};

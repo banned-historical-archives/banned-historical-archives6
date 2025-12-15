@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "我爱井冈山",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2218/3.mp3",
+                        sources: [
+                            "中国唱片m2218",
+                        ],
+                        artists: [
+                            {
+                                name: "方玲玲",
+                                type: "独唱",
+                            },
+                            {
+                                name: "吕青宝",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "9de50d66-49c0-4c8e-bb19-9c63a7c41821",
+        composers: [],
+    },
+    version: 2,
+};
