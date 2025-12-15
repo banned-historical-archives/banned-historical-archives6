@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "举国欢腾庆胜利",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2236/8.mp3",
+                        sources: [
+                            "中国唱片m2236",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军铁道兵政治部文工团",
+                                type: "齐唱",
+                            },
+                            {
+                                name: "夏康",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "b1e12e78-ab7c-486e-a065-7d1c521f045d",
+        composers: [],
+    },
+    version: 2,
+};

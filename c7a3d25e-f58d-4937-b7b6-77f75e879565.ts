@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "在华主席为首的党中央周围团结起来",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2236/10.mp3",
+                        sources: [
+                            "中国唱片m2236",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军广州部队政治部歌舞团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "陈瑞华",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "男声合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "c7a3d25e-f58d-4937-b7b6-77f75e879565",
+        composers: [],
+    },
+    version: 2,
+};

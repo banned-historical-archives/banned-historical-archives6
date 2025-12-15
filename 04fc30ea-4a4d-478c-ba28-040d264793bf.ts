@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "大干社会主义无比光荣",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2236/12.mp3",
+                        sources: [
+                            "中国唱片m2236",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军海军政治部歌舞团",
+                                type: "齐唱",
+                            },
+                            {
+                                name: "鞠真",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "04fc30ea-4a4d-478c-ba28-040d264793bf",
+        composers: [],
+    },
+    version: 2,
+};

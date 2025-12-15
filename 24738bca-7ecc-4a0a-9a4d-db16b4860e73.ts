@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "热烈欢呼胜利",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2236/16.mp3",
+                        sources: [
+                            "中国唱片m2236",
+                        ],
+                        artists: [
+                            {
+                                name: "中央广播文工团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "聂中明",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "24738bca-7ecc-4a0a-9a4d-db16b4860e73",
+        composers: [],
+    },
+    version: 2,
+};

@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "打倒“四人帮”,人民喜洋洋",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2236/1.mp3",
+                        sources: [
+                            "中国唱片m2236",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军空军政治部歌舞团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "姚学诚",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "女声合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "03ffb7f7-6ea1-4dfd-ba59-b3d0e950782a",
+        composers: [],
+    },
+    version: 2,
+};
