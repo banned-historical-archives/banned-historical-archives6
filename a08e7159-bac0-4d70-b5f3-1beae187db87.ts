@@ -1,0 +1,40 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "得芒诺",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/xm990/4.mp3",
+                        sources: [
+                            "中国唱片xm990",
+                        ],
+                        artists: [
+                            {
+                                name: "民乐小组",
+                                type: "伴奏",
+                            },
+                            {
+                                name: "老挝爱过战线党文工团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "女声合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "a08e7159-bac0-4d70-b5f3-1beae187db87",
+        composers: [
+            "通万",
+        ],
+    },
+    version: 2,
+};
