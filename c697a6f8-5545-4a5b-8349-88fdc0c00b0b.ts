@@ -1,0 +1,46 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "工农兵学员之歌",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2043/13.mp3",
+                        sources: [
+                            "中国唱片m2043",
+                        ],
+                        artists: [
+                            {
+                                name: "中央广播文工团合唱团",
+                                type: "演唱",
+                            },
+                            {
+                                name: "周勤龄",
+                                type: "手风琴伴奏",
+                            },
+                            {
+                                name: "王露意",
+                                type: "手风琴伴奏",
+                            },
+                            {
+                                name: "聂中明",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "c697a6f8-5545-4a5b-8349-88fdc0c00b0b",
+        composers: [],
+    },
+    version: 2,
+};

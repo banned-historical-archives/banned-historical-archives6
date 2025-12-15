@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "红色女话务兵",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2043/10.mp3",
+                        sources: [
+                            "中国唱片m2043",
+                        ],
+                        artists: [
+                            {
+                                name: "邓韵",
+                                type: "独唱",
+                            },
+                            {
+                                name: "中国人民解放军广州部队歌舞团管弦乐队",
+                                type: "伴奏",
+                            },
+                            {
+                                name: "陈瑞华",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "2119d207-0725-4bed-9308-bf2e0149d3e5",
+        composers: [],
+    },
+    version: 2,
+};
