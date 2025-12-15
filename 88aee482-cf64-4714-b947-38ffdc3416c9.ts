@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "一切听从党指挥",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2078/2.mp3",
+                        sources: [
+                            "中国唱片m2078",
+                        ],
+                        artists: [
+                            {
+                                name: "吉林省歌舞团合唱队",
+                                type: "合唱",
+                            },
+                            {
+                                name: "长春电影制片厂乐团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "张眉",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "88aee482-cf64-4714-b947-38ffdc3416c9",
+        composers: [],
+    },
+    version: 2,
+};

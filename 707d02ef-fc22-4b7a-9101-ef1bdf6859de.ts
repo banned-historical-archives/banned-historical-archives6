@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "路线对了头，一步一层楼",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2078/5.mp3",
+                        sources: [
+                            "中国唱片m2078",
+                        ],
+                        artists: [
+                            {
+                                name: "辽宁省歌舞团合唱队",
+                                type: "合唱",
+                            },
+                            {
+                                name: "曹澄",
+                                type: "手风琴伴奏",
+                            },
+                            {
+                                name: "汪振波",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "707d02ef-fc22-4b7a-9101-ef1bdf6859de",
+        composers: [],
+    },
+    version: 2,
+};
