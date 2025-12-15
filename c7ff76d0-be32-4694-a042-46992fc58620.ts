@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "工农一家人",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/xm1033/1.mp3",
+                        sources: [
+                            "中国唱片xm1033",
+                        ],
+                        artists: [
+                            {
+                                name: "中央乐团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [
+                    "集体",
+                ],
+            },
+        ],
+        id: "c7ff76d0-be32-4694-a042-46992fc58620",
+        composers: [
+            "聂耳",
+        ],
+    },
+    version: 2,
+};
