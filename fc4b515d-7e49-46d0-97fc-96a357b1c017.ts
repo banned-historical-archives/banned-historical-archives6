@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "前进！伟大的社会主义祖国",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2057/1.mp3",
+                        sources: [
+                            "中国唱片m2057",
+                        ],
+                        artists: [
+                            {
+                                name: "中央广播文工团",
+                                type: "合唱团",
+                            },
+                            {
+                                name: "刘森",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "fc4b515d-7e49-46d0-97fc-96a357b1c017",
+        composers: [],
+    },
+    version: 2,
+};

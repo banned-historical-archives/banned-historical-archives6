@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "地质队员之歌",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2057/5.mp3",
+                        sources: [
+                            "中国唱片m2057",
+                        ],
+                        artists: [
+                            {
+                                name: "吉林省歌舞团",
+                                type: "合唱团",
+                            },
+                            {
+                                name: "亢杰",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "14a4d0d0-f677-403b-b17d-a5fb10435a41",
+        composers: [],
+    },
+    version: 2,
+};
