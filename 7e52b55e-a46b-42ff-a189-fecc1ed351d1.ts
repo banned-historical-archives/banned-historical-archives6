@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "千年的铁树开了花",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m949/5.mp3",
+                        sources: [
+                            "中国唱片m949",
+                        ],
+                        artists: [
+                            {
+                                name: "孙家馨",
+                                type: "独唱",
+                            },
+                            {
+                                name: "杨镜钢",
+                                type: "钢琴伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "女高音独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "7e52b55e-a46b-42ff-a189-fecc1ed351d1",
+        composers: [],
+    },
+    version: 2,
+};

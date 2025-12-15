@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "毛主席指引革命路",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m949/1.mp3",
+                        sources: [
+                            "中国唱片m949",
+                        ],
+                        artists: [
+                            {
+                                name: "余章平",
+                                type: "领唱",
+                            },
+                            {
+                                name: "严良堃",
+                                type: "指挥",
+                            },
+                            {
+                                name: "中央乐团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "领唱、合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "279b1390-e06b-495c-a8fb-63ea85283b9f",
+        composers: [],
+    },
+    version: 2,
+};

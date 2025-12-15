@@ -1,0 +1,50 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "撒尼人民心向红太阳",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m949/8.mp3",
+                        sources: [
+                            "中国唱片m949",
+                        ],
+                        artists: [
+                            {
+                                name: "杜丽华",
+                                type: "独唱",
+                            },
+                            {
+                                name: "云南省歌舞团",
+                                type: "伴奏",
+                            },
+                            {
+                                name: "云南省京剧团",
+                                type: "伴奏",
+                            },
+                            {
+                                name: "云南省花灯团",
+                                type: "伴奏",
+                            },
+                            {
+                                name: "王千",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "4edf368d-0eb8-465a-9158-4ecf65e14628",
+        composers: [],
+    },
+    version: 2,
+};

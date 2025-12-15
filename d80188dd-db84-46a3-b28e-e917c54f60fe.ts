@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "团结起来，争取更大的胜利",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m949/7.mp3",
+                        sources: [
+                            "中国唱片m949",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军北京部队政治部宣传队",
+                                type: "合唱",
+                            },
+                            {
+                                name: "韦福根",
+                                type: "手风琴伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "男声合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "d80188dd-db84-46a3-b28e-e917c54f60fe",
+        composers: [],
+    },
+    version: 2,
+};

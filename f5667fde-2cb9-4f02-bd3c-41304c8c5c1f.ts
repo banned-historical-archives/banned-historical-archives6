@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "火红的太阳照山村",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m949/4.mp3",
+                        sources: [
+                            "中国唱片m949",
+                        ],
+                        artists: [
+                            {
+                                name: "朱淑琴",
+                                type: "领唱",
+                            },
+                            {
+                                name: "辽宁省歌舞团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "领唱、女声齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "f5667fde-2cb9-4f02-bd3c-41304c8c5c1f",
+        composers: [],
+    },
+    version: 2,
+};
