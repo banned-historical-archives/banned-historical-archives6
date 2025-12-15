@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "枪杆子永远听党指挥",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2029/2.mp3",
+                        sources: [
+                            "中国唱片m2029",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军沈阳部队歌舞团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "曲仁荣",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "a85176cb-3034-4c96-b4e1-140b7f2b3b76",
+        composers: [],
+    },
+    version: 2,
+};

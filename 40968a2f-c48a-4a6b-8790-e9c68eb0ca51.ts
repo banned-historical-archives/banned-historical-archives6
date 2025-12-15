@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "步调一致向胜利",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2029/3.mp3",
+                        sources: [
+                            "中国唱片m2029",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军歌舞团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "王振民",
+                                type: "指挥",
+                            },
+                            {
+                                name: "耿蔚萍",
+                                type: "手风琴伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "男声齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "40968a2f-c48a-4a6b-8790-e9c68eb0ca51",
+        composers: [],
+    },
+    version: 2,
+};

@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "让青春放光芒",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2029/15.mp3",
+                        sources: [
+                            "中国唱片m2029",
+                        ],
+                        artists: [
+                            {
+                                name: "吉林省歌舞团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "亢杰",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "631ce62e-41c0-49ea-ade5-6200e6d17368",
+        composers: [],
+    },
+    version: 2,
+};

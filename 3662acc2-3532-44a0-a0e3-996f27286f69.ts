@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "练刺杀",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2029/6.mp3",
+                        sources: [
+                            "中国唱片m2029",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军沈阳部队歌舞团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "古利铭",
+                                type: "手风琴伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "男声齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "3662acc2-3532-44a0-a0e3-996f27286f69",
+        composers: [],
+    },
+    version: 2,
+};

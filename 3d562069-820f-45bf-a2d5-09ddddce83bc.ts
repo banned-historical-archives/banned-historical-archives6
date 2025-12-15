@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "革命青年之歌",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2029/13.mp3",
+                        sources: [
+                            "中国唱片m2029",
+                        ],
+                        artists: [
+                            {
+                                name: "天津歌舞团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "王子申",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "3d562069-820f-45bf-a2d5-09ddddce83bc",
+        composers: [],
+    },
+    version: 2,
+};
