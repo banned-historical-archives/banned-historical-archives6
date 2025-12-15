@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "开创世界我工农",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2089/9.mp3",
+                        sources: [
+                            "中国唱片m2089",
+                        ],
+                        artists: [
+                            {
+                                name: "张玉敏",
+                                type: "对唱",
+                            },
+                            {
+                                name: "傅祖光",
+                                type: "对唱",
+                            },
+                            {
+                                name: "姚明忠",
+                                type: "笛子伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "对唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "1b5f0282-b1f1-4bf3-8b3c-747e641f7e26",
+        composers: [],
+    },
+    version: 2,
+};

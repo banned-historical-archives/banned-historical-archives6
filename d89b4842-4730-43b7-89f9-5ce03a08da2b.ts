@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "春风吹遍彝家寨",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2089/6.mp3",
+                        sources: [
+                            "中国唱片m2089",
+                        ],
+                        artists: [
+                            {
+                                name: "李存琏",
+                                type: "独唱",
+                            },
+                            {
+                                name: "四川省歌舞团乐队",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "d89b4842-4730-43b7-89f9-5ce03a08da2b",
+        composers: [],
+    },
+    version: 2,
+};

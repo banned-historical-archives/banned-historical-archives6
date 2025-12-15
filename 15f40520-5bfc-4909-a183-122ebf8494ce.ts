@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "一支山歌飞出岩",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2089/4.mp3",
+                        sources: [
+                            "中国唱片m2089",
+                        ],
+                        artists: [
+                            {
+                                name: "张玉敏",
+                                type: "对唱",
+                            },
+                            {
+                                name: "傅祖光",
+                                type: "对唱",
+                            },
+                            {
+                                name: "湖北省长阳县文工团民乐队",
+                                type: "伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "对唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "15f40520-5bfc-4909-a183-122ebf8494ce",
+        composers: [],
+    },
+    version: 2,
+};

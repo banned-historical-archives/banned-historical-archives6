@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "我一人看了一台戏",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2089/7.mp3",
+                        sources: [
+                            "中国唱片m2089",
+                        ],
+                        artists: [
+                            {
+                                name: "刘人琪",
+                                type: "独唱",
+                            },
+                            {
+                                name: "张帆",
+                                type: "手风琴伴奏",
+                            },
+                        ],
+                        art_forms: [
+                            "男声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "787703de-8db4-481a-9db3-f6d12ddac041",
+        composers: [],
+    },
+    version: 2,
+};
