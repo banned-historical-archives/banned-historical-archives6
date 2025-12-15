@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "采油女工之歌",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2082/4.mp3",
+                        sources: [
+                            "中国唱片m2082",
+                        ],
+                        artists: [
+                            {
+                                name: "山东省歌舞团",
+                                type: "演唱",
+                            },
+                        ],
+                        art_forms: [
+                            "女声合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "d1e3e7ec-3082-469c-9cb8-e0a124479e2b",
+        composers: [],
+    },
+    version: 2,
+};

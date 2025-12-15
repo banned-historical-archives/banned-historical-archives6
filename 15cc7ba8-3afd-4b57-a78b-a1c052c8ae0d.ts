@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "矿工大干社会主义有劲头",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2082/3.mp3",
+                        sources: [
+                            "中国唱片m2082",
+                        ],
+                        artists: [
+                            {
+                                name: "黑龙江省歌舞团",
+                                type: "演唱",
+                            },
+                            {
+                                name: "胡增荣",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "15cc7ba8-3afd-4b57-a78b-a1c052c8ae0d",
+        composers: [],
+    },
+    version: 2,
+};

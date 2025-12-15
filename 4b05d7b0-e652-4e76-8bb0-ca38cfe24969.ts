@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "海防民兵打石雷",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2082/11.mp3",
+                        sources: [
+                            "中国唱片m2082",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军南京部队政治部歌舞团",
+                                type: "演唱",
+                            },
+                            {
+                                name: "何仿",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "4b05d7b0-e652-4e76-8bb0-ca38cfe24969",
+        composers: [],
+    },
+    version: 2,
+};

@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "我们是强大的城市民兵",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2082/9.mp3",
+                        sources: [
+                            "中国唱片m2082",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军南京部队政治部歌舞团",
+                                type: "演唱",
+                            },
+                            {
+                                name: "何仿",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "626f8a2b-2a76-4131-a79f-083b9c247ad3",
+        composers: [],
+    },
+    version: 2,
+};
