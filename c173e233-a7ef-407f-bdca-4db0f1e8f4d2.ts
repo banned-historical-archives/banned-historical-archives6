@@ -1,0 +1,46 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "国际歌",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/xm959/1.mp3",
+                        sources: [
+                            "中国唱片xm959",
+                        ],
+                        artists: [
+                            {
+                                name: "中央广播文工团合唱团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "朱珊珊",
+                                type: "钢琴伴奏",
+                            },
+                            {
+                                name: "聂中明",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [
+                    "鲍狄埃",
+                ],
+            },
+        ],
+        id: "c173e233-a7ef-407f-bdca-4db0f1e8f4d2",
+        composers: [
+            "狄盖特",
+        ],
+    },
+    version: 2,
+};
