@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "要为祖国献石油",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2083/3.mp3",
+                        sources: [
+                            "中国唱片m2083",
+                        ],
+                        artists: [
+                            {
+                                name: "贾世骏",
+                                type: "演唱",
+                            },
+                            {
+                                name: "中央新闻纪录电影制片厂乐团",
+                                type: "伴奏",
+                            },
+                            {
+                                name: "姚关荣",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "男声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "22c35403-f53e-4309-b96b-50480ea2e72e",
+        composers: [],
+    },
+    version: 2,
+};
