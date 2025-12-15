@@ -1,27 +1,46 @@
 export default {
-    "resource_type": "music",
-    "entity": {
-        "id": "98f67d0f-e385-41bf-a0b8-a9a441ed0f4c",
-        "name": "鲜血凝成的伟大友谊",
-        "description": "",
-        "lyrics": [
+    resource_type: "music",
+    entity: {
+        id: "98f67d0f-e385-41bf-a0b8-a9a441ed0f4c",
+        name: "鲜血凝成的伟大友谊",
+        description: "",
+        lyrics: [
             {
-                "content": "",
-                "version": "原版",
-                "audios": [
+                content: "",
+                version: "原版",
+                audios: [
                     {
-                        "url": "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/鲜血凝成的伟大友谊.mp3",
-                        "sources": [
-                            "战地新歌"
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/鲜血凝成的伟大友谊.mp3",
+                        sources: [
+                            "战地新歌",
                         ],
-                        "artists": [],
-                        "art_forms": []
-                    }
+                        artists: [],
+                        art_forms: [],
+                    },
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m951/3.mp3",
+                        sources: [
+                            "中国唱片m951",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军歌舞团",
+                                type: "演唱并伴奏",
+                            },
+                            {
+                                name: "胡德风",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
                 ],
-                "lyricists": []
-            }
+                lyricists: [],
+            },
         ],
-        "composers": []
+        composers: [],
     },
-    "version": 2
-}
+    version: 2,
+};
