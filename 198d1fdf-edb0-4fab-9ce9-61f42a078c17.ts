@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "咱们工人要大干",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2019/9.mp3",
+                        sources: [
+                            "中国唱片m2019",
+                        ],
+                        artists: [
+                            {
+                                name: "江苏省文工团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "南京艺术学院",
+                                type: "合唱",
+                            },
+                            {
+                                name: "石中光",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "198d1fdf-edb0-4fab-9ce9-61f42a078c17",
+        composers: [],
+    },
+    version: 2,
+};

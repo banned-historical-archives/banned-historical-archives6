@@ -1,0 +1,42 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "太行儿女学大寨",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2019/11.mp3",
+                        sources: [
+                            "中国唱片m2019",
+                        ],
+                        artists: [
+                            {
+                                name: "邢丑花",
+                                type: "演唱",
+                            },
+                            {
+                                name: "山西省人民歌舞剧团乐队",
+                                type: "伴奏",
+                            },
+                            {
+                                name: "李崇望",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "e8987025-72fc-4b3e-9c35-6eaff2ad0b98",
+        composers: [],
+    },
+    version: 2,
+};

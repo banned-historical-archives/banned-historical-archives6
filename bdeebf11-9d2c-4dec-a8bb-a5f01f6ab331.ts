@@ -1,0 +1,38 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "批林批孔当闯将",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m2019/5.mp3",
+                        sources: [
+                            "中国唱片m2019",
+                        ],
+                        artists: [
+                            {
+                                name: "中央广播文工团",
+                                type: "合唱",
+                            },
+                            {
+                                name: "刘森",
+                                type: "指挥",
+                            },
+                        ],
+                        art_forms: [
+                            "合唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "bdeebf11-9d2c-4dec-a8bb-a5f01f6ab331",
+        composers: [],
+    },
+    version: 2,
+};
