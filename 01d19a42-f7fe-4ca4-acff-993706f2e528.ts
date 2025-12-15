@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "你的眼睛像黑葡萄",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/xm964/5.mp3",
+                        sources: [
+                            "中国唱片xm964",
+                        ],
+                        artists: [
+                            {
+                                name: "马里奇·海利",
+                                type: "演唱",
+                            },
+                        ],
+                        art_forms: [
+                            "男高音独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "01d19a42-f7fe-4ca4-acff-993706f2e528",
+        composers: [],
+    },
+    version: 2,
+};
