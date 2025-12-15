@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "毛主席万岁",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m802/9.mp3",
+                        sources: [
+                            "中国唱片m802",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军海军某部战士业余演出队",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "男声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "6d49384c-1503-4117-8e89-5a7d7dc0ba57",
+        composers: [],
+    },
+    version: 2,
+};

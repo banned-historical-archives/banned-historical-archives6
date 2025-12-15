@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "浏阳河",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m802/2.mp3",
+                        sources: [
+                            "中国唱片m802",
+                        ],
+                        artists: [
+                            {
+                                name: "湖南省民间歌舞团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "女声齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "dfca0ca7-f40f-47e2-9ca2-f2be46d5e958",
+        composers: [],
+    },
+    version: 2,
+};

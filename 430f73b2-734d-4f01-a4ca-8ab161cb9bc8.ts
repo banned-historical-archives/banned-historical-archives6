@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "伟大的领袖毛泽东",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m802/1.mp3",
+                        sources: [
+                            "中国唱片m802",
+                        ],
+                        artists: [
+                            {
+                                name: "中央广播文工团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "430f73b2-734d-4f01-a4ca-8ab161cb9bc8",
+        composers: [],
+    },
+    version: 2,
+};

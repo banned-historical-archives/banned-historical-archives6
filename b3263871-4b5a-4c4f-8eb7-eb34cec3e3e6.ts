@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "大海航行靠舵手",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m802/7.mp3",
+                        sources: [
+                            "中国唱片m802",
+                        ],
+                        artists: [
+                            {
+                                name: "中央广播文工团",
+                                type: "合唱",
+                            },
+                        ],
+                        art_forms: [
+                            "齐唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "b3263871-4b5a-4c4f-8eb7-eb34cec3e3e6",
+        composers: [],
+    },
+    version: 2,
+};

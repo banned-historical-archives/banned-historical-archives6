@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "毛主席和我们在一起",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m802/4.mp3",
+                        sources: [
+                            "中国唱片m802",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军广州部队海上文化工作队",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "男声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "97a6d3c9-2950-4c6c-b0d6-d0b3d5835ffa",
+        composers: [],
+    },
+    version: 2,
+};

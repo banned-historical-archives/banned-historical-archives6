@@ -1,0 +1,34 @@
+export default {
+    resource_type: "music",
+    entity: {
+        name: "毛主席恩情似海深",
+        description: "",
+        lyrics: [
+            {
+                content: "",
+                version: "原版",
+                audios: [
+                    {
+                        url: "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives6/main/m802/10.mp3",
+                        sources: [
+                            "中国唱片m802",
+                        ],
+                        artists: [
+                            {
+                                name: "中国人民解放军海军文工团歌舞团",
+                                type: "独唱",
+                            },
+                        ],
+                        art_forms: [
+                            "女声独唱",
+                        ],
+                    },
+                ],
+                lyricists: [],
+            },
+        ],
+        id: "ed211f2c-1fff-4f93-8645-2088ef11f2c6",
+        composers: [],
+    },
+    version: 2,
+};
